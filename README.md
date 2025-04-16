@@ -18,8 +18,6 @@ Its updated when someone tells me something is broken and I can fix it or I star
 
 :exclamation: [Common Issues](CommonIssues.md)
 
-:wrench: [Advanced Extras - including Performance LODs](Advanced.md)
-
 # Need Support?
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/iAmModlist)
 
@@ -33,7 +31,6 @@ Its updated when someone tells me something is broken and I can fix it or I star
   - [Storage Space](#storage-space)
 - [You Will Need](#you-will-need)
 - [Pre-Installation](#pre-installation)
-  - [Creation Club Content](#creation-club-content)
   - [Install Microsoft Visual C++ Redistributable Packages](#install-microsoft-visual-c-redistributable-packages)
   - [Setup your Antivirus](#setup-your-antivirus)
   - [Setup your Page File](#setup-your-page-file)
@@ -84,8 +81,6 @@ Your installation must be on an ***internal*** SSD. External SSDs & HDDs are too
 # Pre-Installation
 
 **This stuff needs to be done BEFORE starting the Wabbajack installation.**
-
-## Creation Club Content
 
 ## Install Microsoft Visual C++ Redistributable Packages
 >[!CAUTION]
