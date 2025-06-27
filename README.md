@@ -14,7 +14,7 @@ I plan at somepoint to make a simple profile that just does Bug Fixes and some g
 Its updated when someone tells me something is broken and I can fix it or I start another play through and look for new mods or the Unoffical Patch Updates.
 
 # Quick Links
-:arrow_down: [All Manual Downloads](https://github.com/daulvec/VtMB---Fashionista/wiki)
+:arrow_down: [All Manual Downloads](Files.md)
 
 :file_folder: [Known Problematic Downloads](ProblematicFiles.md)
 
