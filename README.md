@@ -66,7 +66,7 @@ I made this for my use, I don't care if you don't like the way Malkavians look I
 |-------------|-----------------------------------------------|---------------------|--------------------|
 | What I have | AMD Ryzen 7 5800X3D 8-Core Processor 3.40 GHz | 32GB DDR4 @ 3200MHz | AMD Radeon RX 6950 |
 
-it runs great with my system but its probably fine on a potato PC
+It runs great with my system but its probably fine on a potato PC
 
 
 ## Storage Space
@@ -106,13 +106,12 @@ If you use another antivirus program, refer to their steps for adding an exclusi
 The Steam overlay is known to cause issues, especially when using ENBs. Do so by heading into Steam, right clicking on Skyrim in your game library and clicking **Properties** > **General** > **Deselect "Enable Steam Overlay while in-game"**.
 
 # Installation
-Installing the list is straight forward, Wabbajack will do most of the heavy lifting for you - you only have to tell it where to put stuff.
+Installing the list has a couple steps to it that you will have to follow for this to work.
 
 Set the installation location to a folder on the root of a drive, something like `C:\Fashionista`. Do not install it to one of the protected folders as mentioned earlier. The download location will have likely been filled in for you too - ensure it matches the directory you set for the installation location.
 
 >[!TIP]
 >**I recommend you keep your downloads outside of the Fashionista installation folder!** 
-
 
 ## Commonly Failing Downloads
 Downloads from non-Nexus file hosts often refuse to download automatically via Wabbajack for reasons. 
@@ -125,7 +124,31 @@ TO DO 2. [All known problematic files are listed here.](ProblematicFiles.md)
 Download these files and place them *as they are* into the Resource Download folder.
 
 # Post-Installation
-After Wabbajack has given you the installation successful screen, you're free to close it. Navigate to the Fashionista installation folder and run MO2 by double-clicking `ModOrganizer.exe`.
+
+After Wabbajack has given you the installation successful screen, you're free to close it.
+
+At this time I am unable to auto install the Unoffical Patch for you due to some issue with the exe file it uses that I am looking into resolving in the future.
+
+In the Folder you set to download the mods to open it up and find the file named
+
+`VTMBup115.exe-80-11-5-1750927258.exe`
+
+Double Click it - You might have a window come up that asks if you want to let the app make changes to your device click yes
+
+Click Next and then it should ask you where you want to set the Destination Folder click the browse button
+
+![Fashionista Destination Folder](img/Destination.png)
+
+Find the folder you set the list to install to and then select the stock game folder and click okay then click next.
+
+![Fashionista Stock Folder](img/Stock.png)
+
+You will now have some options to select check the `Plus Patch (Restoration and Tweaks)` and its up to you if you want the `Patch Extras` or not.
+Click Next Then Install and when it completes uncheck the launch game option and close the window.
+Then run MO2 by double-clicking `ModOrganizer.exe`.
+Then Select Loader in drop down if its not already selected and launch the game.
+
+![Fashionista launch](img/Launch.png)
 
 >[!WARNING]
 >**DO NOT UNDER ANY CIRCUMSTANCES RUN LOOT.**
@@ -135,15 +158,17 @@ After Wabbajack has given you the installation successful screen, you're free to
 Plus it only works for Skyrim so double don't use it.
 
 ## Creating a desktop shortcut
-Open MO2, ensure **Fashionista** is selected in the dropdown and click the "Shortcut" button. From the small dropdown menu, click "Desktop".
+Open MO2, ensure **Launch** is selected in the dropdown and click the "Shortcut" button. From the small dropdown menu, click "Desktop".
 
 ![Desktop Shortcut Creation](img/DesktopShortcut00.png)
 
 # Mod Setup
 
-TO DO
+There are a couple Mods that you can enable or disable in the the mod panel
 
-I need to write out a full way of launching the game and give some advice on the various launch options and if there are any gameplay changes people need to be aware of.
+I have a Clan UI section where you can enable a custom UI for a specific Clan, not all clans have one but its a nice touch if you plan on playing a supported clan.
+
+I have an ENB section for the best of the ENB's I found, select only one ENB and enable all the mods in that category, I personally do not use one so I have no suggestions on what if any you should use.
 
 # Updating Fashionista
 When an update is released, please always check the [changelog](changelog.md) first. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.
@@ -152,3 +177,17 @@ If you have added anything to this modlist at all, Wabbajack will also delete th
 
 # Uninstalling Fashionista
 Just delete the Fashionista folder and it'll be gone.
+
+# Extra notes about the list
+
+As of right now the list is in active development and might change a lot, I don't think any change I make will be save safe so don't ask.
+
+I plan on writing out more on game play and character creation but for now I will just give some first time player advice
+
+- I do not suggest picking Malchavian or Gangrel for your first playthrough of the game.
+- Melee is good early game but you will probably need some points in firearms for the end of the game as it gets more heavily combat focused
+- loosing humanity is not as big a deal as they make it out to be just roll with everything your first playthrough.
+- 2nd playthrough should be done and it 100% should be with a Malchavian.
+- Blood Buff is OP and buffs things like lockpicking as well
+
+Enjoy the game and if you see an errors or have suggestions please let me know!
