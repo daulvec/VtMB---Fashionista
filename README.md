@@ -18,7 +18,7 @@ Its updated when someone tells me something is broken and I can fix it or I star
 
 :file_folder: [Known Problematic Downloads](ProblematicFiles.md)
 
-:exclamation: [Common Issues](CommonIssues.md)
+:exclamation: [Common Issues](ComonIssues.md)
 
 # Need Support?
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/iAmModlist)
