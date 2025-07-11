@@ -10,21 +10,22 @@ Fashionista is a Vampire the Masqurade Bloodlines list that I put together so wh
 
 I plan at somepoint to make a simple profile that just does Bug Fixes and some graphics updates that match the orginal games look for first time players but thats on the back burner till I get the main profile locked down.
 
-# When is the List updated?
+## When is the List updated?
 Its updated when someone tells me something is broken and I can fix it or I start another play through and look for new mods or the Unoffical Patch Updates.
 
-# Quick Links
+## Quick Links
 :arrow_down: [All Manual Downloads](Files.md)
 
 :file_folder: [Known Problematic Downloads](ProblematicFiles.md)
 
 :exclamation: [Common Issues](ComonIssues.md)
 
-# Need Support?
+## Need Support?
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/iAmModlist)
 
 # Contents
 - [What is Fashionista?](#what-is-Fashionista)
+- [When Is the List Updates](#when-is-the-list-updated)
 - [Quick Links](#quick-links)
 - [Need Support?](#need-support)
 - [Contents](#contents)
@@ -35,17 +36,19 @@ Its updated when someone tells me something is broken and I can fix it or I star
 - [Pre-Installation](#pre-installation)
   - [Install Microsoft Visual C++ Redistributable Packages](#install-microsoft-visual-c-redistributable-packages)
   - [Setup your Antivirus](#setup-your-antivirus)
-  - [Setup your Page File](#setup-your-page-file)
   - [Disable Steam Overlay](#disable-steam-overlay)
-  - [Set game language to English](#set-game-language-to-english)
-  - [Change Steam's Updating Behavior](#change-steams-updating-behavior)
 - [Installation](#installation)
   - [Commonly Failing Downloads](#commonly-failing-downloads)
 - [Post-Installation](#post-installation)
+  - [Launch the Game](#launch-the-game)
   - [Creating a desktop shortcut](#creating-a-desktop-shortcut)
-- [Mod Setup](#mod-setup)
-- [Updating Merethic](#updating-merethic)
-- [Uninstalling Merethic](#uninstalling-merethic)
+- [Optional Mod Setup](#optional-mods-setup)
+  - [Custom Clan UI](#custom-clan-ui)
+  - [Fashion](#fashion)
+  - [ENB](#enb)
+- [Updating Fashionista](#updating-fashionista)
+- [Uninstalling Fashionista](#uninstalling-fashionista)
+- [Extra Notes about the List](#extra-notes-about-the-list)
 
 # Preface
 I made this for my use, I don't care if you don't like the way Malkavians look I like it, the main profile is what I use think of it as my cut of the list, I made a base game profile that you should use if you want to just play the base game with bug fixes and higher res textures for some stuff.
