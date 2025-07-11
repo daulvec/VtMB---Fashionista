@@ -17,7 +17,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/daulvec/VtMB---Fashionista/refs/heads/main/img/splash2.webp",
+      "image": "https://raw.githubusercontent.com/daulvec/VtMB---Fashionista/main/img/splash2.webp",
       "readme": "https://github.com/daulvec/VtMB---Fashionista",
       "download": "https://authored-files.wabbajack.org/Fashionista%20-%200.0.12.wabbajack_c8de0ac5-022e-45a1-b1b6-832281725a91",
       "machineURL": "Fashionista",
