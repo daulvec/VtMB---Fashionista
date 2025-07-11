@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Fashionista",
+    "description": "A list to auto install the Unoffical Patch and selection of the best Mods for this amazing game.",
+    "author": "iunPause",
+    "maintainers": [
+      "github/daulvec"
+    ],
+    "game": "VtMB",
+    "tags": [
+      "Steam",
+      "GOG"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/daulvec/VtMB---Fashionista/main/img/splash2.webp",
+      "readme": "https://github.com/daulvec/VtMB---Fashionista",
+      "download": "https://authored-files.wabbajack.org/Fashionista%20-%200.0.12.wabbajack_c8de0ac5-022e-45a1-b1b6-832281725a91",
+      "machineURL": "Fashionista",
+      "discordURL": "https://discord.gg/iAmModlist"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "e1+K7eJbDJw=",
+      "Size": 0,
+      "NumberOfArchives": 14,
+      "SizeOfArchives": 135206078,
+      "NumberOfInstalledFiles": 1311,
+      "SizeOfInstalledFiles": 336453775
+    },
+    "version": "1.0.0"
+  }
+]
+
