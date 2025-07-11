@@ -48,17 +48,17 @@ Its updated when someone tells me something is broken and I can fix it or I star
 - [Uninstalling Merethic](#uninstalling-merethic)
 
 # Preface
-I made this for my use, I don't care if you don't like the way Malkavians look I like it, if the base game profile has been created use that profile instead.
+I made this for my use, I don't care if you don't like the way Malkavians look I like it, the main profile is what I use think of it as my cut of the list, I made a base game profile that you should use if you want to just play the base game with bug fixes and higher res textures for some stuff.
 
 1. As a modlist user, I expect some small efforts into fixing your own issues, mostly by searching the documentation provided here and by the Discord channels. It's very likely any issue you encounter has already been solved - if this is the case and it's well known, don't be surprised if you get ignored.
    
-2. Support shouldn't be expected as instant - I have a full time job on top of this, if you ping me depending on my mood or if its an actual issue or not Muted.
+2. Support shouldn't be expected as instant - I have a full time job on top of this be nice.
    
-3. Do not expect a 100% polished, well-balanced and "perfect" experience, I am but one person even if its just a small list..
+3. Do not expect a 100% polished, well-balanced and "perfect" experience, I am but one person even if its just a small list.. and this is a famously buggy game.
    
 4. We're modding a nearly 20 year old game here, please temper your expectations some.
    
-5. Suggestions are fine but I have looked at everysingle mod on the Nexus for the list so there is a decent chance I looked at it and said no but there is always a chance.
+5. Suggestions are fine but I have looked at everysingle mod on the Nexus for the list so there is a decent chance I looked at it and said no but there is always a chance or it might be a new mod they still do come out from time to time.
 
 # Hardware Requirements
 
@@ -66,7 +66,7 @@ I made this for my use, I don't care if you don't like the way Malkavians look I
 |-------------|-----------------------------------------------|---------------------|--------------------|
 | What I have | AMD Ryzen 7 5800X3D 8-Core Processor 3.40 GHz | 32GB DDR4 @ 3200MHz | AMD Radeon RX 6950 |
 
-It runs great with my system but its probably fine on a potato PC
+It runs great with my system but its probably fine on a potato.
 
 
 ## Storage Space
@@ -76,10 +76,10 @@ It runs great with my system but its probably fine on a potato PC
 | Minimum     | 32GB          | SATA SSD            |
 | Recommended | 60GB          | NVMe SSD            |
 
-Your installation must be on an ***internal*** SSD. External SSDs & HDDs are too slow for modlists to run from, and if you ignore this and it runs slow I will point and laugh.
+Your installation must be on an ***internal*** SSD or M.2 Drive. External SSDs & HDDs are too slow for modlists to run from, and I suggest a M.2 drive otherwise load and launch times are a bit longer then you would want.
 
 # You Will Need
-  * A Nexus Premium Account if you do not want to click install 50 times.
+  * A Nexus Premium Account if you do not want to click install 100 times.
   * Patience
 
 # Pre-Installation
@@ -127,26 +127,10 @@ Download these files and place them *as they are* into the Resource Download fol
 
 After Wabbajack has given you the installation successful screen, you're free to close it.
 
-At this time I am unable to auto install the Unoffical Patch for you due to some issue with the exe file it uses that I am looking into resolving in the future.
+## Launch the game
 
-In the Folder you set to download the mods to open it up and find the file named
-
-`VTMBup115.exe-80-11-5-1750927258.exe`
-
-Double Click it - You might have a window come up that asks if you want to let the app make changes to your device click yes
-
-Click Next and then it should ask you where you want to set the Destination Folder click the browse button
-
-![Fashionista Destination Folder](img/Destination.png)
-
-Find the folder you set the list to install to and then select the stock game folder and click okay then click next.
-
-![Fashionista Stock Folder](img/Stock.png)
-
-You will now have some options to select check the `Plus Patch (Restoration and Tweaks)` and its up to you if you want the `Patch Extras` or not.
-Click Next Then Install and when it completes uncheck the launch game option and close the window.
-Then run MO2 by double-clicking `ModOrganizer.exe`.
-Then Select Loader in drop down if its not already selected and launch the game.
+Start by opening the folder you installed the list to and then run MO2 by double-clicking `ModOrganizer.exe`.
+Then Select **Fashionista** in drop down if its not already selected and launch the game.
 
 ![Fashionista launch](img/Launch.png)
 
@@ -160,15 +144,32 @@ Plus it only works for Skyrim so double don't use it.
 ## Creating a desktop shortcut
 Open MO2, ensure **Launch** is selected in the dropdown and click the "Shortcut" button. From the small dropdown menu, click "Desktop".
 
-![Desktop Shortcut Creation](img/DesktopShortcut00.png)
+![Desktop Shortcut Creation](img/Shortcut.png)
 
-# Mod Setup
+# Optional Mods Setup
 
-There are a couple Mods that you can enable or disable in the the mod panel
+There are a couple of optional Mods that you can enable or disable in the the mod panel (The left panel in Mod Organizer)
 
-I have a Clan UI section where you can enable a custom UI for a specific Clan, not all clans have one but its a nice touch if you plan on playing a supported clan.
 
-I have an ENB section for the best of the ENB's I found, select only one ENB and enable all the mods in that category, I personally do not use one so I have no suggestions on what if any you should use.
+## Custom Clan UI
+This section is where you can enable a custom UI for a specific Clan, not all clans have one but its a nice touch if you plan on playing a supported clan, make sure you select only one option
+
+![Custom Clans UI](img/Clan.png)
+
+## Fashion
+This section is for custom looks for the PC (Player Character) I have it broken down by Clan and set it up to have a Male or Female tag at the end most of the time you should only active one male and one female option per area or at the end there is an area for mods that cover all Clans
+
+![Fashion](img/Fashion.png)
+
+## ENB
+I have an ENB section for the best of the ENB's I found, select only one ENB and enable all the mods in that category, the enb I have selected is a good general ENB but I have added a couple extra.
+
+If you want to use one of the other ENB's you would have to
+- Uncheck **Dev0lved ENB**
+- Check **ENB Files**
+- Expand the ENB Option that you want to use and then check the options in that area.
+
+![ENB](/img/ENB.png)
 
 # Updating Fashionista
 When an update is released, please always check the [changelog](changelog.md) first. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.
