@@ -53,7 +53,7 @@ Its updated when someone tells me something is broken and I can fix it or I star
 - [Extra Notes about the List](#extra-notes-about-the-list)
 
 # Preface
-I made this for my use, I don't care if you don't like the way Malkavians look I like it, the main profile is what I use think of it as my cut of the list, I made a base game profile that you should use if you want to just play the base game with bug fixes and higher res textures for some stuff.
+Some small notes about the list and the support and troubleshooting
 
 1. As a modlist user, I expect some small efforts into fixing your own issues, mostly by searching the documentation provided here and by the Discord channels. It's very likely any issue you encounter has already been solved - if this is the case and it's well known, don't be surprised if you get ignored.
    
@@ -63,7 +63,7 @@ I made this for my use, I don't care if you don't like the way Malkavians look I
    
 4. We're modding a nearly 20 year old game here, please temper your expectations some.
    
-5. Suggestions are fine but I have looked at everysingle mod on the Nexus for the list so there is a decent chance I looked at it and said no but there is always a chance or it might be a new mod they still do come out from time to time.
+5. Suggestions are fine but I have looked at every single mod on the Nexus for the list so there is a decent chance I looked at it and said no but there is always a chance or it might be a new mod, they still do come out from time to time or something I missed.
 
 # Hardware Requirements
 
