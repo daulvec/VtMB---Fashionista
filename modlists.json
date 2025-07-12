@@ -17,9 +17,9 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/daulvec/VtMB---Fashionista/main/img/splash2.webp",
+      "image": "https://raw.githubusercontent.com/daulvec/VtMB---Fashionista/main/img/Splash%20Design.webp",
       "readme": "https://github.com/daulvec/VtMB---Fashionista",
-      "download": "https://authored-files.wabbajack.org/Fashionista%20-%200.0.12.wabbajack_c8de0ac5-022e-45a1-b1b6-832281725a91",
+      "download": "https://authored-files.wabbajack.org/Fashionista%20-%200.1.0.wabbajack_63e30a1e-28f9-4020-91b8-641b86e710dd",
       "machineURL": "Fashionista",
       "discordURL": "https://discord.gg/iAmModlist"
     },
