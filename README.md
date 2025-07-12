@@ -6,9 +6,7 @@
 First things first: **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.**
 
 # What is Fashionista?
-Fashionista is a Vampire the Masqurade Bloodlines list that I put together so when I reinstall the game every 6 months I don't have to redo my mod setup, its here incase other people are like me. it focus is a bit all over the place but it contains new content, better graphics, changes to the looks of the characteres and changes to the UI.
-
-I plan at somepoint to make a simple profile that just does Bug Fixes and some graphics updates that match the orginal games look for first time players but thats on the back burner till I get the main profile locked down.
+Fashionista is a Vampire the Masqurade Bloodlines list that I put together so when I reinstall the game every 6 months I don't have to redo my mod setup, its here incase other people are like me. It's focus is a bit all over the place but it contains new content, better graphics, changes to the looks of the characteres, changes to the UI and a ton of Bug Fixes.
 
 ## When is the List updated?
 Its updated when someone tells me something is broken and I can fix it or I start another play through and look for new mods or the Unoffical Patch Updates.
@@ -46,6 +44,10 @@ Its updated when someone tells me something is broken and I can fix it or I star
   - [Custom Clan UI](#custom-clan-ui)
   - [Fashion](#fashion)
   - [ENB](#enb)
+- [Alt Profiles](#alternative-profiles)
+  -[Default Game Plus Offical Patch](#default-game-plus-unoffical-patch)
+  -[HD overhaul](#hd-overhaul)
+  -[To Come](#to-come)
 - [Updating Fashionista](#updating-fashionista)
 - [Uninstalling Fashionista](#uninstalling-fashionista)
 - [Extra Notes about the List](#extra-notes-about-the-list)
@@ -157,7 +159,7 @@ There are a couple of optional Mods that you can enable or disable in the the mo
 ## Custom Clan UI
 This section is where you can enable a custom UI for a specific Clan, not all clans have one but its a nice touch if you plan on playing a supported clan, make sure you select only one option
 
-![Custom Clans UI](img/Clan.png)
+![Custom Clans UI](img/Clans.png)
 
 ## Fashion
 This section is for custom looks for the PC (Player Character) I have it broken down by Clan and set it up to have a Male or Female tag at the end most of the time you should only active one male and one female option per area or at the end there is an area for mods that cover all Clans
@@ -165,7 +167,7 @@ This section is for custom looks for the PC (Player Character) I have it broken 
 ![Fashion](img/Fashion.png)
 
 ## ENB
-I have an ENB section for the best of the ENB's I found, select only one ENB and enable all the mods in that category, the enb I have selected is a good general ENB but I have added a couple extra.
+The enb I have selected is a good general ENB but I have added a couple extra if you wish to try them instead
 
 If you want to use one of the other ENB's you would have to
 - Uncheck **Dev0lved ENB**
@@ -173,6 +175,28 @@ If you want to use one of the other ENB's you would have to
 - Expand the ENB Option that you want to use and then check the options in that area.
 
 ![ENB](/img/ENB.png)
+
+# Alternative Profiles
+I added two additional Profiles that you can use if you want, just select the Profile you want in the dropdown and launch the game as normal.
+
+![Alt Profiles](/img/Alt.png)
+
+## Default Game Plus Unoffical Patch
+For the People that want to experiance the game as it originally was presented. The Unoffical Patch is included as the game us unbeatable without it.
+
+## HD Overhaul
+This is a Large all in one overhaul, it contains HD Textures for basicly the full game, a new UI, New Music and its own Reshade.
+
+## To Come
+I plan on getting some other quest mods and expansions added to the game so I can play them eventualy such as
+- Clan Quest Mod
+
+Others I am looking at but would probably not fit the list are
+- Vampire The Masquerade: Bloodlines - RTX Remaster
+- Bloodlines Extreme
+- VTMB Prelude
+- Ming Xiao Romance
+
 
 # Updating Fashionista
 When an update is released, please always check the [changelog](changelog.md) first. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.
@@ -188,10 +212,12 @@ As of right now the list is in active development and might change a lot, I don'
 
 I plan on writing out more on game play and character creation but for now I will just give some first time player advice
 
-- I do not suggest picking Malchavian or Gangrel for your first playthrough of the game.
-- Melee is good early game but you will probably need some points in firearms for the end of the game as it gets more heavily combat focused
+- I do not suggest picking Malchavian or Nosferatu for your first playthrough of the game.
+- Melee is good early game but you will probably need some points in firearms for the end of the game as it gets more heavily combat focused and sneaking is not as easily done
 - loosing humanity is not as big a deal as they make it out to be just roll with everything your first playthrough.
 - 2nd playthrough should be done and it 100% should be with a Malchavian.
 - Blood Buff is OP and buffs things like lockpicking as well
+- Never use Skill points to recover Humanity
+- If you have the Obfucate Disipline don't waste points on stealth.
 
 Enjoy the game and if you see an errors or have suggestions please let me know!
