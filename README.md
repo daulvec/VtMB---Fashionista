@@ -181,7 +181,7 @@ I added two additional Profiles that you can use if you want, just select the Pr
 
 ![Alt Profiles](/img/Alt.png)
 
-## Default Game Plus Unoffical Patch
+## Default Game Plus Unoffical Patch - Not in list yet still in dev
 For the People that want to experiance the game as it originally was presented. The Unoffical Patch is included as the game us unbeatable without it.
 
 ## HD Overhaul
