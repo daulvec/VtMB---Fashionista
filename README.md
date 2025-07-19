@@ -4,15 +4,15 @@
 
 First things first: **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.**
 
-# What is Fashionista?
+## What is Fashionista?
 
 Fashionista is a Vampire the Masqurade Bloodlines list that I put together so when I reinstall the game every 6 months I don't have to redo my mod setup, its here incase other people are like me. It's focus is a bit all over the place but it contains new content, better graphics, changes to the looks of the characteres, changes to the UI and a ton of Bug Fixes.
 
-## When is the List updated?
+### When is the List updated?
 
 Its updated when someone tells me something is broken and I can fix it or I start another play through and look for new mods or the Unoffical Patch Updates.
 
-## Quick Links
+### Quick Links
 
 :arrow_down: [All Manual Downloads](Files.md)
 
@@ -20,11 +20,11 @@ Its updated when someone tells me something is broken and I can fix it or I star
 
 :exclamation: [Common Issues](ComonIssues.md)
 
-## Need Support?
+### Need Support?
 
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/iAmModlist)
 
-# Contents
+## Contents
 
 - [What is Fashionista?](#what-is-fashionista)
 - [When Is the List Updates](#when-is-the-list-updated)
@@ -49,14 +49,14 @@ Its updated when someone tells me something is broken and I can fix it or I star
   - [Fashion](#fashion)
   - [ENB](#enb)
 - [Alt Profiles](#alternative-profiles)
-  -[Default Game Plus Offical Patch](#default-game-plus-unoffical-patch)
+  - [Default Game Plus Unoffical Patch](#default-game-plus-unoffical-patch---not-in-list-yet-still-in-dev)
   -[HD overhaul](#hd-overhaul)
   -[To Come](#to-come)
 - [Updating Fashionista](#updating-fashionista)
 - [Uninstalling Fashionista](#uninstalling-fashionista)
 - [Extra Notes about the List](#extra-notes-about-the-list)
 
-# Preface
+## Preface
 
 Some small notes about the list and the support and troubleshooting
 
@@ -70,7 +70,7 @@ Some small notes about the list and the support and troubleshooting
 
 5. Suggestions are fine but I have looked at every single mod on the Nexus for the list so there is a decent chance I looked at it and said no but there is always a chance or it might be a new mod, they still do come out from time to time or something I missed.
 
-# Hardware Requirements
+## Hardware Requirements
 
 |             | CPU                                           | RAM                 | GPU                |
 |-------------|-----------------------------------------------|---------------------|--------------------|
@@ -78,7 +78,7 @@ Some small notes about the list and the support and troubleshooting
 
 It runs great with my system but its probably fine on a potato.
 
-## Storage Space
+### Storage Space
 
 |             | Total Space   | Storage Type        |
 |-------------|---------------|---------------------|
@@ -87,23 +87,23 @@ It runs great with my system but its probably fine on a potato.
 
 Your installation must be on an ***internal*** SSD or M.2 Drive. External SSDs & HDDs are too slow for modlists to run from, and I suggest a M.2 drive otherwise load and launch times are a bit longer then you would want.
 
-# You Will Need
+## You Will Need
 
 - A Nexus Premium Account if you do not want to click install 100 times.
 - Patience
 
-# Pre-Installation
+## Pre-Installation
 
 **This stuff needs to be done BEFORE starting the Wabbajack installation.**
 
-## Install Microsoft Visual C++ Redistributable Packages
+### Install Microsoft Visual C++ Redistributable Packages
 >
 >[!CAUTION]
 >MO2 needs this - don't skip it.
 >
 >[Download Visual C++ Redistributable Package.](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
-## Setup your Antivirus
+### Setup your Antivirus
 
 Before you say "I don't have an antivirus" - you do, it's built into Windows. You *need* to exclude your Wabbajack folder and your Merethic installation folder from your antivirus' real-time protection stuff as it will interfere with your install. It can and will interfere whilst you are playing too, causing poor performance and obvious stuttering.
 
@@ -118,7 +118,7 @@ If you use another antivirus program, refer to their steps for adding an exclusi
 
 The Steam overlay is known to cause issues, especially when using ENBs. Do so by heading into Steam, right clicking on Skyrim in your game library and clicking **Properties** > **General** > **Deselect "Enable Steam Overlay while in-game"**.
 
-# Installation
+## Installation
 
 Installing the list has a couple steps to it that you will have to follow for this to work.
 
@@ -127,7 +127,7 @@ Set the installation location to a folder on the root of a drive, something like
 >[!TIP]
 >**I recommend you keep your downloads outside of the Fashionista installation folder!**
 
-## Commonly Failing Downloads
+### Commonly Failing Downloads
 
 Downloads from non-Nexus file hosts often refuse to download automatically via Wabbajack for reasons.
 
@@ -138,11 +138,11 @@ TO DO 2. [All known problematic files are listed here.](ProblematicFiles.md)
 
 Download these files and place them *as they are* into the Resource Download folder.
 
-# Post-Installation
+## Post-Installation
 
 After Wabbajack has given you the installation successful screen, you're free to close it.
 
-## Launch the game
+### Launch the game
 
 Start by opening the folder you installed the list to and then run MO2 by double-clicking `ModOrganizer.exe`.
 Then Select **Fashionista** in drop down if its not already selected and launch the game.
@@ -156,29 +156,29 @@ Then Select **Fashionista** in drop down if its not already selected and launch 
 
 Plus it only works for Skyrim so double don't use it.
 
-## Creating a desktop shortcut
+### Creating a desktop shortcut
 
 Open MO2, ensure **Launch** is selected in the dropdown and click the "Shortcut" button. From the small dropdown menu, click "Desktop".
 
 ![Desktop Shortcut Creation](img/Shortcut.png)
 
-# Optional Mods Setup
+## Optional Mods Setup
 
 There are a couple of optional Mods that you can enable or disable in the the mod panel (The left panel in Mod Organizer)
 
-## Custom Clan UI
+### Custom Clan UI
 
 This section is where you can enable a custom UI for a specific Clan, not all clans have one but its a nice touch if you plan on playing a supported clan, make sure you select only one option
 
 ![Custom Clans UI](img/Clans.png)
 
-## Fashion
+### Fashion
 
 This section is for custom looks for the PC (Player Character) I have it broken down by Clan and set it up to have a Male or Female tag at the end most of the time you should only active one male and one female option per area or at the end there is an area for mods that cover all Clans
 
 ![Fashion](img/Fashion.png)
 
-## ENB
+### ENB
 
 The enb I have selected is a good general ENB but I have added a couple extra if you wish to try them instead
 
@@ -190,21 +190,21 @@ If you want to use one of the other ENB's you would have to
 
 ![ENB](/img/ENB.png)
 
-# Alternative Profiles
+## Alternative Profiles
 
 I added two additional Profiles that you can use if you want, just select the Profile you want in the dropdown and launch the game as normal.
 
 ![Alt Profiles](/img/Alt.png)
 
-## Default Game Plus Unoffical Patch - Not in list yet still in dev
+### Default Game Plus Unoffical Patch - Not in list yet still in dev
 
 For the People that want to experiance the game as it originally was presented. The Unoffical Patch is included as the game us unbeatable without it.
 
-## HD Overhaul
+### HD Overhaul
 
 This is a Large all in one overhaul, it contains HD Textures for basicly the full game, a new UI, New Music and its own Reshade.
 
-## To Come
+### To Come
 
 I plan on getting some other quest mods and expansions added to the game so I can play them eventualy such as
 
@@ -217,17 +217,17 @@ Others I am looking at but would probably not fit the list are
 - VTMB Prelude
 - Ming Xiao Romance
 
-# Updating Fashionista
+## Updating Fashionista
 
 When an update is released, please always check the [changelog](changelog.md) first. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.
 
 If you have added anything to this modlist at all, Wabbajack will also delete those. You should know how to stop it from doing this if you're going to add stuff to modlists.
 
-# Uninstalling Fashionista
+## Uninstalling Fashionista
 
 Just delete the Fashionista folder and it'll be gone.
 
-# Extra notes about the list
+## Extra notes about the list
 
 As of right now the list is in active development and might change a lot, I don't think any change I make will be save safe so don't ask.
 
