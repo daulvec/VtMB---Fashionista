@@ -20,14 +20,14 @@
     "links": {
       "image": "https://raw.githubusercontent.com/daulvec/VtMB---Fashionista/main/img/Splash%20Design.webp",
       "readme": "https://github.com/daulvec/VtMB---Fashionista",
-      "download": "https://authored-files.wabbajack.org/Fashionista-0.1.4.wabbajack_1c2ca414-047e-417d-bd1c-5c2d4b42228e",
+      "download": "https://authored-files.wabbajack.org/Fashionista-0.1.4.wabbajack_26fa0d11-6643-4d09-9930-bd2532af2e8f",
       "machineURL": "Fashionista",
       "discordURL": "https://discord.gg/iAmModlist",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "PNwJKLZ2nHM=",
-      "Size": 7022039,
+      "Hash": "7KvTshoXSWs=",
+      "Size": 7021990,
       "NumberOfArchives": 74,
       "SizeOfArchives": 15449674434,
       "NumberOfInstalledFiles": 52473,
@@ -36,7 +36,7 @@
     },
     "version": "0.1.4",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-07-21T13:51:35.1414499Z",
+    "dateUpdated": "2025-07-21T13:55:58.8603898Z",
     "repositoryName": ""
   }
 ]
