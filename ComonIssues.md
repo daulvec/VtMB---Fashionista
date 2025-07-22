@@ -11,4 +11,4 @@ The game should have most resolution support with the unoffical Patch but I am u
 Options > Resolution.
 
 ## ENB
-The default shortcut for turning the ENB on and off is ctrl+F12
+The Default Shortcut to enable or disable the ENB is shift + f12
