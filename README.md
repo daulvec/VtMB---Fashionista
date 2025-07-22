@@ -182,6 +182,8 @@ This section is for custom looks for the PC (Player Character) I have it broken 
 
 The enb I have selected is a good general ENB but I have added a couple extra if you wish to try them instead
 
+The Default Shortcut to enable or disable the ENB is shift + f12
+
 If you want to use one of the other ENB's you would have to
 
 - Uncheck **Dev0lved ENB**
