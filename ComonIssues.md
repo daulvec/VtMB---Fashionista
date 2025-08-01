@@ -9,3 +9,6 @@ Options > Mouse Tab > Mouse Look should be checked or if its not on in game pres
 The game should have most resolution support with the unoffical Patch but I am unnable to test ultrawide displays, changing the resoltions can be done in the main Menu under 
 
 Options > Resolution.
+
+## ENB
+The Default Shortcut to enable or disable the ENB is shift + f12
