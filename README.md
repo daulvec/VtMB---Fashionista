@@ -177,6 +177,8 @@ This section is where you can enable a custom UI for a specific Clan, not all cl
 This section is for custom looks for the PC (Player Character) I have it broken down by Clan and set it up to have a Male or Female tag at the end most of the time you should only active one male and one female option per area or at the end there is an area for mods that cover all Clans
 
 ![Fashion](img/Fashion.png)
+To see all the outfits and Armors that I have added you can look here
+![Fashion](/Fashion.md)
 
 ### ENB
 
@@ -228,6 +230,7 @@ If you have added anything to this modlist at all, Wabbajack will also delete th
 Just delete the Fashionista folder and it'll be gone.
 
 ## Extra notes about the list
+
 
 As of right now the list is in active development and might change a lot, I don't think any change I make will be save safe so don't ask.
 
