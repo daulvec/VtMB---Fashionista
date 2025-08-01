@@ -26,11 +26,11 @@ I only included images of the first armor or character skin so the rest of them 
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Brujah-Male-alt01.jpg" width="150"/><br/>
-      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/117">Brujah Bampire rexture</a></b><br/>Check `Brujah Vampire rexture - Male`</sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/117">Brujah Bampire rexture</a></b><br/>Check <code>Brujah Vampire rexture - Male</code></sub>
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Brujah-Male-alt02.jpg" width="150"/><br/>
-      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/123?tab=description">JOKER BRUJAH</a></b><br/>Check `JOKER BRUJAH - Male`</sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/123?tab=description">JOKER BRUJAH</a></b><br/>Check <code>JOKER BRUJAH - Male</code></sub>
     </td>
   </tr>
 </table>
