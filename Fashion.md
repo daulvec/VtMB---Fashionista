@@ -86,7 +86,7 @@ I only included images of the first armor or character skin so the rest of them 
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Gangrel-Male-alt01.jpg" width="150"/><br/>
-      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/133">MR DAMP by Marius217</a></b><br/>check <code>MR DAMP by Marius217 - Gangrel Male</code></sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/133">MR DAMP by Marius217</a></b><br/>Check <code>MR DAMP by Marius217 - Gangrel Male</code></sub>
     </td>
     <td align="center" width="200"></td>
   </tr>
@@ -100,7 +100,7 @@ I only included images of the first armor or character skin so the rest of them 
   <tr>
       <td align="center" width="200">
       <img src="/img/Fashion/Malkavian-Female-Default.jpg" width="150"/><br/>
-      <sub><b>Malkavian Female Default</b><br/>Uncheck all options to get her</sub>
+      <sub><b>Malkavian Female Default</b><br/>Uncheck all other options to get her</sub>
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Malkavian-Female-Alt1-Armor_2.jpg" width="150"/><br/>
@@ -108,13 +108,13 @@ I only included images of the first armor or character skin so the rest of them 
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Malkavian-Female-alt02-Armor_02.jpg" width="150"/><br/>
-      <sub><b>Malkavian Female alt02 Armor_02</b><br/><code>Malkavian-Female-alt02-Armor_02.jpg</code></sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/286">Malkavian female model (yet another update)</a></b><br/>Check <code>Malkavian female model (yet another update) 0 - Female</code></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="200">
       <img src="/img/Fashion/Malkavian-Female-alt03.jpg" width="150"/><br/>
-      <sub><b>Malkavian Female alt03</b><br/><code>Malkavian-Female-alt03.jpg</code></sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/45">MMalkavian Noir</a></b><br/>Check <code>Malkavian Noir - Female Armor 1 - Female</code></sub>
     </td>
     <td align="center" width="200"></td>
     <td align="center" width="200"></td>
@@ -126,16 +126,16 @@ I only included images of the first armor or character skin so the rest of them 
 <table>
   <tr>
     <td align="center" width="200">
+      <img src="/img/Fashion/Malkavian-Male-Default.jpg" width="150"/><br/>
+      <sub><b>Malkavian Male Default</b><br/>Uncheck all other options to get him.</sub>
+    </td>
+    <td align="center" width="200">
       <img src="/img/Fashion/Malkavian-Male-Alt01.jpg" width="150"/><br/>
-      <sub><b>Malkavian Male Alt01</b><br/><code>Malkavian-Male-Alt01.jpg</code></sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/331">The Crow Malkavian</a></b><br/>Check <code>The Crow Malkavian - Male</code></sub>
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Malkavian-Male-Alt02.jpg" width="150"/><br/>
-      <sub><b>Malkavian Male Alt02</b><br/><code>Malkavian-Male-Alt02.jpg</code></sub>
-    </td>
-    <td align="center" width="200">
-      <img src="/img/Fashion/Malkavian-Male-Default.jpg" width="150"/><br/>
-      <sub><b>Malkavian Male Default</b><br/><code>Malkavian-Male-Default.jpg</code></sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/133">MR DAMP by Marius217</a></b><br/>Check <code>MR DAMP by Marius217 - Malkavianl - Male</code></sub>
     </td>
   </tr>
 </table>
@@ -147,16 +147,16 @@ I only included images of the first armor or character skin so the rest of them 
 <table>
   <tr>
     <td align="center" width="200">
+      <img src="/img/Fashion/Nosferatu-Female-alt02.jpg" width="150"/><br/>
+      <sub><b>Nosferatu Female alt02</b><br/><code>Nosferatu-Female-alt02.jpg</code></sub>
+    </td>
+    <td align="center" width="200">
       <img src="/img/Fashion/Nosferatu-Female-Default.jpg" width="150"/><br/>
       <sub><b>Nosferatu Female Default</b><br/><code>Nosferatu-Female-Default.jpg</code></sub>
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Nosferatu-Female-alt01.jpg" width="150"/><br/>
       <sub><b>Nosferatu Female alt01</b><br/><code>Nosferatu-Female-alt01.jpg</code></sub>
-    </td>
-    <td align="center" width="200">
-      <img src="/img/Fashion/Nosferatu-Female-alt02.jpg" width="150"/><br/>
-      <sub><b>Nosferatu Female alt02</b><br/><code>Nosferatu-Female-alt02.jpg</code></sub>
     </td>
   </tr>
 </table>
