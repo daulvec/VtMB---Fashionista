@@ -3,11 +3,9 @@
 - [VTMBup115.exe](https://www.nexusmods.com/vampirebloodlines/mods/80)
     - VTMBup115.exe
 - [VTMB HD Overhaul](https://www.nexusmods.com/vampirebloodlines/mods/234)
-    - Files to download
     - VTMB HD Overhaul Complete
     - Brighter UI
 - [NPCs Improved - Chinatown](https://www.nexusmods.com/vampirebloodlines/mods/165)
-    - Files to download
     - Chinatown
     - Downtown
     - Hollywood
@@ -42,7 +40,6 @@
 - [Remixed Menu Music For Vampire The Masquerade - Bloodlines](https://www.nexusmods.com/vampirebloodlines/mods/334)
     - Remixed Menu Music For VtMB
 - [Bloodlines Voices Remastered](https://www.nexusmods.com/vampirebloodlines/mods/307)
-   - Files to download
     - Bloodlines Voices Remastered Mod Version 1.02
     - Bloodlines Voices Remastered Mod Update 2
     - Voices Remastered Mod - Unofficial Patch Add-on
@@ -53,7 +50,6 @@
 - [Better lockpicking icons for UP](https://www.nexusmods.com/vampirebloodlines/mods/308)
     - Lockpicking icons for UP
 - [Clan-specific interface](https://www.nexusmods.com/vampirebloodlines/mods/284)
-    - Files to download
     - Nosferatu Interface
     - Toreador interface
     - Ventrue Interface
