@@ -31,8 +31,6 @@ If this is your first time playing the game, most people will suggest you don't 
 
 The game can have some odd bugs from time to time and make the game impossible to beat without using the console. I have included a large list of console commands below just in case they are needed.
 
-### Console Commands
-
 Open the console (default key "~") from the main menu only, or type
 `chareditor` if it freezes! All commands can be added to cfg files.
 
