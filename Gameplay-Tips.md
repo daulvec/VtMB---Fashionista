@@ -10,26 +10,22 @@ Shift + F12 Toggles the ENB on and Off.
 
 If this is your first time playing the game most people will suggest you don't play Malkavian or Nosferatu, this is for a couple of reasone.
 
-1. Malkavians are batshit insaine in the game and it can be hard to tell what the fuck they are talking about, this can make following the game a bit hard.
+1. Malkavians are batshit insane in the game and it can be hard to tell what the fuck they are talking about, this can make following the game a bit hard.
+    - I think this is really bad advice and suggest that people actually play them first as the confusion makes for a really fun time and makes reading all the options so much fun.
 2. Nosferatu have a unique playstyle and way of getting around the world, this makes them much harder and more annoying to play until you know where everything is.
+    - I aggree with this as you need to travel through the sewers and have a really hard time getting blood this is basicly hard mode.
+3. I would personally add Ventrue to the list as well, there inability to feed of vermin is more annoying then you would think.
 
-They are both really really fun for a 2nd or third playthough and I would 100% suggest Malks for your required 2nd playthrough.
-
-
-As of right now the list is in active development and might change a lot, I don't think any change I make will be save safe so don't ask.
-
-I plan on writing out more on game play and character creation but for now I will just give some first time player advice
-
-- I do not suggest picking Malchavian or Nosferatu for your first playthrough of the game.
 - Melee is good early game but you will probably need some points in firearms for the end of the game as it gets more heavily combat focused and sneaking is not as easily done
+    - To expand on this a bit, play what seems fun to you, but to be optimal depending on what your disciplines are they can buff combat so picking melee because you picked Brujah and they have Potence and Presence that buff Melee is never a bad choice.
 - loosing humanity is not as big a deal as they make it out to be just roll with everything your first playthrough.
-- 2nd playthrough should be done and it 100% should be with a Malchavian.
-- Blood Buff is OP and buffs things like lockpicking as well
-- Never use Skill points to recover Humanity
+- I would suggest only upgrading one Social Skill and all of them are good.
+- Blood Buff is OP and buffs things like lockpicking and Stealth
+- Auspex buff's Hacking.
+- Never use Skill points to recover Humanity as there are alternative methods to doing this plus it can be fun to play at lower humanity.
 - If you have the Obfucate Disipline don't waste points on stealth.
-
-Enjoy the game and if you see an errors or have suggestions please let me know!
-
+- The Ocean House Hotel is one of the best levels in any game period don't skip it.
+- Don't skip the Hospital.
 
 ## Console Commands
 
