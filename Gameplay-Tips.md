@@ -36,82 +36,80 @@ Console Commands:
 Open the console (default key "~") from the main menu only, or type
 "chareditor" if it freezes! All commands can be added to cfg files.
 
-god                     Godmode
-noclip                  Flymode
-notarget                Enemies will not attack
-buddha                  Player takes damage but does not die
-chareditor              Switches to sheet
-impulse 101             Gives most weapons
-cmdlist                 Lists all console commands
-cvarlist                Lists all console variables
-camera_kill             Kills camera mode (which unfreezes cutscenes)
-frenzyplayer            Frenzies player ( " , use ai_disable 0 before)
-vstats xxx y z          Stat editor: xxx get/buy/sell y stat z points
-vgender int 0/1         Changes gender: 0 female, 1 male
-vclan name              Changes clan to name: Player_... for singleplayer
-vhistories              Lists codes for all histories of current clan
-vhistory nn             Activates the history with the code nn
-give name               Gives item to player: name item_...
-use name                Uses the item
-giftxp n                Gives n experience points
-blood n                 Gives n blood points
-money n                 Gives... not what you think ;)
-map name                Start map name: ch_.../hw_.../la_.../sm_.../sp_...
-showmapscreen           Switches to traveling map if you are stuck
-buildcubemaps           Rebuild cubemaps, not from menu, then reload level
-changelevel2 m n        Teleports player to map m at landmark n 
-developer 0-3           Displays more error messages.
-G.variable(= n)         Displays (sets) value of game variable
-gclearall               Clears all G. variables
-debug_area_type n       Changes area to 0 combat, 1 masquerade, 2 elysium
-ent_dump ENT            Dumps all info about entity ENT
-mat_fullbright 1        Turns the lighting to maximum
-fov n (normal 0)        Change field of view for widescreens
-r_anamorphic 1          Enables stretching for widescreens
-v_hidevgui 1            Hides the HUD for taking screenshots
-cl_showpos              Displays coordinates
-cl_showfps              Displays frame rate
-picker                  Displays object data
-showtrigger 1           Displays trigger areas
-surround 1              Enable surround sound mode
-snd_gain 2              Compensate for loudness loss in surround mode
-ai_show_hints           Shows pathfinding hints for NPCs
-ai_show_interesting 1   Shows special places that NPCs will use
-vcollide_wireframe 1    Shows collisions to fix by BSPEdit solid 2->6
+- god                     Godmode
+- noclip                  Flymode
+- notarget                Enemies will not attack
+- buddha                  Player takes damage but does not die
+- chareditor              Switches to sheet
+- impulse 101             Gives most weapons
+- cmdlist                 Lists all console commands
+- cvarlist                Lists all console variables
+- camera_kill             Kills camera mode (which unfreezes cutscenes)
+- frenzyplayer            Frenzies player ( " , use ai_disable 0 before)
+- vstats xxx y z          Stat editor: xxx get/buy/sell y stat z points
+- vgender int 0/1         Changes gender: 0 female, 1 male
+- vclan name              Changes clan to name: Player_... for singleplayer
+- vhistories              Lists codes for all histories of current clan
+- vhistory nn             Activates the history with the code nn
+- give name               Gives item to player: name item_...
+- use name                Uses the item
+- giftxp n                Gives n experience points
+- blood n                 Gives n blood points
+- money n                 Gives... not what you think ;)
+- map name                Start map name: ch_.../hw_.../la_.../sm_.../sp_...
+- showmapscreen           Switches to traveling map if you are stuck
+- buildcubemaps           Rebuild cubemaps, not from menu, then reload level
+- changelevel2 m n        Teleports player to map m at landmark n 
+- developer 0-3           Displays more error messages.
+- G.variable(= n)         Displays (sets) value of game variable
+- gclearall               Clears all G. variables
+- debug_area_type n       Changes area to 0 combat, 1 masquerade, 2 elysium
+- ent_dump ENT            Dumps all info about entity ENT
+- mat_fullbright 1        Turns the lighting to maximum
+- fov n (normal 0)        Change field of view for widescreens
+- r_anamorphic 1          Enables stretching for widescreens
+- v_hidevgui 1            Hides the HUD for taking screenshots
+- cl_showpos              Displays coordinates
+- cl_showfps              Displays frame rate
+- picker                  Displays object data
+- showtrigger 1           Displays trigger areas
+- surround 1              Enable surround sound mode
+- snd_gain 2              Compensate for loudness loss in surround mode
+- ai_show_hints           Shows pathfinding hints for NPCs
+- ai_show_interesting 1   Shows special places that NPCs will use
+- vcollide_wireframe 1    Shows collisions to fix by BSPEdit solid 2->6
 
 Unlock tremere chantry (any clan):
-G.Regent_Family = 3
+- G.Regent_Family = 3
 
 Unlock Skyline Haven:
-G.Prince_Skyline = 1
-give item_k_skyline_haven_key
+- G.Prince_Skyline = 1
+- give item_k_skyline_haven_key
 
 Unlock Nosferatu Haven:
-G.Gary_Haven = 1
-gary_times_talked = 1
+- G.Gary_Haven = 1
+- gary_times_talked = 1
 (Exit and re-enter the map via the taxi cab/sewer map to apply changes, you might want to do gary_times_talked = 0 after unlocking the
 haven to switch the stage back to prevent issues later on)
 
 Teleport Companions to Haven:
-havenutil.PopulateHaven()
+- havenutil.PopulateHaven()
 
 Toggle Heather stay indoors (avoids her getting kidnapped.)
-G.Heather_Indoors = 1
+- G.Heather_Indoors = 1
 
 Toggle Prince max affinity (Sets the various prince's affinity dialogues, you can also check the affinity by just doing G.Prince_Reacion)
-G.Prince_Reaction = 4
+- G.Prince_Reaction = 4
 
 Choose main Haven (Companions will be here all the time.)
-G.CompHaven = "map_name"
+ - G.CompHaven = "map_name"
 
 map list: (FOR SETTING THE MAIN HAVEN IN "map_name")
-el_haven_1 = East LA Hub
-la_skyline_1 = Skylane Suites
-sm_apartment_1 = Santa Monica Pawnshop Lodgings 
+- el_haven_1 = East LA Hub
+- la_skyline_1 = Skylane Suites
+- sm_apartment_1 = Santa Monica Pawnshop Lodgings 
 
-
-Story States:
--------------
+### Story States:
 These are the values of the variable G.Story_State during the game.
 It can be modified to get different results in dialogues or levels!
 
