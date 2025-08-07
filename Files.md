@@ -1,7 +1,17 @@
 # Links to Files
 
-- [VTMB HD Overhaul](https://www.nexusmods.com/vampirebloodlines/mods/234) and the optional Brighter UI file
-- [NPCs Improved - Chinatown](https://www.nexusmods.com/vampirebloodlines/mods/165) Download Chinatown, Downtown, Hollywood, Other and Santa Monica.
+- [VTMBup115.exe](https://www.nexusmods.com/vampirebloodlines/mods/80)
+- [VTMB HD Overhaul](https://www.nexusmods.com/vampirebloodlines/mods/234)
+    - Files to download
+    - VTMB HD Overhaul Complete
+    - Brighter UI
+- [NPCs Improved - Chinatown](https://www.nexusmods.com/vampirebloodlines/mods/165)
+    - Files to downloada
+    - Chinatown
+    - Downtown
+    - Hollywood
+    - Other
+    - Santa Monica.
 - [Character eyes Improved](https://www.nexusmods.com/vampirebloodlines/mods/164)
 - [E Mesh Edit](https://www.nexusmods.com/vampirebloodlines/mods/238)
 - [Lily UV map fix](https://www.nexusmods.com/vampirebloodlines/mods/237)
@@ -17,8 +27,9 @@
 - [VtM Bloodlines Sound Overhaul](https://www.nexusmods.com/vampirebloodlines/mods/295)
 - [Remixed Menu Music For Vampire The Masquerade - Bloodlines](https://www.nexusmods.com/vampirebloodlines/mods/334)
 - [Bloodlines Voices Remastered](https://www.nexusmods.com/vampirebloodlines/mods/307)
-- [Bloodlines Voices Remastered Mod Update 2](https://www.nexusmods.com/vampirebloodlines/mods/307)
-- [Voices Remastered Mod - Unofficial Patch Add-on](https://www.nexusmods.com/vampirebloodlines/mods/307)
+    - Bloodlines Voices Remastered Mod Version 1.02
+    - Bloodlines Voices Remastered Mod Update 2
+    - Voices Remastered Mod - Unofficial Patch Add-on
 - [Malkavian Whispers](https://www.nexusmods.com/vampirebloodlines/mods/280)
 - [No-Intro (Skip Startup - Splash Videos)](https://www.nexusmods.com/vampirebloodlines/mods/266)
 - [Better lockpicking icons for UP](https://www.nexusmods.com/vampirebloodlines/mods/308)
