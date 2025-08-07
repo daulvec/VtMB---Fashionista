@@ -6,7 +6,7 @@
     - VTMB HD Overhaul Complete
     - Brighter UI
 - [NPCs Improved - Chinatown](https://www.nexusmods.com/vampirebloodlines/mods/165)
-    - Files to downloada
+    - Files to download
     - Chinatown
     - Downtown
     - Hollywood
@@ -27,6 +27,7 @@
 - [VtM Bloodlines Sound Overhaul](https://www.nexusmods.com/vampirebloodlines/mods/295)
 - [Remixed Menu Music For Vampire The Masquerade - Bloodlines](https://www.nexusmods.com/vampirebloodlines/mods/334)
 - [Bloodlines Voices Remastered](https://www.nexusmods.com/vampirebloodlines/mods/307)
+   - Files to download
     - Bloodlines Voices Remastered Mod Version 1.02
     - Bloodlines Voices Remastered Mod Update 2
     - Voices Remastered Mod - Unofficial Patch Add-on
