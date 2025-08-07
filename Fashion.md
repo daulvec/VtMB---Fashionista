@@ -147,16 +147,16 @@ I only included images of the first armor or character skin so the rest of them 
 <table>
   <tr>
     <td align="center" width="200">
-      <img src="/img/Fashion/Nosferatu-Female-alt02.jpg" width="150"/><br/>
-      <sub><b>Nosferatu Female alt02</b><br/><code>Nosferatu-Female-alt02.jpg</code></sub>
-    </td>
-    <td align="center" width="200">
       <img src="/img/Fashion/Nosferatu-Female-Default.jpg" width="150"/><br/>
-      <sub><b>Nosferatu Female Default</b><br/><code>Nosferatu-Female-Default.jpg</code></sub>
+      <sub><b>Nosferatu Female Default</b><br/>Uncheck all other options to get her</sub>
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Nosferatu-Female-alt01.jpg" width="150"/><br/>
-      <sub><b>Nosferatu Female alt01</b><br/><code>Nosferatu-Female-alt01.jpg</code></sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/318">Fashionista Nosferatu</a></b><br/>Check <code>Fashionista Nosferatu - Female</code></sub>
+    </td>
+    <td align="center" width="200">
+      <img src="/img/Fashion/Nosferatu-Female-alt02.jpg" width="150"/><br/>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/142">Tattooed Female Nosferatu</a></b><br/>Check <code>Tattooed Female Nosferatu - Female</code></sub>
     </td>
   </tr>
 </table>
@@ -167,11 +167,11 @@ I only included images of the first armor or character skin so the rest of them 
   <tr>
     <td align="center" width="200">
       <img src="/img/Fashion/Nosferatu-Male-Default.jpg" width="150"/><br/>
-      <sub><b>Nosferatu Male Default</b><br/><code>Nosferatu-Male-Default.jpg</code></sub>
+      <sub><b>Nosferatu Male Default</b><br/>Uncheck all other options to get him</sub>
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Nosferatu-Male-alt01.jpg" width="150"/><br/>
-      <sub><b>Nosferatu Male alt01</b><br/><code>Nosferatu-Male-alt01.jpg</code></sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/146">Aristocratic Nosferatu by Marius217</a></b><br/>Check <code>Aristocratic Nosferatu by Marius217 - Male</code></sub>
     </td>
     <td align="center" width="200"></td>
   </tr>
@@ -185,11 +185,11 @@ I only included images of the first armor or character skin so the rest of them 
   <tr>
     <td align="center" width="200">
       <img src="/img/Fashion/Toreador-Female-Default.jpg" width="150"/><br/>
-      <sub><b>Toreador Female Default</b><br/><code>Toreador-Female-Default.jpg</code></sub>
+      <sub><b>Toreador Female Default</b><br/>Uncheck all other optionns to get her</sub>
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Toreador-Female-alt01.jpg" width="150"/><br/>
-      <sub><b>Toreador Female alt01</b><br/><code>Toreador-Female-alt01.jpg</code></sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/149">Jenya's female toreador pc overhaul</a></b><br/>Check <code>Jenya's female toreador pc overhaul - Female</code></sub>
     </td>
     <td align="center" width="200"></td>
   </tr>
@@ -205,11 +205,11 @@ I only included images of the first armor or character skin so the rest of them 
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Toreador-Male-alt01.jpg" width="150"/><br/>
-      <sub><b>Toreador Male alt01</b><br/><code>Toreador-Male-alt01.jpg</code></sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/159">Toreador Lestat By Marius217</a></b><br/> Check <code>Toreador Lestat By Marius217 - Male</code></sub>
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Toreador-Male-alt02.jpg" width="150"/><br/>
-      <sub><b>Toreador Male alt02</b><br/><code>Toreador-Male-alt02.jpg</code></sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/133">MR DAMP by Marius217</a></b><br/><code>MR DAMP by Marius217 - Toreador - Male</code></sub>
     </td>
   </tr>
 </table>
@@ -222,7 +222,7 @@ I only included images of the first armor or character skin so the rest of them 
   <tr>
     <td align="center" width="200">
       <img src="/img/Fashion/Tremere-Female-Default.jpg" width="150"/><br/>
-      <sub><b>Tremere Female Default</b><br/><code>Tremere-Female-Default.jpg</code></sub>
+      <sub><b>Tremere Female Default</b><br/>Uncheck all other options to get her</sub>
     </td>
     <td align="center" width="200"></td>
     <td align="center" width="200"></td>
@@ -239,25 +239,25 @@ I only included images of the first armor or character skin so the rest of them 
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Tremere-Male-alt01.jpg" width="150"/><br/>
-      <sub><b>Tremere Male alt01</b><br/><code>Tremere-Male-alt01.jpg</code></sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/279">Tremere with a Beard</a></b><br/><code>Tremere with a Beard - Male</code></sub>
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Tremere-Male-alt02.jpg" width="150"/><br/>
-      <sub><b>Tremere Male alt02</b><br/><code>Tremere-Male-alt02.jpg</code></sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/113">Tremere Jerry Dandridge's skin Pc</a></b><br/>Check <code>Tremere skin Model by Marius217 - Male</code></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="200">
       <img src="/img/Fashion/Tremere-Male-alt03.jpg" width="150"/><br/>
-      <sub><b>Tremere Male alt03</b><br/><code>Tremere-Male-alt03.jpg</code></sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/114">Tremere skin Model by Marius217</a></b><br/>Check <code>Tremere skin Model by Marius217 - Male</code></sub>
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Tremere-Male-alt04.jpg" width="150"/><br/>
-      <sub><b>Tremere Male alt04</b><br/><code>Tremere-Male-alt04.jpg</code></sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/116">Tremere skin Model Red by Marius217</a></b><br/>Check <code>Tremere skin Model Red by Marius217 - Male</code></sub>
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Tremere-Male-alt05.jpg" width="150"/><br/>
-      <sub><b>Tremere Male alt05</b><br/><code>Tremere-Male-alt05.jpg</code></sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/133">MR DAMP by Marius217</a></b><br/><code>MR DAMP by Marius217 - Tremere - Male</code></sub>
     </td>
   </tr>
 </table>
@@ -270,15 +270,15 @@ I only included images of the first armor or character skin so the rest of them 
   <tr>
     <td align="center" width="200">
       <img src="/img/Fashion/Ventrue-Female-Default.jpg" width="150"/><br/>
-      <sub><b>Ventrue Female Default</b><br/><code>Ventrue-Female-Default.jpg</code></sub>
+      <sub><b>Ventrue Female Default</b><br/>Uncheck all other options to get her</sub>
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Ventrue-Female-alt01.jpg" width="150"/><br/>
-      <sub><b>Ventrue Female alt01</b><br/><code>Ventrue-Female-alt01.jpg</code></sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/327">Corporate Goth</a></b><br/>Check <code>Corporate Goth - Ventrue - Female</code></sub>
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Ventrue-Female-alt02.jpg" width="150"/><br/>
-      <sub><b>Ventrue Female alt02</b><br/><code>Ventrue-Female-alt02.jpg</code></sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/277">VENTRUE FEMALE RESKIN</a></b><br/>Check <code>VENTRUE FEMALE RESKIN - Female</code></sub>
     </td>
   </tr>
 </table>
@@ -293,17 +293,17 @@ I only included images of the first armor or character skin so the rest of them 
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Ventrue-Male-alt01.jpg" width="150"/><br/>
-      <sub><b>Ventrue Male alt01</b><br/><code>Ventrue-Male-alt01.jpg</code></sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/317">Libertarian Ventrue</a></b><br/>Check <code>Libertarian Ventrue - Male</code></sub>
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Ventrue-Male-alt02.jpg" width="150"/><br/>
-      <sub><b>Ventrue Male alt02</b><br/><code>Ventrue-Male-alt02.jpg</code></sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/288">Vagabond Ventrue</a></b><br/>Check <code>Vagabond Ventrue - Male</code></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="200">
       <img src="/img/Fashion/Ventrue-Male-alt03.jpg" width="150"/><br/>
-      <sub><b>Ventrue Male alt03</b><br/><code>Ventrue-Male-alt03.jpg</code></sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/273">Slick Ventrue</a></b><br/>Check <code>Slick Ventrue - Ventrue - Male</code></sub>
     </td>
     <td align="center" width="200"></td>
     <td align="center" width="200"></td>
