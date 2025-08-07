@@ -2,7 +2,7 @@
 
 ## Keyboard Shortcuts
 
-[Keyboard Shortcut List](img/vampire-the-masquerade-bloodlines---layout-and-hotkeys.png)
+[Keyboard Shortcut List](img/vampire-the-masquarade-bloodlines---layout-and-hotkeys.png)
 
 **Shift + F12** toggles the ENB on and off.
 
