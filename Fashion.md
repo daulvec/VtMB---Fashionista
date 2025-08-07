@@ -29,10 +29,10 @@ I only included images of the first armor or character skin so the rest of them 
   </tr>
 </table>
 
-
 ## Brujah
 
 ### Female
+
 <table>
   <tr>
     <td align="center" width="200">
@@ -82,11 +82,11 @@ I only included images of the first armor or character skin so the rest of them 
   <tr>
     <td align="center" width="200">
       <img src="/img/Fashion/Gangrel-Male-Default.jpg" width="150"/><br/>
-      <sub><b>Gangrel Male Default</b><br/><code>Gangrel-Male-Default.jpg</code></sub>
+      <sub><b>Gangrel Male Default</b><br/><code>Uncheck all options to get him</code></sub>
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Gangrel-Male-alt01.jpg" width="150"/><br/>
-      <sub><b>Gangrel Male alt01</b><br/><code>Gangrel-Male-alt01.jpg</code></sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/133">MR DAMP by Marius217</a></b><br/>check <code>MR DAMP by Marius217 - Gangrel Male</code></sub>
     </td>
     <td align="center" width="200"></td>
   </tr>
@@ -98,13 +98,13 @@ I only included images of the first armor or character skin so the rest of them 
 
 <table>
   <tr>
-    <td align="center" width="200">
-      <img src="/img/Fashion/Malkavian-Female-Alt1-Armor_2.jpg" width="150"/><br/>
-      <sub><b>Malkavian Female Alt1 Armor_2</b><br/><code>Malkavian-Female-Alt1-Armor_2.jpg</code></sub>
+      <td align="center" width="200">
+      <img src="/img/Fashion/Malkavian-Female-Default.jpg" width="150"/><br/>
+      <sub><b>Malkavian Female Default</b><br/>Uncheck all options to get her</sub>
     </td>
     <td align="center" width="200">
-      <img src="/img/Fashion/Malkavian-Female-Default.jpg" width="150"/><br/>
-      <sub><b>Malkavian Female Default</b><br/><code>Malkavian-Female-Default.jpg</code></sub>
+      <img src="/img/Fashion/Malkavian-Female-Alt1-Armor_2.jpg" width="150"/><br/>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/285">Latex Dictator Malkavian</a></b><br/>Check <code>Latex Dictator Malkavian - Leatherpants - Female</code></sub>
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Malkavian-Female-alt02-Armor_02.jpg" width="150"/><br/>
