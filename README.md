@@ -25,7 +25,7 @@ It's updated when someone tells me something is broken and I can fix it, or I st
 
 :womans_clothes: [Fashion - Outfits and Armors](Fashion.md)
 
-:file_folder: [Known Problematic Downloads](ProblematicFiles.md)
+:file_folder: [Files](Files.md)
 
 :clipboard: [Changelog](changelog.md)
 
