@@ -1,8 +1,9 @@
-# VtMB---Fashionista
+# Fashionista
 
 ![Fashionista Banner](img/Splash%20Design.webp)
 
-First things first: **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.**
+> [! First things first:] 
+> **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.**
 
 ## What is Fashionista?
 
@@ -12,13 +13,17 @@ Fashionista is a Vampire the Masquerade: Bloodlines list that I put together so 
 
 It's updated when someone tells me something is broken and I can fix it, or I start another playthrough and look for new mods or the Unofficial Patch updates.
 
-### Quick Links
-
 :arrow_down: [All Manual Downloads](Files.md)
 
-:file_folder: [Known Problematic Downloads](ProblematicFiles.md)
-
 :exclamation: [Common Issues](ComonIssues.md)
+
+:video_game: [Gameplay Tips](Gameplay-Tips.md)
+
+:pencil2: [Customize List](CustomizeList,md)
+
+:womans_clothes: [Fashion - Outfits and Armors](Fashion.md)
+
+:file_folder: [Known Problematic Downloads](ProblematicFiles.md)
 
 ### Need Support?
 
@@ -26,35 +31,30 @@ It's updated when someone tells me something is broken and I can fix it, or I st
 
 ## Contents
 
-- [What is Fashionista?](#what-is-fashionista)
-- [When is the List updated](#when-is-the-list-updated)
-- [Quick Links](#quick-links)
-- [Need Support?](#need-support)
-- [Contents](#contents)
-- [Preface](#preface)
-- [Hardware Requirements](#hardware-requirements)
-  - [Storage Space](#storage-space)
-- [You Will Need](#you-will-need)
-- [Pre-Installation](#pre-installation)
-  - [Install Microsoft Visual C++ Redistributable Packages](#install-microsoft-visual-c-redistributable-packages)
-  - [Setup your Antivirus](#setup-your-antivirus)
+- [Fashionista](#fashionista)
+  - [What is Fashionista?](#what-is-fashionista)
+    - [When is the List updated?](#when-is-the-list-updated)
+    - [Need Support?](#need-support)
+  - [Contents](#contents)
+  - [Preface](#preface)
+  - [Hardware Requirements](#hardware-requirements)
+    - [Storage Space](#storage-space)
+  - [You Will Need](#you-will-need)
+  - [Pre-Installation](#pre-installation)
+    - [Install Microsoft Visual C++ Redistributable Packages](#install-microsoft-visual-c-redistributable-packages)
+    - [Setup your Antivirus](#setup-your-antivirus)
   - [Disable Steam Overlay](#disable-steam-overlay)
-- [Installation](#installation)
-  - [Commonly Failing Downloads](#commonly-failing-downloads)
-- [Post-Installation](#post-installation)
-  - [Launch the Game](#launch-the-game)
-  - [Creating a desktop shortcut](#creating-a-desktop-shortcut)
-- [Optional Mod Setup](#optional-mod-setup)
-  - [Custom Clan UI](#custom-clan-ui)
-  - [Fashion](#fashion)
-  - [ENB](#enb)
-- [Alternative Profiles](#alternative-profiles)
-  - [Default Game Plus Unofficial Patch](#default-game-plus-unofficial-patch---not-in-list-yet-still-in-dev)
-  - [HD Overhaul](#hd-overhaul)
-  - [To Come](#to-come)
-- [Updating Fashionista](#updating-fashionista)
-- [Uninstalling Fashionista](#uninstalling-fashionista)
-- [Extra Notes about the List](#extra-notes-about-the-list)
+  - [Installation](#installation)
+  - [Post-Installation](#post-installation)
+    - [Launch the game](#launch-the-game)
+    - [Creating a desktop shortcut](#creating-a-desktop-shortcut)
+  - [Alternative Profiles](#alternative-profiles)
+    - [Default Game Plus Unofficial Patch](#default-game-plus-unofficial-patch)
+    - [HD Overhaul](#hd-overhaul)
+  - [Updating Fashionista](#updating-fashionista)
+  - [Uninstalling Fashionista](#uninstalling-fashionista)
+  - [Gameplay Guide](#gameplay-guide)
+  - [Customizing the List](#customizing-the-list)
 
 ## Preface
 
@@ -64,13 +64,13 @@ Some small notes about the list and the support and troubleshooting:
 2. Support shouldn't be expected as instant—I have a full-time job on top of this, be nice.
 3. Do not expect a 100% polished, well-balanced, and "perfect" experience. I am but one person, even if it's just a small list... and this is a famously buggy game.
 4. We're modding a nearly 20-year-old game here, please temper your expectations some.
-5. Suggestions are fine, but I have looked at every single mod on the Nexus for the list so there is a decent chance I looked at it and said no. But there is always a chance, or it might be a new mod—they still do come out from time to time, or something I missed.
+5. Suggestions are fine, but I have looked at every single mod on the Nexus for the list so there is a decent chance I looked at it and said no or there are issues with adding it due to compatability issues. But there is always a chance, or it might be a new mod —they still do come out from time to time, or something I missed.
 
 ## Hardware Requirements
 
 |             | CPU                                           | RAM                 | GPU                |
 |-------------|-----------------------------------------------|---------------------|--------------------|
-| What I have | AMD Ryzen 7 5800X3D 8-Core Processor 3.40 GHz | 32GB DDR4 @ 3200MHz | AMD Radeon RX 6950 |
+| **What I have** | AMD Ryzen 7 5800X3D 8-Core Processor 3.40 GHz | 32GB DDR4 @ 3200MHz | AMD Radeon RX 6950 |
 
 It runs great with my system but it's probably fine on a potato.
 
@@ -78,8 +78,8 @@ It runs great with my system but it's probably fine on a potato.
 
 |             | Total Space   | Storage Type        |
 |-------------|--------------|---------------------|
-| Minimum     | 32GB         | SATA SSD            |
-| Recommended | 60GB         | NVMe SSD            |
+| **Minimum**     | 32GB         | SATA SSD            |
+| **Recommended** | 60GB         | NVMe SSD            |
 
 Your installation must be on an ***internal*** SSD or M.2 Drive. External SSDs & HDDs are too slow for modlists to run from, and I suggest an M.2 drive otherwise load and launch times are a bit longer than you would want.
 
@@ -123,17 +123,6 @@ Set the installation location to a folder on the root of a drive, something like
 > [!TIP]
 > **I recommend you keep your downloads outside of the Fashionista installation folder!**
 
-### Commonly Failing Downloads
-
-Downloads from non-Nexus file hosts often refuse to download automatically via Wabbajack for various reasons.
-
-!! This is a temp section only here in case it's needed. There are no commonly failing files I am aware of at this time.
-
-TO DO 1. [All Manual Downloads are listed here.](https://github.com/daulvec/VtMB---Fashionista/wiki)  
-TO DO 2. [All known problematic files are listed here.](ProblematicFiles.md)
-
-Download these files and place them *as they are* into the Resource Download folder.
-
 ## Post-Installation
 
 After Wabbajack has given you the installation successful screen, you're free to close it.
@@ -158,39 +147,6 @@ Open MO2, ensure **Launch** is selected in the dropdown and click the "Shortcut"
 
 ![Desktop Shortcut Creation](img/Shortcut.png)  
 
-## Optional Mod Setup
-
-There are a couple of optional mods that you can enable or disable in the mod panel (the left panel in Mod Organizer).  
-
-### Custom Clan UI
-
-This section is where you can enable a custom UI for a specific clan. Not all clans have one, but it's a nice touch if you plan on playing a supported clan. Make sure you select only one option.  
-
-![Custom Clans UI](img/Clans.png)
-
-### Fashion
-
-This section is for custom looks for the PC (Player Character). I have it broken down by clan and set it up to have a Male or Female tag at the end. Most of the time you should only activate one male and one female option per area, or at the end there is an area for mods that cover all clans.  
-
-![Fashion](img/Fashion.png)  
-
-To see all the outfits and armors that I have added you can look here:  
-
-[All Fashion](Fashion.md)
-
-### ENB
-
-The ENB I have selected is a good general ENB but I have added a couple extra if you wish to try them instead.
-
-The default shortcut to enable or disable the ENB is Shift + F12.
-
-If you want to use one of the other ENBs you would have to:
-
-- Uncheck **Dev0lved ENB**
-- Check the other ENB you wish to try.
-
-![ENB](/img/ENB-new.png)
-
 ## Alternative Profiles
 
 I added two additional profiles that you can use if you want. Just select the profile you want in the dropdown and launch the game as normal.
@@ -205,19 +161,6 @@ For the people that want to experience the game as it originally was presented. 
 
 This is a large all-in-one overhaul. It contains HD textures for basically the full game, a new UI, new music, and its own Reshade.
 
-### To Come
-
-I plan on getting some other quest mods and expansions added to the game so I can play them eventually, such as the following:
-
-- Clan Quest Mod
-- Bloodlines Extreme
-- VTMB Prelude
-- Ming Xiao Romance
-- Vampire The Masquerade: Bloodlines - RTX Remaster
-  - This has been tested and is not working with the list. I will continue to work on it to see if we can get it working.
-
-These will probably be required to be alternative profiles and I want to test them before I release them.
-
 ## Updating Fashionista
 
 When an update is released, please always check the [changelog](changelog.md) first. Backup your saves before you commit to any updates. Wabbajack doesn't usually touch save files, but it does have the ability to delete them if it wanted to.
@@ -231,3 +174,7 @@ Just delete the Fashionista folder and it'll be gone.
 ## Gameplay Guide
 
 [Gameplay Guide](Gameplay-Tips.md)
+
+## Customizing the List
+
+[Go Here for more information on Customizing the list](CustomizeList,md)

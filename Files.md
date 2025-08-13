@@ -1,120 +1,122 @@
 # Links to Files
 
+Links to all the mods used as well as what options to download if you are having issues with the auto downloader.
+
 - [VTMBup115.exe](https://www.nexusmods.com/vampirebloodlines/mods/80)
-    - VTMBup115.exe
+  - VTMBup115.exe
 - [VTMB HD Overhaul](https://www.nexusmods.com/vampirebloodlines/mods/234)
-    - VTMB HD Overhaul Complete
-    - Brighter UI
+  - VTMB HD Overhaul Complete
+  - Brighter UI
 - [NPCs Improved - Chinatown](https://www.nexusmods.com/vampirebloodlines/mods/165)
-    - Chinatown
-    - Downtown
-    - Hollywood
-    - Other
-    - Santa Monica.
+  - Chinatown
+  - Downtown
+  - Hollywood
+  - Other
+  - Santa Monica.
 - [Character eyes Improved](https://www.nexusmods.com/vampirebloodlines/mods/164)
-    - Character Eyes Improved
+  - Character Eyes Improved
 - [E Mesh Edit](https://www.nexusmods.com/vampirebloodlines/mods/238)
-    - E Mesh Edit
+  - E Mesh Edit
 - [Lily UV map fix](https://www.nexusmods.com/vampirebloodlines/mods/237)
-    - Lily UV map fix
+  - Lily UV map fix
 - [Rats replacement (useless but cute)](https://www.nexusmods.com/vampirebloodlines/mods/272)
-    - Rats replacement
+  - Rats replacement
 - [Overhauled First-Person Hands Models](https://www.nexusmods.com/vampirebloodlines/mods/271)
-    - overhauled first-person hands models
+  - overhauled first-person hands models
 - [Beautiful Monster - Female Hands Retexture](https://www.nexusmods.com/vampirebloodlines/mods/74)
-    - Beautiful Monster - Female Hands Retexture
+  - Beautiful Monster - Female Hands Retexture
 - [Street Sign Texture Pack](https://www.nexusmods.com/vampirebloodlines/mods/106)
-    - Street Sign Texture Pack
+  - Street Sign Texture Pack
 - [Venus Retextured](https://www.nexusmods.com/vampirebloodlines/mods/16)
-    - Venus Retexture
+  - Venus Retexture
 - [Seduce dialogs for males](https://www.nexusmods.com/vampirebloodlines/mods/38)
-    - SeduceDialogsForMales
+  - SeduceDialogsForMales
 - [Bisexual Utopia](https://www.nexusmods.com/vampirebloodlines/mods/314)
-    - Bisexual Utopia
+  - Bisexual Utopia
 - [Uninterrupted background music](https://www.nexusmods.com/vampirebloodlines/mods/303)
-    - Uninterrupted BGM
+  - Uninterrupted BGM
 - [HQ Music Tracks](https://www.nexusmods.com/vampirebloodlines/mods/324)
-    - Main Songs HQ
+  - Main Songs HQ
 - [VtM Bloodlines Sound Overhaul](https://www.nexusmods.com/vampirebloodlines/mods/295)
-    - Sound Overhaul
+  - Sound Overhaul
 - [Remixed Menu Music For Vampire The Masquerade - Bloodlines](https://www.nexusmods.com/vampirebloodlines/mods/334)
-    - Remixed Menu Music For VtMB
+  - Remixed Menu Music For VtMB
 - [Bloodlines Voices Remastered](https://www.nexusmods.com/vampirebloodlines/mods/307)
-    - Bloodlines Voices Remastered Mod Version 1.02
-    - Bloodlines Voices Remastered Mod Update 2
-    - Voices Remastered Mod - Unofficial Patch Add-on
+  - Bloodlines Voices Remastered Mod Version 1.02
+  - Bloodlines Voices Remastered Mod Update 2
+  - Voices Remastered Mod - Unofficial Patch Add-on
 - [Malkavian Whispers](https://www.nexusmods.com/vampirebloodlines/mods/280)
-    - MalkWhispers
+  - MalkWhispers
 - [No-Intro (Skip Startup - Splash Videos)](https://www.nexusmods.com/vampirebloodlines/mods/266)
-    - VTMBNo-IntroFix
+  - VTMBNo-IntroFix
 - [Better lockpicking icons for UP](https://www.nexusmods.com/vampirebloodlines/mods/308)
-    - Lockpicking icons for UP
+  - Lockpicking icons for UP
 - [Clan-specific interface](https://www.nexusmods.com/vampirebloodlines/mods/284)
-    - Nosferatu Interface
-    - Toreador interface
-    - Ventrue Interface
+  - Nosferatu Interface
+  - Toreador interface
+  - Ventrue Interface
 - [Player Characters improved - Do not disable](https://www.nexusmods.com/vampirebloodlines/mods/163)
-    - Player Characters Improved
+  - Player Characters Improved
 - [Brujah Vampire rexture - Male](https://www.nexusmods.com/vampirebloodlines/mods/117)
-    - Vampire Brujah my version Marius 217
+  - Vampire Brujah my version Marius 217
 - [JOKER BRUJAH - Male](https://www.nexusmods.com/vampirebloodlines/mods/123)
-    - vampire Joker brujah
+  - vampire Joker brujah
 - [MR DAMP by Marius217 - Gangrel Male](https://www.nexusmods.com/vampirebloodlines/mods/133)
-    - Vampire Malkavian Gangrel tremere Toreador by Marius217
+  - Vampire Malkavian Gangrel tremere Toreador by Marius217
 - [Latex Dictator Malkavian - Leatherpants - Female](https://www.nexusmods.com/vampirebloodlines/mods/285)
-    - Latex Dictator Malkavian
+  - Latex Dictator Malkavian
 - [Malkavian female model (yet another update) 0 - Female](https://www.nexusmods.com/vampirebloodlines/mods/286)
-    - Malkavian_female_24.12.2023
+  - Malkavian_female_24.12.2023
 - [Malkavian Noir - Female Armor 1 - Female](https://www.nexusmods.com/vampirebloodlines/mods/45)
-    - malk_noir
+  - malk_noir
 - [Yuki Custom PC (Recovered) - malkavian Female](https://www.nexusmods.com/vampirebloodlines/mods/355)
-    - Yuki PC Skin
+  - Yuki PC Skin
 - [The Crow Malkavian - Male](https://www.nexusmods.com/vampirebloodlines/mods/331)
-    - The Crow Malkavian 1.
+  - The Crow Malkavian 1.
 - [MR DAMP by Marius217 - Malkavian - Male](https://www.nexusmods.com/vampirebloodlines/mods/133)
-    - Vampire Malkavian Gangrel tremere Toreador by Marius217
+  - Vampire Malkavian Gangrel tremere Toreador by Marius217
 - [Fashionista Nosferatu - Female](https://www.nexusmods.com/vampirebloodlines/mods/318)
-    - Fashionista Nosferatu
+  - Fashionista Nosferatu
 - [Tattooed Female Nosferatu - Female](https://www.nexusmods.com/vampirebloodlines/mods/142)
-    - Tattooed Female Nosferatu
+  - Tattooed Female Nosferatu
 - [Aristocratic Nosferatu by Marius217 - Male](https://www.nexusmods.com/vampirebloodlines/mods/146)
-    - Aristocratic nosferatu by marius217
+  - Aristocratic nosferatu by marius217
 - [Jenya's female toreador pc overhaul - Female](https://www.nexusmods.com/vampirebloodlines/mods/149)
-    - Jenya's female toreador pc
+  - Jenya's female toreador pc
 - [Toreador Lestat By Marius217 - Male](https://www.nexusmods.com/vampirebloodlines/mods/159)
-    - toreador Lestat by Marius217
+  - toreador Lestat by Marius217
 - [MR DAMP by Marius217 - Toreador - Male](https://www.nexusmods.com/vampirebloodlines/mods/133)
-    - Vampire Malkavian Gangrel tremere Toreador by Marius217
+  - Vampire Malkavian Gangrel tremere Toreador by Marius217
 - [Tremere with a Beard - Male](https://www.nexusmods.com/vampirebloodlines/mods/279)
-    - Tremere With a Beard
+  - Tremere With a Beard
 - [Tremere Jerry Dandridge's skin Pc - Male](https://www.nexusmods.com/vampirebloodlines/mods/113)
-    - vampire tremere Jerry Dandridge (Fright Night) by Marius217
+  - vampire tremere Jerry Dandridge (Fright Night) by Marius217
 - [Tremere skin Model by Marius217 - Male](https://www.nexusmods.com/vampirebloodlines/mods/114)
-    - vampire tremere Dark by Marius217
-    - vampire tremere Head Fixx by Marius217
+  - vampire tremere Dark by Marius217
+  - vampire tremere Head Fixx by Marius217
 - [Tremere skin Model Red by Marius217 - Male](https://www.nexusmods.com/vampirebloodlines/mods/116)
-    - vampire Tremere Male my version original by Marius217
+  - vampire Tremere Male my version original by Marius217
 - [MR DAMP by Marius217 - Tremere - Male](https://www.nexusmods.com/vampirebloodlines/mods/133)
-    - Vampire Malkavian Gangrel tremere Toreador by Marius217
+  - Vampire Malkavian Gangrel tremere Toreador by Marius217
 - [Corporate Goth - Ventrue - Female](https://www.nexusmods.com/vampirebloodlines/mods/327)
-    - Corporate Goth
+  - Corporate Goth
 - [VENTRUE FEMALE RESKIN - Female](https://www.nexusmods.com/vampirebloodlines/mods/277)
-    - Ventrue female reskin
+  - Ventrue female reskin
 - [Libertarian Ventrue - Male](https://www.nexusmods.com/vampirebloodlines/mods/317)
-    - Libertarian Ventrue
+  - Libertarian Ventrue
 - [Vagabond Ventrue - Male](https://www.nexusmods.com/vampirebloodlines/mods/288)
-    - Vagabond Ventrue
+  - Vagabond Ventrue
 - [Slick Ventrue - Ventrue - Male](https://www.nexusmods.com/vampirebloodlines/mods/273)
-    - Slick Ventrue
+  - Slick Ventrue
 - [Wednesday Night - All Clans - Male and Female](https://www.nexusmods.com/vampirebloodlines/mods/48)
-    - wednesday_night
+  - wednesday_night
 - [Dev0lved ENB - Uncheck if you use another ENB](https://www.nexusmods.com/vampirebloodlines/mods/10)
-    - dev0lved_enb_v1.2.zip
+  - dev0lved_enb_v1.2.zip
 - [Nocturnal Excess (ENB-ReShade)](https://www.nexusmods.com/vampirebloodlines/mods/102)
-    - Nocturnal Excess (ENB-ReShade)
+  - Nocturnal Excess (ENB-ReShade)
 - [LA Nights Realistic Lighting ENB WABBAJACK_ALWAYS_ENABLE](https://www.nexusmods.com/vampirebloodlines/mods/342)
-    - LA Nights ENB - Main File
+  - LA Nights ENB - Main File
 - [Unrealistically Realistic - Brighter](https://www.nexusmods.com/vampirebloodlines/mods/246)
-    - unreal_enb_final
+  - unreal_enb_final
 - [Unrealistically Realistic - The Works- RayTracing - Reshade - ENB - HDR](https://www.nexusmods.com/vampirebloodlines/mods/246)
-    - unreal_enb_final
+  - unreal_enb_final

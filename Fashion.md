@@ -12,7 +12,7 @@ I only included images of the first armor or character skin so the rest of them 
   <tr>
     <td align="center" width="200">
       <img src="/img/Fashion/All_Clans-Female-alt01.jpg" width="150"/><br/>
-      <sub><b>All_Clans Female alt01</b><br/><code>All_Clans-Female-alt01.jpg</code></sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/48">Wednesday Night</a></b><br/>Check this <code>Wednesday Night - All Clans - Male and Female</code> Warning this will overwrite all the other outfits.</sub>
     </td>
     <td align="center" width="200"></td>
     <td align="center" width="200"></td>
