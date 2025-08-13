@@ -13,6 +13,8 @@ Fashionista is a Vampire the Masquerade: Bloodlines list that I put together so 
 
 It's updated when someone tells me something is broken and I can fix it, or I start another playthrough and look for new mods or the Unofficial Patch updates.
 
+### Quick Links
+
 :arrow_down: [All Manual Downloads](Files.md)
 
 :exclamation: [Common Issues](ComonIssues.md)
@@ -34,6 +36,7 @@ It's updated when someone tells me something is broken and I can fix it, or I st
 - [Fashionista](#fashionista)
   - [What is Fashionista?](#what-is-fashionista)
     - [When is the List updated?](#when-is-the-list-updated)
+    - [Quick Links](#quick-links)
     - [Need Support?](#need-support)
   - [Contents](#contents)
   - [Preface](#preface)
