@@ -180,4 +180,4 @@ Just delete the Fashionista folder and it'll be gone.
 
 ## Customizing the List
 
-[Go Here for more information on Customizing the list](CustomizeList,md)
+[Go Here for more information on Customizing the list](CustomizeList.md)
