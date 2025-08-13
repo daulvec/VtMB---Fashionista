@@ -27,6 +27,8 @@ It's updated when someone tells me something is broken and I can fix it, or I st
 
 :file_folder: [Known Problematic Downloads](ProblematicFiles.md)
 
+:clipboard: [Changelog](changelog.md)
+
 ### Need Support?
 
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/iAmModlist)
