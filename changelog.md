@@ -65,7 +65,7 @@ Initial Release on the UI under Unofficial
 
 ### Updated Mods
 
-1. Updated (NPCs Improved)[https://www.nexusmods.com/vampirebloodlines/mods/165]
+1. Updated [NPCs Improved](https://www.nexusmods.com/vampirebloodlines/mods/165)
 
 ### Removed Mods
 
@@ -80,3 +80,53 @@ Initial Release on the UI under Unofficial
 ### Tweaks
 
 None
+
+## Fashionista v1.0.1
+
+### Added Mods
+
+- [Art Texture Pack](https://www.nexusmods.com/vampirebloodlines/mods/75?tab=files)
+  - Art Texture Pack 1.01
+  - Red Dragon art pack add-on
+- [Carpet Texture Pack](https://www.nexusmods.com/vampirebloodlines/mods/152)
+  - Carpet Texture Pack
+  - TFN 1.6 texture bug fix 1.1
+- [Food Texture Pack](https://www.nexusmods.com/vampirebloodlines/mods/53)
+  - Food Texture Pack
+- [Furniture Texture Pack](https://www.nexusmods.com/vampirebloodlines/mods/88)
+  - Furniture Texture Pack - Base Pack 1.1
+  - Stained glass standing lamp
+- [HD GROUNDS WIP](https://www.nexusmods.com/vampirebloodlines/mods/34)
+  - HD Grounds morestuff
+  - HD Grounds part 2
+  - HDGrounds Hotfix
+- [Hooded gangmember black gray retexture](https://www.nexusmods.com/vampirebloodlines/mods/292)
+  - Gangmember Dark Retex Main File
+- [Boombox reskin](https://www.nexusmods.com/vampirebloodlines/mods/108)
+  - Boombox reskin - animated clock
+- [Sweet Heather by Skeletoff](https://www.nexusmods.com/vampirebloodlines/mods/212)
+  - Sweet Heather by Skeletoff
+- [Throwing a bone for the Canines](https://www.nexusmods.com/vampirebloodlines/mods/90)
+  - Throwing a bone for the canines
+
+### Removed Mods
+
+- [Tremere with a Beard](https://www.nexusmods.com/vampirebloodlines/mods/279)
+  - Broken Skin Textures and Low Quality.
+
+### New Profiles
+
+- Fashionista - Barabbah Addon
+  - [Barabbah's addon](https://www.nexusmods.com/vampirebloodlines/mods/157)
+    - Barabbah's Addon
+
+This Profile changes the main Classes and Clans to custom one, adds the Companion Mod that lets you have followers adds a Arsenal Overhaul, adds new fights, Mini Bosses and much much more.
+
+I have made sure the game launches and that you can get through the first levels but I have not done a lot of testing on this.
+
+### Fixes/Changes
+
+1. Changed the default game launch options from Windowed to Fullscreen.
+2. Re-did most of the Readme with a better layout and images and additional information.
+
+This update is mostly adding higher res textures to some things that were missing them as well as some bug fixes and changing the default back to fullscreen instead of windowed mode.
