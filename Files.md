@@ -143,5 +143,3 @@ Links to all the mods used as well as what options to download if you are having
   - Sweet Heather by Skeletoff
 - [Throwing a bone for the Canines](https://www.nexusmods.com/vampirebloodlines/mods/90)
   - Throwing a bone for the canines
-- [Barabbah's addon](https://www.nexusmods.com/vampirebloodlines/mods/157)
-  - Barabbah's Addon

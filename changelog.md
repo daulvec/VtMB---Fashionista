@@ -50,8 +50,6 @@ Initial Release on the UI under Unofficial
 2. Broken the Unoffial Patch into 2 mods so that only the required files are loaded in Root Builder
 3. Added [Dev0lved ENB](https://www.nexusmods.com/vampirebloodlines/mods/10)
 
-</details>
-
 ## Fashionista v1.0.0
 
 ### Added Mods
@@ -80,6 +78,8 @@ Initial Release on the UI under Unofficial
 ### Tweaks
 
 None
+
+</details>
 
 ## Fashionista v1.0.1
 
@@ -114,19 +114,11 @@ None
 - [Tremere with a Beard](https://www.nexusmods.com/vampirebloodlines/mods/279)
   - Broken Skin Textures and Low Quality.
 
-### New Profiles
-
-- Fashionista - Barabbah Addon
-  - [Barabbah's addon](https://www.nexusmods.com/vampirebloodlines/mods/157)
-    - Barabbah's Addon
-
-This Profile changes the main Classes and Clans to custom one, adds the Companion Mod that lets you have followers adds a Arsenal Overhaul, adds new fights, Mini Bosses and much much more.
-
-I have made sure the game launches and that you can get through the first levels but I have not done a lot of testing on this.
-
 ### Fixes/Changes
 
 1. Changed the default game launch options from Windowed to Fullscreen.
-2. Re-did most of the Readme with a better layout and images and additional information.
+2. Re-did most of the Readme with a better layout, Updated images and additional information.
 
-This update is mostly adding higher res textures to some things that were missing them as well as some bug fixes and changing the default back to fullscreen instead of windowed mode.
+The Core of this update is updating a bunch of textures that did not have hi-res options switching the main profile to Fullscreen instead of Windowed and some bug fixes and cleanup.
+
+Additional overhaul will need to be looked into later as the exe's are not visable to wabbajack so I can not include them.
