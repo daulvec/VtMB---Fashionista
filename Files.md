@@ -120,3 +120,26 @@ Links to all the mods used as well as what options to download if you are having
   - unreal_enb_final
 - [Unrealistically Realistic - The Works- RayTracing - Reshade - ENB - HDR](https://www.nexusmods.com/vampirebloodlines/mods/246)
   - unreal_enb_final
+- [Art Texture Pack](https://www.nexusmods.com/vampirebloodlines/mods/75?tab=files)
+  - Art Texture Pack 1.01
+  - Red Dragon art pack add-on
+- [Carpet Texture Pack](https://www.nexusmods.com/vampirebloodlines/mods/152)
+  - Carpet Texture Pack
+  - TFN 1.6 texture bug fix 1.1
+- [Food Texture Pack](https://www.nexusmods.com/vampirebloodlines/mods/53)
+  - Food Texture Pack
+- [Furniture Texture Pack](https://www.nexusmods.com/vampirebloodlines/mods/88)
+  - Furniture Texture Pack - Base Pack 1.1
+  - Stained glass standing lamp
+- [HD GROUNDS WIP](https://www.nexusmods.com/vampirebloodlines/mods/34)
+  - HD Grounds morestuff
+  - HD Grounds part 2
+  - HDGrounds Hotfix
+- [Hooded gangmember black gray retexture](https://www.nexusmods.com/vampirebloodlines/mods/292)
+  - Gangmember Dark Retex Main File
+- [Boombox reskin](https://www.nexusmods.com/vampirebloodlines/mods/108)
+  - Boombox reskin - animated clock
+- [Sweet Heather by Skeletoff](https://www.nexusmods.com/vampirebloodlines/mods/212)
+  - Sweet Heather by Skeletoff
+- [Throwing a bone for the Canines](https://www.nexusmods.com/vampirebloodlines/mods/90)
+  - Throwing a bone for the canines

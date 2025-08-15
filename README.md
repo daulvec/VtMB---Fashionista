@@ -60,6 +60,7 @@ It's updated when someone tells me something is broken and I can fix it, or I st
   - [Uninstalling Fashionista](#uninstalling-fashionista)
   - [Gameplay Guide](#gameplay-guide)
   - [Customizing the List](#customizing-the-list)
+- [Special Thanks to Luca|EzioTheDeadPoet for the assistance with the list, without him there would be no list.](#special-thanks-to-lucaeziothedeadpoet-for-the-assistance-with-the-list-without-him-there-would-be-no-list)
 
 ## Preface
 
@@ -183,3 +184,5 @@ Just delete the Fashionista folder and it'll be gone.
 ## Customizing the List
 
 [Go Here for more information on Customizing the list](CustomizeList.md)
+
+# Special Thanks to [Luca|EzioTheDeadPoet](https://github.com/EzioTheDeadPoet) for the assistance with the list, without him there would be no list.

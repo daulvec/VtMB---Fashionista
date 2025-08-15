@@ -50,8 +50,6 @@ Initial Release on the UI under Unofficial
 2. Broken the Unoffial Patch into 2 mods so that only the required files are loaded in Root Builder
 3. Added [Dev0lved ENB](https://www.nexusmods.com/vampirebloodlines/mods/10)
 
-</details>
-
 ## Fashionista v1.0.0
 
 ### Added Mods
@@ -65,7 +63,7 @@ Initial Release on the UI under Unofficial
 
 ### Updated Mods
 
-1. Updated (NPCs Improved)[https://www.nexusmods.com/vampirebloodlines/mods/165]
+1. Updated [NPCs Improved](https://www.nexusmods.com/vampirebloodlines/mods/165)
 
 ### Removed Mods
 
@@ -80,3 +78,47 @@ Initial Release on the UI under Unofficial
 ### Tweaks
 
 None
+
+</details>
+
+## Fashionista v1.0.1
+
+### Added Mods
+
+- [Art Texture Pack](https://www.nexusmods.com/vampirebloodlines/mods/75?tab=files)
+  - Art Texture Pack 1.01
+  - Red Dragon art pack add-on
+- [Carpet Texture Pack](https://www.nexusmods.com/vampirebloodlines/mods/152)
+  - Carpet Texture Pack
+  - TFN 1.6 texture bug fix 1.1
+- [Food Texture Pack](https://www.nexusmods.com/vampirebloodlines/mods/53)
+  - Food Texture Pack
+- [Furniture Texture Pack](https://www.nexusmods.com/vampirebloodlines/mods/88)
+  - Furniture Texture Pack - Base Pack 1.1
+  - Stained glass standing lamp
+- [HD GROUNDS WIP](https://www.nexusmods.com/vampirebloodlines/mods/34)
+  - HD Grounds morestuff
+  - HD Grounds part 2
+  - HDGrounds Hotfix
+- [Hooded gangmember black gray retexture](https://www.nexusmods.com/vampirebloodlines/mods/292)
+  - Gangmember Dark Retex Main File
+- [Boombox reskin](https://www.nexusmods.com/vampirebloodlines/mods/108)
+  - Boombox reskin - animated clock
+- [Sweet Heather by Skeletoff](https://www.nexusmods.com/vampirebloodlines/mods/212)
+  - Sweet Heather by Skeletoff
+- [Throwing a bone for the Canines](https://www.nexusmods.com/vampirebloodlines/mods/90)
+  - Throwing a bone for the canines
+
+### Removed Mods
+
+- [Tremere with a Beard](https://www.nexusmods.com/vampirebloodlines/mods/279)
+  - Broken Skin Textures and Low Quality.
+
+### Fixes/Changes
+
+1. Changed the default game launch options from Windowed to Fullscreen.
+2. Re-did most of the Readme with a better layout, Updated images and additional information.
+
+The Core of this update is updating a bunch of textures that did not have hi-res options switching the main profile to Fullscreen instead of Windowed and some bug fixes and cleanup.
+
+Additional overhaul will need to be looked into later as the exe's are not visable to wabbajack so I can not include them.
