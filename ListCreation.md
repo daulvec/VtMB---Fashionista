@@ -19,8 +19,8 @@ Here is some information I have found on modding this game using Wabbajack and M
 
 ## Setting Up Mod Organizer
 
-- Mod Organizer need to be installed as the Portable Version.
-- The Plugin for the game is here:  `\ModOrganizerFolder\plugins\basic_games\game\game_vampirebloodlines.py`
+- Mod Organizer needs to be installed as the Portable Version.
+- The plugin for the game is here:  `\ModOrganizerFolder\plugins\basic_games\game\game_vampirebloodlines.py`
 - The  `GameDataPath = "vampire" `  is the path that it defaults to for installing mods, you probably want to update it to `Unoffical_Patch`
 
 ### Stock Game Folder vs Root Builder
@@ -35,9 +35,9 @@ The Stock Game Folder method copies all the game files into a folder in Mod Orga
 
 - Probably the easiest to set up
 - Will let you have multiple lists installed without having issues with other lists
-  - This is currently not a big deal as this is the only VtM:B List but his could change in the future.
+  - This is currently not a big deal as this is the only VtM:B list, but his could change in the future.
 - You can add an ENB to the Stock Game folder
-- You can install the Unofficial Path to the Stock Game folder and this is the easiest method to add the Patch
+- You can install the Unofficial Path to the Stock Game folder and this is the easiest method to add the patch
 - Faster
 
 ##### Cons
@@ -57,26 +57,26 @@ The Stock Game Folder method copies all the game files into a folder in Mod Orga
 #### Cons
 
 - Can be much slower to launch the game if you try to run the full game or all the mods through it
-- Harder to Setup and work with
+- Harder to set up and work with
 
 I made the decision to go with root builder as I wanted to support GOG.
 
 ### Root Builder Setup and Info
 
-Any mod or files in a mod that you want to go into the Root of the game folder you would put inside a folder named "root" when setting up the mod.
+Any mod or files in a mod that you want to go into the root of the game folder you would put inside a folder named "root" when setting up the mod.
 
 ![Root Builder Settings](img/RootBuilder.png)
 
 ### Unofficial patch
 
-When setting up the Unofficial Patch in the game, the process is a bit different then you would think.
+When setting up the Unofficial Patch in the game, the process is a bit different than you would think.
 
 1. Start by making sure the game is installed and then browse to the installation folder.
 2. Grab the vampire.exe file, make a copy of it and paste it into a new folder, preferably close to the root of the drive.
-   - This is because of the limited maximum path length in windows 
-   - So something like `C:\Temp`
-3. Download the Unofficial patch
-4. Double click to install the patch and then when it asks where you want it installed change the path to the folder you setup in step 2
+   - This is because of the limited maximum path length in windows.
+   - So something like `C:\Temp`.
+3. Download the Unofficial patch.
+4. Double click to install the patch and then when it asks where you want it installed, change the path to the folder you setup in step 2.
    - This is done as the Unoffical Patch needs to patch the EXE of the game, but we don't want all the files and folders added to the stock game, as we will be adding them as a mod in Mod Organizer.
 5. I suggest **NOT** using the extra stuff in the install and only going with the core files.
 6. Once it finishes installing, open the folder that's selected and it should have a bunch of files and folders in it now.
