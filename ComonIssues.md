@@ -18,14 +18,14 @@ Options > Mouse > Mouse Look should be checked, or if it's not on, in game press
 ## Resolution Issues
 
 The game should have support for most resolutions with the unoffical Patch, but I am unable to test ultrawide displays. Changing the resoltions can be done in the main Menu under  
+
 Options > Resolution.
 
 ## Fullscreen or Windowed
 
 To swap between fullscreen and windowed, you can edit the launch options by adding  
-`-fullscreen`  
-or  
-`-windowed`  
+
+`-fullscreen` or `-windowed`  
 
 ![Fullscreen location](img/Fullscreen.png)
 
