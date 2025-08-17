@@ -1,6 +1,6 @@
 # Links to Files
 
-Links to all the mods used as well as what options to download if you are having issues with the auto downloader.
+Links to all the mods used as well as what options to download, if you are having issues with the auto downloader.
 
 - [VTMBup115.exe](https://www.nexusmods.com/vampirebloodlines/mods/80)
   - VTMBup115.exe
