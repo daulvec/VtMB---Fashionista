@@ -38,7 +38,7 @@ Please make sure to ask your question in the appropriate channel
 
 - fashionista-general -> General discussion about the list or included mods.
 - fashionista-modified -> Support-Channel for non-vanilla Fashionista installs (if you changed files, added or deleted mods in your Fasionista install, ask for support here).
-- wod-support -> Support-Channel for vanilla (unchanged) Fashionista installs.
+- fashionista-support -> Support-Channel for vanilla (unchanged) Fashionista installs.
 
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/iAmModlist)
 
@@ -78,7 +78,7 @@ Some small notes about the list, the support, and troubleshooting:
 1. As a modlist user, I expect some small efforts into fixing your own issues, mostly by searching the documentation provided here and by the Discord channels. It's very likely any issue you encounter has already been solved—if this is the case and it's well known, don't be surprised if you get ignored.
 2. Support shouldn't be expected as instant—I have a full-time job on top of this, be nice.
 3. Do not expect a 100% polished, well-balanced, and "perfect" experience. I am but one person, even if it's just a small list... and this is a famously buggy game.
-4. We're modding a over 20-year-old game here, please temper your expectations some.
+4. We're modding an over 20-year-old game here, please temper your expectations some.
 5. Suggestions are fine, but I have looked at every single mod on the Nexus for the list, so there is a decent chance I looked at it and said no, or there are issues with adding it due to compatability. But there is always a chance, or it might be a new mod —they still do come out from time to time, or something I missed.
 
 ## Hardware Requirements
