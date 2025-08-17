@@ -9,9 +9,9 @@
 
 Fashionista is a Vampire the Masquerade: Bloodlines list that I put together so when I reinstall the game every 6 months I don't have to redo my mod setup. It's here in case other people are like me. Its focus is a bit all over the place but it contains new content, better graphics, changes to the looks of the characters, changes to the UI, and a ton of bug fixes.
 
-### When is the List updated?
+### When is the list updated?
 
-It's updated when someone tells me something is broken and I can fix it, or I start another playthrough and look for new mods or the Unofficial Patch updates.
+It's updated when someone tells me something is broken and I can fix it, I start another playthrough and look for new mods, or the Unofficial Patch updates.
 
 ### Quick Links
 
@@ -30,6 +30,15 @@ It's updated when someone tells me something is broken and I can fix it, or I st
 :clipboard: [Changelog](changelog.md)
 
 ### Need Support?
+
+Before you ask a question, please use the search functiond in Discord. There is a possiblity someone already asked the same or a similar question, and you may find what you are looking for in there.
+
+If you want to ask for support in Discord, grab the "Fashionista" role in onboarding or in "Channels & Roles" at the top of the channel list.  
+Please make sure to ask your question in the appropriate channel  
+
+- fashionista-general -> General discussion about the list or included mods.
+- fashionista-modified -> Support-Channel for non-vanilla Fashionista installs (if you changed files, added or deleted mods in your Fasionista install, ask for support here).
+- wod-support -> Support-Channel for vanilla (unchanged) Fashionista installs.
 
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/iAmModlist)
 
@@ -64,13 +73,13 @@ It's updated when someone tells me something is broken and I can fix it, or I st
 
 ## Preface
 
-Some small notes about the list and the support and troubleshooting:
+Some small notes about the list, the support, and troubleshooting:
 
 1. As a modlist user, I expect some small efforts into fixing your own issues, mostly by searching the documentation provided here and by the Discord channels. It's very likely any issue you encounter has already been solved—if this is the case and it's well known, don't be surprised if you get ignored.
 2. Support shouldn't be expected as instant—I have a full-time job on top of this, be nice.
 3. Do not expect a 100% polished, well-balanced, and "perfect" experience. I am but one person, even if it's just a small list... and this is a famously buggy game.
-4. We're modding a nearly 20-year-old game here, please temper your expectations some.
-5. Suggestions are fine, but I have looked at every single mod on the Nexus for the list so there is a decent chance I looked at it and said no or there are issues with adding it due to compatability issues. But there is always a chance, or it might be a new mod —they still do come out from time to time, or something I missed.
+4. We're modding a over 20-year-old game here, please temper your expectations some.
+5. Suggestions are fine, but I have looked at every single mod on the Nexus for the list, so there is a decent chance I looked at it and said no, or there are issues with adding it due to compatability. But there is always a chance, or it might be a new mod —they still do come out from time to time, or something I missed.
 
 ## Hardware Requirements
 
@@ -87,11 +96,11 @@ It runs great with my system but it's probably fine on a potato.
 | **Minimum**     | 32GB         | SATA SSD            |
 | **Recommended** | 60GB         | NVMe SSD            |
 
-Your installation must be on an ***internal*** SSD or M.2 Drive. External SSDs & HDDs are too slow for modlists to run from, and I suggest an M.2 drive otherwise load and launch times are a bit longer than you would want.
+Your installation must be on an ***internal*** SSD or M.2 drive. External SSDs & HDDs are too slow for modlists to run from, and I suggest an M.2 drive, otherwise load and launch times are a bit longer than you would want.
 
 ## You Will Need
 
-- A Nexus Premium Account if you do not want to click install 100 times.
+- A Nexus Premium account if you do not want to click install 100 times.
 - Patience
 
 ## Pre-Installation
@@ -101,13 +110,13 @@ Your installation must be on an ***internal*** SSD or M.2 Drive. External SSDs &
 ### Install Microsoft Visual C++ Redistributable Packages
 
 > [!CAUTION]
-> MO2 needs this—don't skip it.
+> MO2 needs this — don't skip it.
 >
 > [Download Visual C++ Redistributable Package.](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
 ### Setup your Antivirus
 
-Before you say "I don't have an antivirus"—you do, it's built into Windows. You *need* to exclude your Wabbajack folder and your Merethic installation folder from your antivirus' real-time protection as it will interfere with your install. It can and will interfere whilst you are playing too, causing poor performance and obvious stuttering.
+Before you say "I don't have an antivirus" — you do, it's built into Windows. You *need* to exclude your Wabbajack folder and your Fashionista installation folder from your antivirus' real-time protection as it will interfere with your install. It can and will interfere whilst you are playing too, causing poor performance and obvious stuttering.
 
 > [!TIP]
 > How do I do this, you ask? [Click here to find out how.](https://support.microsoft.com/en-gb/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26)
@@ -124,19 +133,20 @@ The Steam overlay is known to cause issues, especially when using ENBs. Do so by
 
 Installing the list has a couple of steps that you will have to follow for this to work.
 
-Set the installation location to a folder on the root of a drive, something like `C:\Fashionista`. Do not install it to one of the protected folders as mentioned earlier. The download location will have likely been filled in for you too—ensure it matches the directory you set for the installation location.
+Set the installation location to a folder on the root of a drive, something like `C:\Fashionista`. Do not install it to one of the protected folders such as `Program Files`, `Documents` or `Desktop`. The download location will have likely been filled in for you too — ensure it matches the directory you set for the installation location.
 
 > [!TIP]
-> **I recommend you keep your downloads outside of the Fashionista installation folder!**
+> **I recommend you keep your downloads outside of the Fashionista installation folder.**  
+> If you ever need to reinstall the list, you won't have to download all the mods again.
 
 ## Post-Installation
 
-After Wabbajack has given you the installation successful screen, you're free to close it.
+After Wabbajack has given you the "installation successful" screen, you're free to close it.
 
 ### Launch the game
 
-Start by opening the folder you installed the list to and then run MO2 by double-clicking `ModOrganizer.exe`.  
-Then select **Fashionista** in the drop-down if it's not already selected and launch the game.
+Start by opening the folder you installed the list into and then run MO2 by double-clicking `ModOrganizer.exe`.  
+Select **Fashionista** in the drop-down if it's not already selected and launch the game.
 
 ![Fashionista launch](img/Launch.png)
 

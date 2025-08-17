@@ -1,8 +1,8 @@
 # Fashion
 
-Here is a big list of all the Outfits and Armors I added to the list and the mods you will need to enable to get the armors you want.
+Here is a big list of all the outfits and armors I added to the list and the mods you will need to enable to get the armors you want.
 
-I only included images of the first armor or character skin so the rest of them will be a suprise as you unlock new outfits
+I only included images of the first armor or character skin so the rest of them will be a suprise as you unlock new outfits.
 
 ## All_Clans
 
@@ -12,7 +12,7 @@ I only included images of the first armor or character skin so the rest of them 
   <tr>
     <td align="center" width="200">
       <img src="/img/Fashion/All_Clans-Female-alt01.jpg" width="150"/><br/>
-      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/48">Wednesday Night</a></b><br/>Check this <code>Wednesday Night - All Clans - Male and Female</code> Warning this will overwrite all the other outfits.</sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/48">Wednesday Night</a></b><br/>Check this <code>Wednesday Night - All Clans - Male and Female</code> Warning: This will overwrite all the other outfits.</sub>
     </td>
     <td align="center" width="200"></td>
     <td align="center" width="200"></td>
@@ -37,7 +37,7 @@ I only included images of the first armor or character skin so the rest of them 
   <tr>
     <td align="center" width="200">
       <img src="/img/Fashion/Brujah-Female-Default.jpg" width="150"/><br/>
-      <sub><b>Brujah Default Female</b><br/>Uncheck all options to get her</sub>
+      <sub><b>Brujah Default Female</b><br/>Uncheck all options to get her.</sub>
     </td>
   </tr>
 </table>
@@ -48,7 +48,7 @@ I only included images of the first armor or character skin so the rest of them 
   <tr>
     <td align="center" width="200">
       <img src="/img/Fashion/Brujah-Male-Default.jpg" width="150"/><br/>
-      <sub><b>Brujah Default Male</b><br/>Uncheck all options to get Him</sub>
+      <sub><b>Brujah Default Male</b><br/>Uncheck all options to get him.</sub>
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Brujah-Male-alt01.jpg" width="150"/><br/>
@@ -82,7 +82,7 @@ I only included images of the first armor or character skin so the rest of them 
   <tr>
     <td align="center" width="200">
       <img src="/img/Fashion/Gangrel-Male-Default.jpg" width="150"/><br/>
-      <sub><b>Gangrel Male Default</b><br/><code>Uncheck all options to get him</code></sub>
+      <sub><b>Gangrel Male Default</b><br/><code>Uncheck all options to get him.</code></sub>
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Gangrel-Male-alt01.jpg" width="150"/><br/>
@@ -100,7 +100,7 @@ I only included images of the first armor or character skin so the rest of them 
   <tr>
       <td align="center" width="200">
       <img src="/img/Fashion/Malkavian-Female-Default.jpg" width="150"/><br/>
-      <sub><b>Malkavian Female Default</b><br/>Uncheck all other options to get her</sub>
+      <sub><b>Malkavian Female Default</b><br/>Uncheck all other options to get her.</sub>
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Malkavian-Female-Alt1-Armor_2.jpg" width="150"/><br/>
@@ -151,7 +151,7 @@ I only included images of the first armor or character skin so the rest of them 
   <tr>
     <td align="center" width="200">
       <img src="/img/Fashion/Nosferatu-Female-Default.jpg" width="150"/><br/>
-      <sub><b>Nosferatu Female Default</b><br/>Uncheck all other options to get her</sub>
+      <sub><b>Nosferatu Female Default</b><br/>Uncheck all other options to get her.</sub>
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Nosferatu-Female-alt01.jpg" width="150"/><br/>
@@ -170,7 +170,7 @@ I only included images of the first armor or character skin so the rest of them 
   <tr>
     <td align="center" width="200">
       <img src="/img/Fashion/Nosferatu-Male-Default.jpg" width="150"/><br/>
-      <sub><b>Nosferatu Male Default</b><br/>Uncheck all other options to get him</sub>
+      <sub><b>Nosferatu Male Default</b><br/>Uncheck all other options to get him.</sub>
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Nosferatu-Male-alt01.jpg" width="150"/><br/>
@@ -188,7 +188,7 @@ I only included images of the first armor or character skin so the rest of them 
   <tr>
     <td align="center" width="200">
       <img src="/img/Fashion/Toreador-Female-Default.jpg" width="150"/><br/>
-      <sub><b>Toreador Female Default</b><br/>Uncheck all other optionns to get her</sub>
+      <sub><b>Toreador Female Default</b><br/>Uncheck all other optionns to get her.</sub>
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Toreador-Female-alt01.jpg" width="150"/><br/>
@@ -225,7 +225,7 @@ I only included images of the first armor or character skin so the rest of them 
   <tr>
     <td align="center" width="200">
       <img src="/img/Fashion/Tremere-Female-Default.jpg" width="150"/><br/>
-      <sub><b>Tremere Female Default</b><br/>Uncheck all other options to get her</sub>
+      <sub><b>Tremere Female Default</b><br/>Uncheck all other options to get her.</sub>
     </td>
     <td align="center" width="200"></td>
     <td align="center" width="200"></td>
@@ -273,7 +273,7 @@ I only included images of the first armor or character skin so the rest of them 
   <tr>
     <td align="center" width="200">
       <img src="/img/Fashion/Ventrue-Female-Default.jpg" width="150"/><br/>
-      <sub><b>Ventrue Female Default</b><br/>Uncheck all other options to get her</sub>
+      <sub><b>Ventrue Female Default</b><br/>Uncheck all other options to get her.</sub>
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Ventrue-Female-alt01.jpg" width="150"/><br/>
