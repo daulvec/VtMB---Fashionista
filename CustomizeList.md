@@ -1,6 +1,6 @@
 # Customize List
 
-The List has several additional Mods, that you can enable or turn off, to customze the experiance to your liking by enabling or disabling in the mods in the left hand panel.
+The list has several additional mods, that you can enable or turn off, to customze the experiance to your liking by enabling or disabling in the mods in the left hand panel.
 
 ### Custom Clan UI
 
@@ -34,7 +34,9 @@ If you want to use one of the other ENBs you would have to:
 ## How to Disable Same Sex Options for Males
 
 The following mod is enabled and will set it so that you will have a male partner for the opening of the game as well as change a bunch of traits and alter dialogue to allow homosexual options  
+
 `The Seduce dialogs for males`  
+
 If you do not want this, just disable the mod.
 
 ![Same Sex Location](img/SameSex.png)
@@ -44,7 +46,9 @@ If you do not want this, just disable the mod.
 I added a mod that has random crazy talk, and notifications show up in the corner of the screen.
 
 I find this hilarious and it works well with the vibe of the Clan, but I can see it being annoying for some people, if you would like to turn this off you can just disable the  
+
 `Malkavian Whispers`  
-Mod is the Left Panel of Mod Organizer.
+
+mod in the left panel of Mod Organizer.
 
 ![Malkavian Whispers Location](img/Whispers.png)
