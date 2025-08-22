@@ -1,34 +1,51 @@
 # Common Issues
 
-## Table of Contents
-
 - [Common Issues](#common-issues)
-  - [Table of Contents](#table-of-contents)
-  - [Mouse Issues](#mouse-issues)
-  - [Resolution Issues](#resolution-issues)
-  - [Fullscreen or Windowed](#fullscreen-or-windowed)
-  - [ENB](#enb)
+  - [Install or Update Issues](#install-or-update-issues)
+    - [Updating the List Fails](#updating-the-list-fails)
+  - [Gameplay Issues](#gameplay-issues)
+    - [Mouse Issues](#mouse-issues)
+    - [Resolution Issues](#resolution-issues)
+    - [Fullscreen or Windowed](#fullscreen-or-windowed)
+    - [ENB](#enb)
 
-## Mouse Issues
+## Install or Update Issues
 
-If you are unable to look around with the mouse, check the options to make sure that Mouse Look is enabled.
+### Updating the List Fails
 
-Options > Mouse > Mouse Look should be checked, or if it's not on, in game press the `;` key.
+Thed first thing you will want to do is Verify the Game in Steam if using the Steam Version.
 
-## Resolution Issues
+We are using Root Builder and I have seen it cause issues with the default game files it some cases and Verifying the Files will fix any issues with the missing files.
 
-The game should have support for most resolutions with the unoffical Patch, but I am unable to test ultrawide displays. Changing the resoltions can be done in the main Menu under  
+![Verify Game Install in Steam](/img/Verify.png)
+
+If something else is happening head to the discord support channel and post your log and what the issue is and we can see about helping with the issue.
+
+## Gameplay Issues
+
+### Mouse Issues
+
+ If you are unable to look around with the mouse check the options to make sure that Mouse Look is enabled
+
+Options > Mouse Tab > Mouse Look should be checked or if its not on in game press the `;` key
+
+### Resolution Issues
+
+ The game should have most resolution support with the unoffical Patch but I am unnable to test ultrawide displays, changing the resoltions can be done in the main Menu under  
 
 Options > Resolution.
 
-## Fullscreen or Windowed
+### Fullscreen or Windowed
 
-To swap between fullscreen and windowed, you can edit the launch options by adding  
+To swap between Full Screen and Windowed you can edit the launch options by adding  
 
-`-fullscreen` or `-windowed`  
+`-fullscreen`
+or
+`-windowed`
 
 ![Fullscreen location](img/Fullscreen.png)
 
-## ENB
+### ENB
 
-The default shortcut to enable or disable the ENB is Shift + F12.  
+The Default Shortcut to enable or disable the ENB is shift + f12  
+
