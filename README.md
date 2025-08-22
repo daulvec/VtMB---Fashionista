@@ -15,8 +15,6 @@ It's updated when someone tells me something is broken and I can fix it, I start
 
 ### Quick Links
 
-:arrow_down: [All Manual Downloads](Files.md)
-
 :exclamation: [Common Issues](ComonIssues.md)
 
 :video_game: [Gameplay Tips](Gameplay-Tips.md)
