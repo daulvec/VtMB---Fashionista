@@ -79,7 +79,6 @@ Initial Release on the UI under Unofficial
 
 None
 
-</details>
 
 ## Fashionista v1.0.1
 
@@ -122,3 +121,13 @@ None
 The Core of this update is updating a bunch of textures that did not have hi-res options switching the main profile to Fullscreen instead of Windowed and some bug fixes and cleanup.
 
 Additional overhaul will need to be looked into later as the exe's are not visable to wabbajack so I can not include them.
+
+</details>
+
+## Fashionista v1.0.4
+
+### Added Mods
+
+- [VTMB - Arsenel Mod by lenusk](https://www.nexusmods.com/vampirebloodlines/mods/257?tab=files)
+  - Arsenel Mod by lenusk - Fixed Translation
+- [Companion Mod Core Edition](https://www.nexusmods.com/vampirebloodlines/mods/138?tab=files)

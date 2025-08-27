@@ -44,7 +44,7 @@ Please make sure to ask your question in the appropriate channel
 
 - [Fashionista](#fashionista)
   - [What is Fashionista?](#what-is-fashionista)
-    - [When is the List updated?](#when-is-the-list-updated)
+    - [When is the list updated?](#when-is-the-list-updated)
     - [Quick Links](#quick-links)
     - [Need Support?](#need-support)
   - [Contents](#contents)
