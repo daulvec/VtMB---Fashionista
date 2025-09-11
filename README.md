@@ -55,7 +55,8 @@ Please make sure to ask your question in the appropriate channel
   - [Pre-Installation](#pre-installation)
     - [Install Microsoft Visual C++ Redistributable Packages](#install-microsoft-visual-c-redistributable-packages)
     - [Setup your Antivirus](#setup-your-antivirus)
-  - [Disable Steam Overlay](#disable-steam-overlay)
+    - [Install the game](#install-the-game)
+    - [Disable Steam Overlay](#disable-steam-overlay)
   - [Installation](#installation)
   - [Post-Installation](#post-installation)
     - [Launch the game](#launch-the-game)
@@ -123,7 +124,16 @@ If you use another antivirus program, refer to their steps for adding an exclusi
 
 ***If you use Webroot, BitDefender, Norton or Kaspersky, I recommend you stop using these as these programs ***actively*** interfere with modlists even when they are excluded. Plus, you're wasting your money.***
 
-## Disable Steam Overlay
+### Install the game
+Install the game either through Steam or GoG, both is fine.
+
+> [!CAUTION]
+> You don't need to run the game prior to installing the modlist.  
+> In fact, the game will not start on modern systems. The unofficial patch will fix this.  
+>  
+> **__DO NOT INSTALL THE UNOFFICIAL PATCH TO RUN THE GAME__**, Wabbajack will take care of that for you during modlist installation.
+
+### Disable Steam Overlay
 
 The Steam overlay is known to cause issues, especially when using ENBs. Do so by heading into Steam, right-clicking on Vampire: The Masquerade – Bloodlines in your game library and clicking **Properties** > **General** > **Deselect "Enable Steam Overlay while in-game"**.
 
