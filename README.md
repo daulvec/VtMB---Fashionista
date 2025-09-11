@@ -127,7 +127,7 @@ If you use another antivirus program, refer to their steps for adding an exclusi
 ### Install the game
 Install the game either through Steam or GoG, both is fine.
 
-> [!ATTENTION]
+> [!CAUTION]
 > You don't need to run the game prior to installing the modlist.  
 > In fact, the game will not start on modern systems. The unofficial patch will fix this.  
 >  
