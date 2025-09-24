@@ -131,3 +131,30 @@ Additional overhaul will need to be looked into later as the exe's are not visab
 - [VTMB - Arsenel Mod by lenusk](https://www.nexusmods.com/vampirebloodlines/mods/257?tab=files)
   - Arsenel Mod by lenusk - Fixed Translation
 - [Companion Mod Core Edition](https://www.nexusmods.com/vampirebloodlines/mods/138?tab=files)
+
+## Fashionista v1.0.5
+
+### Added Mods
+
+- [Barabbah's addon](https://www.nexusmods.com/vampirebloodlines/mods/157?tab=files)
+  - Barabbah's addon
+- [Companion Mod Core Edition](https://www.nexusmods.com/vampirebloodlines/mods/138?tab=files)
+
+## Fashionista v1.0.6
+
+### Added Mods
+- [Truly Soaking- A Lethal Soak Mod](https://www.nexusmods.com/vampirebloodlines/mods/360)
+- [Bloodlines Audio Overhaul](https://www.moddb.com/mods/bloodlines-audio-overhaul)
+
+### Removed Mods
+- [Camarilla Edition reborn](https://www.nexusmods.com/vampirebloodlines/mods/263)
+
+### Updates
+- Updated [VTMB HD Overhaul](https://www.nexusmods.com/vampirebloodlines/mods/234?tab=files) to 1.9 from 1.8
+
+### Fixes/Changes
+
+1. Removed Camarilla Edition as a Profile as I am unable to support it at this time.
+2. Update the time for Malkavian Whispers to appear if you enable the mod this prevents the spam in the top corner of the screen and at least in my testing makes for a better experiance.
+3. Deselected Malkavian Whispers from all the profiles as its not compatable with Uninterrupted background music, I do suggest the Malkavian Whispers mod if you are playing one.
+4. I updated a few mods to a better format for quicker launching of the game.

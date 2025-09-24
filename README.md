@@ -15,6 +15,8 @@ It's updated when someone tells me something is broken and I can fix it, I start
 
 ### Quick Links
 
+:file_folder: [Profiles](profiles.md)
+
 :exclamation: [Common Issues](ComonIssues.md)
 
 :video_game: [Gameplay Tips](Gameplay-Tips.md)
@@ -62,8 +64,6 @@ Please make sure to ask your question in the appropriate channel
     - [Launch the game](#launch-the-game)
     - [Creating a desktop shortcut](#creating-a-desktop-shortcut)
   - [Alternative Profiles](#alternative-profiles)
-    - [Default Game Plus Unofficial Patch](#default-game-plus-unofficial-patch)
-    - [HD Overhaul](#hd-overhaul)
   - [Updating Fashionista](#updating-fashionista)
   - [Uninstalling Fashionista](#uninstalling-fashionista)
   - [Gameplay Guide](#gameplay-guide)
@@ -173,17 +173,9 @@ Open MO2, ensure **Launch** is selected in the dropdown and click the "Shortcut"
 
 ## Alternative Profiles
 
-I added two additional profiles that you can use if you want. Just select the profile you want in the dropdown and launch the game as normal.
+The default Fashionista Profile is the one I would suggest but if you want to try the others there is more information on them here.
 
-![Alt Profiles](/img/Alt.png)
-
-### Default Game Plus Unofficial Patch
-
-For the people that want to experience the game as it originally was presented. The Unofficial Patch is included as the game is unbeatable without it.
-
-### HD Overhaul
-
-This is a large all-in-one overhaul. It contains HD textures for basically the full game, a new UI, new music, and its own Reshade.
+[Alternate Profiles Link](profiles.md)
 
 ## Updating Fashionista
 
