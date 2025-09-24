@@ -196,3 +196,5 @@ Just delete the Fashionista folder and it'll be gone.
 [Go Here for more information on Customizing the list](CustomizeList.md)
 
 # Special Thanks to [Luca|EzioTheDeadPoet](https://github.com/EzioTheDeadPoet) for the assistance with the list, without him there would be no list.
+
+# Special Thanks to iAmMascha for the assistance with the list, the readme would be much worse with out there support.
