@@ -154,7 +154,8 @@ Additional overhaul will need to be looked into later as the exe's are not visab
 
 ### Fixes/Changes
 
-1. Removed Camarilla Edition as a Profile as I am unable to support it at this time.
-2. Update the time for Malkavian Whispers to appear if you enable the mod this prevents the spam in the top corner of the screen and at least in my testing makes for a better experiance.
-3. Deselected Malkavian Whispers from all the profiles as its not compatable with Uninterrupted background music, I do suggest the Malkavian Whispers mod if you are playing one.
+1. Removed Camarilla Edition as a Profile as I am unable to support it at this time.(this was never suppose to be added as I only had the profile for testing.)
+2. Update the time for Malkavian Whispers to appear if you enable the mod this prevents the spam in the top corner of the screen and at least in my testing makes for a better experience.
+3. Deselected Malkavian Whispers from all the profiles as its not compatible with Uninterrupted background music, I do suggest the Malkavian Whispers mod if you are playing one.
 4. I updated a few mods to a better format for quicker launching of the game.
+
