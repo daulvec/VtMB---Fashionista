@@ -6,16 +6,21 @@ Here is some information I have found on modding this game using Wabbajack and M
 - [Creating your own List](#creating-your-own-list)
   - [Table of Contents](#table-of-contents)
   - [Setting Up Mod Organizer](#setting-up-mod-organizer)
-    - [Stock Game Folder vr Root Builder](#stock-game-folder-vr-root-builder)
+    - [Stock Game Folder vs Root Builder](#stock-game-folder-vs-root-builder)
       - [Stock Game Folder](#stock-game-folder)
-        - [Pro's](#pros)
+        - [Pros](#pros)
         - [Cons](#cons)
     - [Root Builder](#root-builder)
-      - [Pro's](#pros-1)
-      - [Con's](#cons-1)
+      - [Pros](#pros-1)
+      - [Cons](#cons-1)
     - [Root Builder Setup and Info](#root-builder-setup-and-info)
     - [Unofficial patch](#unofficial-patch)
-  - [Notes](#notes)
+    - [Reshade setup for the list](#reshade-setup-for-the-list)
+- [ReShade Setup Guide for Vampire: The Masquerade – Bloodlines](#reshade-setup-guide-for-vampire-the-masquerade--bloodlines)
+  - [Step 1: Prepare the Folder](#step-1-prepare-the-folder)
+  - [Step 2: Add the ReShade Configuration](#step-2-add-the-reshade-configuration)
+  - [Step 3: Run ReShade Setup](#step-3-run-reshade-setup)
+  - [Step 4: Clean Up](#step-4-clean-up)
 
 ## Setting Up Mod Organizer
 
@@ -91,5 +96,52 @@ When setting up the Unofficial Patch in the game, the process is a bit different
     ![Unofficial Patch Folder Files](img/UnofficialPatch%20Folder%20Folder.png)
 11. Done.
 
-## Notes
+### Reshade setup for the list
+
+# ReShade Setup Guide for Vampire: The Masquerade – Bloodlines
+
+Follow these steps to set up and configure ReShade properly:
+
+---
+
+## Step 1: Prepare the Folder
+1. Create a new folder with the name of the ReShade profile you want to make.  
+2. Copy the following files into the new folder:  
+   - `LICENSE.md`  
+   - `vampire.exe`  
+
+---
+
+## Step 2: Add the ReShade Configuration
+1. Download the ReShade preset you want to use (if you haven’t already).  
+2. Copy the `.ini` file for that preset into the folder you just created.  
+
+---
+
+## Step 3: Run ReShade Setup
+1. Launch **ReShade Setup** by running:  
+   - `ReShade_Setup_6.5.1_Addon.exe`  
+2. Accept the warning screen by clicking **OK**.  
+3. Click **Browse** and select the `vampire.exe` file you copied into the folder.  
+4. Click **Next**.  
+5. When prompted, select **DirectX 9**.  
+6. Click **Next**.  
+7. Click **Browse** again and select the `.ini` file you downloaded earlier.  
+8. Continue clicking **Next** until the installation finishes, then close the setup tool.  
+
+---
+
+## Step 4: Clean Up
+1. Delete the temporary `vampire.exe` file from the folder.  
+2. Open the `ReShade.ini` file in a text editor.  
+3. Add the following settings to enable convenient hotkeys for toggling effects and the overlay:
+
+```ini
+[INPUT]
+; Toggle all effects on/off
+KeyEffects=123,1    ; Shift + F12
+
+; Toggle the ReShade overlay on/off
+KeyOverlay=122,1    ; Shift + F11
+
 
