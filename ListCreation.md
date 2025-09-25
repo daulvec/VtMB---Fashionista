@@ -16,7 +16,6 @@ Here is some information I have found on modding this game using Wabbajack and M
     - [Root Builder Setup and Info](#root-builder-setup-and-info)
     - [Unofficial patch](#unofficial-patch)
     - [Reshade setup for the list](#reshade-setup-for-the-list)
-- [ReShade Setup Guide for Vampire: The Masquerade – Bloodlines](#reshade-setup-guide-for-vampire-the-masquerade--bloodlines)
   - [Step 1: Prepare the Folder](#step-1-prepare-the-folder)
   - [Step 2: Add the ReShade Configuration](#step-2-add-the-reshade-configuration)
   - [Step 3: Run ReShade Setup](#step-3-run-reshade-setup)
@@ -98,8 +97,6 @@ When setting up the Unofficial Patch in the game, the process is a bit different
 
 ### Reshade setup for the list
 
-# ReShade Setup Guide for Vampire: The Masquerade – Bloodlines
-
 Follow these steps to set up and configure ReShade properly:
 
 ---
@@ -107,8 +104,8 @@ Follow these steps to set up and configure ReShade properly:
 ## Step 1: Prepare the Folder
 1. Create a new folder with the name of the ReShade profile you want to make.  
 2. Copy the following files into the new folder:  
-   - `LICENSE.md`  
-   - `vampire.exe`  
+   - `LICENSE.md`  I have attached this here [LICENSE.md](/img/Files/LICENSE.md)
+   - `vampire.exe`  This can be pulled from the Steam or GoG folder for the main game.
 
 ---
 
