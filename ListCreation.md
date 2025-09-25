@@ -20,8 +20,8 @@ Here is some information I have found on modding this game using Wabbajack and M
   - [Step 2: Add the ReShade Configuration](#step-2-add-the-reshade-configuration)
   - [Step 3: Run ReShade Setup](#step-3-run-reshade-setup)
   - [Step 4: Clean Up](#step-4-clean-up)
-- [Step 5: Wabbajack Compile Settings](#step-5-wabbajack-compile-settings)
-  - [Required Compile Settings](#required-compile-settings)
+  - [Step 5: Wabbajack Compile Settings](#step-5-wabbajack-compile-settings)
+    - [Required Compile Settings](#required-compile-settings)
     - [Why These Are Important](#why-these-are-important)
 
 ## Setting Up Mod Organizer
@@ -143,15 +143,15 @@ KeyEffects=123,1    ; Shift + F12
 
 ; Toggle the ReShade overlay on/off
 KeyOverlay=122,1    ; Shift + F11
+```
 
-
-# Step 5: Wabbajack Compile Settings
+## Step 5: Wabbajack Compile Settings
 
 When building the list in **Wabbajack**, you need to adjust the compile settings to ensure everything is packaged correctly.
 
 ---
 
-## Required Compile Settings
+### Required Compile Settings
 - **AlwaysEnable**  
 - **NoMatchInclude**
 
