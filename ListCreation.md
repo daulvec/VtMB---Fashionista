@@ -147,7 +147,7 @@ KeyOverlay=122,1    ; Shift + F11
 
 ## Step 5: Wabbajack Compile Settings
 
-When building the list in **Wabbajack**, you need to adjust the compile settings to ensure everything is packaged correctly.
+When building the list in **Wabbajack**, you need to adjust the compile settings for the Reshade Mods to ensure everything is include properly.
 
 ---
 
