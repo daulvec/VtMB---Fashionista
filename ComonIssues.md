@@ -8,6 +8,7 @@
     - [Resolution Issues](#resolution-issues)
     - [Fullscreen or Windowed](#fullscreen-or-windowed)
     - [ENB](#enb)
+    - [Game Crashes](#game-crashes)
 
 ## Install or Update Issues
 
@@ -49,3 +50,8 @@ or
 
 The Default Shortcut to enable or disable the ENB is shift + f12  
 
+### Game Crashes
+
+Make sure you did not change the order of the mods in Mod Organizer or Enable and of the Overhauls if you are on the Main Fashionista Profile.
+
+For Exaimple adding the HD overhaul will crash the Game - The list is already HD and a lot of the mods are not compatable with it if you wish to use the Mod use the alternate Profile for it.

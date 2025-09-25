@@ -20,6 +20,9 @@ Here is some information I have found on modding this game using Wabbajack and M
   - [Step 2: Add the ReShade Configuration](#step-2-add-the-reshade-configuration)
   - [Step 3: Run ReShade Setup](#step-3-run-reshade-setup)
   - [Step 4: Clean Up](#step-4-clean-up)
+- [Step 5: Wabbajack Compile Settings](#step-5-wabbajack-compile-settings)
+  - [Required Compile Settings](#required-compile-settings)
+    - [Why These Are Important](#why-these-are-important)
 
 ## Setting Up Mod Organizer
 
@@ -142,3 +145,23 @@ KeyEffects=123,1    ; Shift + F12
 KeyOverlay=122,1    ; Shift + F11
 
 
+# Step 5: Wabbajack Compile Settings
+
+When building the list in **Wabbajack**, you need to adjust the compile settings to ensure everything is packaged correctly.
+
+---
+
+## Required Compile Settings
+- **AlwaysEnable**  
+- **NoMatchInclude**
+
+---
+
+### Why These Are Important
+- **AlwaysEnable**  
+  Ensures the mod is always included in the list, even if it is not checked by default.  
+  This way, players can still choose to enable it if they wish.  
+
+- **NoMatchInclude**  
+  Inlines all files that cannot be found in archives.  
+  This is why we added the `LICENSE.md` file — it guarantees that the build will include all necessary files, even if they aren’t part of a recognized archive.  
