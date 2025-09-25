@@ -144,6 +144,7 @@ KeyEffects=123,1    ; Shift + F12
 ; Toggle the ReShade overlay on/off
 KeyOverlay=122,1    ; Shift + F11
 ```
+4. Add a Folder called `Root` to the mod Folder and copy all the files inside it other then the metafile into it.
 
 ## Step 5: Wabbajack Compile Settings
 
