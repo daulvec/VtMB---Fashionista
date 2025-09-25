@@ -29,6 +29,8 @@ It's updated when someone tells me something is broken and I can fix it, I start
 
 :clipboard: [Changelog](changelog.md)
 
+:memo: [List Creation](ListCreation.md)
+
 ### Need Support?
 
 Before you ask a question, please use the search functiond in Discord. There is a possiblity someone already asked the same or a similar question, and you may find what you are looking for in there.
@@ -69,6 +71,7 @@ Please make sure to ask your question in the appropriate channel
   - [Gameplay Guide](#gameplay-guide)
   - [Customizing the List](#customizing-the-list)
 - [Special Thanks to Luca|EzioTheDeadPoet for the assistance with the list, without him there would be no list.](#special-thanks-to-lucaeziothedeadpoet-for-the-assistance-with-the-list-without-him-there-would-be-no-list)
+- [Special Thanks to iAmMascha for the assistance with the list, the readme would be much worse with out there support.](#special-thanks-to-iammascha-for-the-assistance-with-the-list-the-readme-would-be-much-worse-with-out-there-support)
 
 ## Preface
 
