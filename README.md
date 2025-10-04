@@ -31,6 +31,7 @@
   - [Uninstalling Fashionista](#uninstalling-fashionista)
   - [Gameplay Guide](#gameplay-guide)
   - [Customizing the List](#customizing-the-list)
+- [Special Thanks](#special-thanks)
 
 
 ## What is Fashionista?
@@ -203,11 +204,7 @@ Just delete the Fashionista folder and it'll be gone.
 
 [Go Here for more information on Customizing the list](CustomizeList.md)
 
-&nbsp;  
-&nbsp;  
-
-<span style="font-size: 2em; font-weight: bold;">
-Special Thanks to <a href="https://github.com/EzioTheDeadPoet">Luca|EzioTheDeadPoet</a> for the assistance with the list, without him there would be no list.
+# Special Thanks 
+Special Thanks to [Luca|EzioTheDeadPoet](https://github.com/EzioTheDeadPoet) for the assistance with the list, without him there would be no list.
 
 Special Thanks to iAmMascha for the assistance with the list, the readme would be much worse without their support. 
-</span>
