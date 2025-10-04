@@ -1,5 +1,21 @@
 # Gameplay Tips
 
+# Contents
+- [Gameplay Tips](#gameplay-tips)
+- [Contents](#contents)
+  - [Keyboard Shortcuts](#keyboard-shortcuts)
+  - [Character Creation](#character-creation)
+  - [Console Commands](#console-commands)
+      - [Unlock Tremere Chantry (any clan):](#unlock-tremere-chantry-any-clan)
+      - [Unlock Skyline Haven:](#unlock-skyline-haven)
+      - [Unlock Nosferatu Haven:](#unlock-nosferatu-haven)
+      - [Teleport Companions to Haven:](#teleport-companions-to-haven)
+      - [Toggle Heather Stay Indoors (avoids her getting kidnapped):](#toggle-heather-stay-indoors-avoids-her-getting-kidnapped)
+      - [Toggle Prince Max Affinity (sets the various prince's affinity dialogues; you can also check the affinity by just doing `G.Prince_Reaction`):](#toggle-prince-max-affinity-sets-the-various-princes-affinity-dialogues-you-can-also-check-the-affinity-by-just-doing-gprince_reaction)
+      - [Choose Main Haven (companions will be here all the time):](#choose-main-haven-companions-will-be-here-all-the-time)
+    - [Story States](#story-states)
+  - [List of Issues Still in the Game (Taken from the Unofficial Patch)](#list-of-issues-still-in-the-game-taken-from-the-unofficial-patch)
+
 ## Keyboard Shortcuts
 
 [Keyboard Shortcut List](img/vampire-the-masquarade-bloodlines---layout-and-hotkeys.png)

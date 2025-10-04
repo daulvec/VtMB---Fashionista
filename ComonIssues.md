@@ -1,6 +1,9 @@
 # Common Issues
+Here you can find the solutions to common problems people encounter when installing or playing the modlist.
 
+# Contents
 - [Common Issues](#common-issues)
+- [Contents](#contents)
   - [Install or Update Issues](#install-or-update-issues)
     - [Updating the List Fails](#updating-the-list-fails)
   - [Gameplay Issues](#gameplay-issues)

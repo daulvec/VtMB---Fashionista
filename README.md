@@ -5,9 +5,43 @@
 > [!IMPORTANT]
 > **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.**
 
+# Contents
+- [Fashionista](#fashionista)
+- [Contents](#contents)
+  - [What is Fashionista?](#what-is-fashionista)
+    - [Is this list suitable for a first time player?](#is-this-list-suitable-for-a-first-time-player)
+    - [When is the list updated?](#when-is-the-list-updated)
+    - [Quick Links](#quick-links)
+    - [Need Support?](#need-support)
+  - [Preface](#preface)
+  - [Hardware Requirements](#hardware-requirements)
+    - [Storage Space](#storage-space)
+  - [You Will Need](#you-will-need)
+  - [Pre-Installation](#pre-installation)
+    - [Install Microsoft Visual C++ Redistributable Packages](#install-microsoft-visual-c-redistributable-packages)
+    - [Setup your Antivirus](#setup-your-antivirus)
+    - [Install the game](#install-the-game)
+    - [Disable Steam Overlay](#disable-steam-overlay)
+  - [Installation](#installation)
+  - [Post-Installation](#post-installation)
+    - [Launch the game](#launch-the-game)
+    - [Creating a desktop shortcut](#creating-a-desktop-shortcut)
+  - [Alternative Profiles](#alternative-profiles)
+  - [Updating Fashionista](#updating-fashionista)
+  - [Uninstalling Fashionista](#uninstalling-fashionista)
+  - [Gameplay Guide](#gameplay-guide)
+  - [Customizing the List](#customizing-the-list)
+- [Special Thanks](#special-thanks)
+
+
 ## What is Fashionista?
 
 Fashionista is a Vampire the Masquerade: Bloodlines list that I put together so when I reinstall the game every 6 months I don't have to redo my mod setup. It's here in case other people are like me. Its focus is a bit all over the place but it contains new content, better graphics, changes to the looks of the characters, changes to the UI, and a ton of bug fixes.
+
+### Is this list suitable for a first time player?
+
+Yes.  
+For a first playthrough, I would suggest the unofficial patch profile. It is just bugfixes and graphic updates, the other profiles are harder and I would only suggest them for 2nd playthroughs.
 
 ### When is the list updated?
 
@@ -44,34 +78,6 @@ Please make sure to ask your question in the appropriate channel
 
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/iAmModlist)
 
-## Contents
-
-- [Fashionista](#fashionista)
-  - [What is Fashionista?](#what-is-fashionista)
-    - [When is the list updated?](#when-is-the-list-updated)
-    - [Quick Links](#quick-links)
-    - [Need Support?](#need-support)
-  - [Contents](#contents)
-  - [Preface](#preface)
-  - [Hardware Requirements](#hardware-requirements)
-    - [Storage Space](#storage-space)
-  - [You Will Need](#you-will-need)
-  - [Pre-Installation](#pre-installation)
-    - [Install Microsoft Visual C++ Redistributable Packages](#install-microsoft-visual-c-redistributable-packages)
-    - [Setup your Antivirus](#setup-your-antivirus)
-    - [Install the game](#install-the-game)
-    - [Disable Steam Overlay](#disable-steam-overlay)
-  - [Installation](#installation)
-  - [Post-Installation](#post-installation)
-    - [Launch the game](#launch-the-game)
-    - [Creating a desktop shortcut](#creating-a-desktop-shortcut)
-  - [Alternative Profiles](#alternative-profiles)
-  - [Updating Fashionista](#updating-fashionista)
-  - [Uninstalling Fashionista](#uninstalling-fashionista)
-  - [Gameplay Guide](#gameplay-guide)
-  - [Customizing the List](#customizing-the-list)
-- [Special Thanks to Luca|EzioTheDeadPoet for the assistance with the list, without him there would be no list.](#special-thanks-to-lucaeziothedeadpoet-for-the-assistance-with-the-list-without-him-there-would-be-no-list)
-- [Special Thanks to iAmMascha for the assistance with the list, the readme would be much worse with out there support.](#special-thanks-to-iammascha-for-the-assistance-with-the-list-the-readme-would-be-much-worse-with-out-there-support)
 
 ## Preface
 
@@ -198,6 +204,7 @@ Just delete the Fashionista folder and it'll be gone.
 
 [Go Here for more information on Customizing the list](CustomizeList.md)
 
-# Special Thanks to [Luca|EzioTheDeadPoet](https://github.com/EzioTheDeadPoet) for the assistance with the list, without him there would be no list.
+# Special Thanks 
+Special Thanks to [Luca|EzioTheDeadPoet](https://github.com/EzioTheDeadPoet) for the assistance with the list, without him there would be no list.
 
-# Special Thanks to iAmMascha for the assistance with the list, the readme would be much worse with out there support.
+Special Thanks to iAmMascha for the assistance with the list, the readme would be much worse without their support. 

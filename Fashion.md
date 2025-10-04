@@ -4,7 +4,35 @@ Here is a big list of all the outfits and armors I added to the list and the mod
 
 I only included images of the first armor or character skin so the rest of them will be a suprise as you unlock new outfits.
 
-## All_Clans
+# Contents
+- [Fashion](#fashion)
+- [Contents](#contents)
+  - [All Clans](#all-clans)
+    - [Female](#female)
+    - [Male](#male)
+  - [Brujah](#brujah)
+    - [Female](#female-1)
+    - [Male](#male-1)
+  - [Gangrel](#gangrel)
+    - [Female](#female-2)
+    - [Male](#male-2)
+  - [Malkavian](#malkavian)
+    - [Female](#female-3)
+    - [Male](#male-3)
+  - [Nosferatu](#nosferatu)
+    - [Female](#female-4)
+    - [Male](#male-4)
+  - [Toreador](#toreador)
+    - [Female](#female-5)
+    - [Male](#male-5)
+  - [Tremere](#tremere)
+    - [Female](#female-6)
+    - [Male](#male-6)
+  - [Ventrue](#ventrue)
+    - [Female](#female-7)
+    - [Male](#male-7)
+
+## All Clans
 
 ### Female
 
