@@ -1,14 +1,12 @@
 # Profiles
 
-## Contents
-
+# Contents
 - [Profiles](#profiles)
-  - [Contents](#contents)
+- [Contents](#contents)
     - [All Profiles](#all-profiles)
-    - [Fashionista - Primary Profiles](#fashionista---primary-profiles)
+    - [Fashionista - Primary Profile](#fashionista---primary-profile)
     - [Default Game Plus Unofficial Patch](#default-game-plus-unofficial-patch)
     - [HD Overhaul](#hd-overhaul)
-    - [Camarilla Edition](#camarilla-edition)
 
 ### All Profiles
 
@@ -25,9 +23,9 @@ Here is a list of what has been updated for all the profiles.
 
 ![Alt Profiles](/img/Alt.png)
 
-### Fashionista - Primary Profiles
+### Fashionista - Primary Profile
 
-The Fashionista Profiles is the default profile and the one I would suggest most people use.
+**__The Fashionista Profile is the default profile and the one I would suggest most people use.__**S
 
 A small list of what has been added and changed would include
 
@@ -49,25 +47,3 @@ This is a large all-in-one overhaul. It contains HD textures for basically the f
 It was included because I wanted to play it.
 
 They only thing you can safely change is the way your Character Looks but they overhauled that as well so I have left all the options to what they intended.
-
-### Camarilla Edition
-
-Here is the description from the Mod itself.
-
-> Camarilla Edition is an Expansion Overhaul that completely changes the game mechanics and how we approach the game of Bloodlines.
->
-> After playing through Bloodlines over 10 times the replay value has decreased, and we started thinking of ways to improve the game to make it much more realistic.
->
-> I have long since been a fan of Bethesda's Open Ended Sandbox games so that is the feel I wanted to bring to Bloodlines.
->
-> One of the biggest problems with Bloodlines is that you never get the sense of BEING a Vampire.
->
-> I mean you have powers and you drink blood, but only to fuel those powers most of which are extremely short lived.
->
-> Not only that but I have never dropped below a humanity of 10 because I was never in danger of going hungry.
->
-> So what we did was completely overhaul how everything from Feeding and Regeneration, to Bloodpool and Disciplines work, giving you a completely new experience to Bloodlines unlike anything you've played in the past.
-
-This is the mod you use when you have played 10 times and want something completley different.
-
-We are using the Reborn Version of the mod that is still getting hotfixes and this also includes the Companion Mod so you should be able to hire people to assist in combat.

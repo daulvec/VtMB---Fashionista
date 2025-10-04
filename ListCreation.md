@@ -2,9 +2,9 @@
 
 Here is some information I have found on modding this game using Wabbajack and ModOrganizer2, that I am organizing here in case it comes in handy for anyone else, as well as to make it easy for me to find if I need it again.
 
-## Table of Contents
+# Contents
 - [Creating your own List](#creating-your-own-list)
-  - [Table of Contents](#table-of-contents)
+- [Contents](#contents)
   - [Setting Up Mod Organizer](#setting-up-mod-organizer)
     - [Stock Game Folder vs Root Builder](#stock-game-folder-vs-root-builder)
       - [Stock Game Folder](#stock-game-folder)

@@ -2,13 +2,22 @@
 
 The list has several additional mods, that you can enable or turn off, to customze the experiance to your liking by enabling or disabling in the mods in the left hand panel.
 
-### Custom Clan UI
+# Contents
+- [Customize List](#customize-list)
+- [Contents](#contents)
+  - [Custom Clan UI](#custom-clan-ui)
+  - [Fashion](#fashion)
+  - [ENB](#enb)
+  - [How to Disable Same Sex Options for Males](#how-to-disable-same-sex-options-for-males)
+  - [Malkavian Whispers](#malkavian-whispers)
+
+## Custom Clan UI
 
 This section is where you can enable a custom UI for a specific clan. Not all clans have one, but it's a nice touch if you plan on playing a supported clan. **Make sure you select only one option.**  
 
 ![Custom Clans UI](img/Clans-New.png)
 
-### Fashion
+## Fashion
 
 This section is for custom looks for the PC (Player Character). I have it broken down by clan and set it up to have a Male or Female tag at the end. Most of the time you should **only activate one male and one female option** per area, or at the end there is an area for mods that cover all clans.  
 
@@ -18,7 +27,7 @@ To see all the outfits and armors that I have added you can look here:
 
 [All Fashion](Fashion.md)
 
-### ENB
+## ENB
 
 The ENB I have selected is a good general ENB, but I have added a couple extra if you wish to try them instead.
 
