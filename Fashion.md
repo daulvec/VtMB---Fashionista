@@ -39,6 +39,10 @@ I only included images of the first armor or character skin so the rest of them 
       <img src="/img/Fashion/Brujah-Female-Default.jpg" width="150"/><br/>
       <sub><b>Brujah Default Female</b><br/>Uncheck all options to get her.</sub>
     </td>
+    <td align="center" width="200">
+      <img src="/img/Fashion/Brujah_Allison-Female.png" width="150"/><br/>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/319">Allison Mayer Brujah PC Skin</a></b><br/>Check <code>Allison Mayer Brujah PC Skin - Female</code></sub>
+    </td>
   </tr>
 </table>
 
@@ -52,11 +56,17 @@ I only included images of the first armor or character skin so the rest of them 
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Brujah-Male-alt01.jpg" width="150"/><br/>
-      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/117">Brujah Bampire rexture</a></b><br/>Check <code>Brujah Vampire rexture - Male</code></sub>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/117">Brujah Vampire rexture</a></b><br/>Check <code>Brujah Vampire rexture - Male</code></sub>
     </td>
     <td align="center" width="200">
       <img src="/img/Fashion/Brujah-Male-alt02.jpg" width="150"/><br/>
       <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/123?tab=description">JOKER BRUJAH</a></b><br/>Check <code>JOKER BRUJAH - Male</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="/img/Fashion/Brujah_Opium-male.png" width="150"/><br/>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/335">Brujah opium outfits overhaul</a></b><br/>Check <code>Brujah opium outfits overhaul - Male</code></sub>
     </td>
   </tr>
 </table>
@@ -176,7 +186,10 @@ I only included images of the first armor or character skin so the rest of them 
       <img src="/img/Fashion/Nosferatu-Male-alt01.jpg" width="150"/><br/>
       <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/146">Aristocratic Nosferatu by Marius217</a></b><br/>Check <code>Aristocratic Nosferatu by Marius217 - Male</code></sub>
     </td>
-    <td align="center" width="200"></td>
+    <td align="center" width="200">
+      <img src="/img/Fashion/Nosferatu-Gentelman-Male.png" width="150"/><br/>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/328">Nosferatu Gentleman</a></b><br/>Check <code>Nosferatu Gentleman - Male</code></sub>
+    </td>
   </tr>
 </table>
 
@@ -213,6 +226,12 @@ I only included images of the first armor or character skin so the rest of them 
     <td align="center" width="200">
       <img src="/img/Fashion/Toreador-Male-alt02.jpg" width="150"/><br/>
       <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/133">MR DAMP by Marius217</a></b><br/><code>MR DAMP by Marius217 - Toreador - Male</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="/img/Fashion/Toreador_Armand_Male.png" width="150"/><br/>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/104">Modified Armand for AlexanderLavuan</a></b><br/><code>Modified Armand for AlexanderLavuan - Male</code></sub>
     </td>
   </tr>
 </table>
@@ -261,6 +280,12 @@ I only included images of the first armor or character skin so the rest of them 
     <td align="center" width="200">
       <img src="/img/Fashion/Tremere-Male-alt05.jpg" width="150"/><br/>
       <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/133">MR DAMP by Marius217</a></b><br/><code>MR DAMP by Marius217 - Tremere - Male</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="/img/Fashion/img/Toreador_Armand_Male.png" width="150"/><br/>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/306">Tremere Antitribu reskin - Male</a></b><br/><code>Tremere Antitribu reskin - Male</code></sub>
     </td>
   </tr>
 </table>

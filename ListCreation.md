@@ -139,10 +139,10 @@ Follow these steps to set up and configure ReShade properly:
 ```ini
 [INPUT]
 ; Toggle all effects on/off
-KeyEffects=123,1    ; Shift + F12
+KeyEffects=123,1    ; Control + F12
 
 ; Toggle the ReShade overlay on/off
-KeyOverlay=122,1    ; Shift + F11
+KeyOverlay=122,1    ; Control + F11
 ```
 4. Add a Folder called `Root` to the mod Folder and copy all the files inside it other then the metafile into it.
 

@@ -159,3 +159,18 @@ Additional overhaul will need to be looked into later as the exe's are not visab
 3. Deselected Malkavian Whispers from all the profiles as its not compatible with Uninterrupted background music, I do suggest the Malkavian Whispers mod if you are playing one.
 4. I updated a few mods to a better format for quicker launching of the game.
 
+## Fashionista v1.0.7
+
+### Added Mods
+- [Bloodlines Mod Resource - Immersive Computer Username](https://www.nexusmods.com/vampirebloodlines/mods/340)
+- [Brujah opium outfits overhaul](https://www.nexusmods.com/vampirebloodlines/mods/335)
+- [Allison Mayer Brujah PC Skin](https://www.nexusmods.com/vampirebloodlines/mods/319)
+- [Nosferatu Gentleman](https://www.nexusmods.com/vampirebloodlines/mods/328)
+- [Tremere Antitribu reskin](https://www.nexusmods.com/vampirebloodlines/mods/306)
+- [Modified Armand for AlexanderLavuan](https://www.nexusmods.com/vampirebloodlines/mods/304)
+
+### Fixes/Changes
+
+1. Fixed yet more Rootbuilder issues
+2. Added an email to the starting Apartment in the main profile.
+3. Fixed some missing Textures and a quest issue.
