@@ -21,6 +21,7 @@
 [Keyboard Shortcut List](img/vampire-the-masquarade-bloodlines---layout-and-hotkeys.png)
 
 **Shift + F12** toggles the ENB on and off.
+**Control + F12** toggles the Reshade on and off.
 
 ## Character Creation
 
