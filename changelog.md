@@ -127,7 +127,6 @@ Additional overhaul will need to be looked into later as the exe's are not visab
 ## Fashionista v1.0.4
 
 ### Added Mods
-
 - [VTMB - Arsenel Mod by lenusk](https://www.nexusmods.com/vampirebloodlines/mods/257?tab=files)
   - Arsenel Mod by lenusk - Fixed Translation
 - [Companion Mod Core Edition](https://www.nexusmods.com/vampirebloodlines/mods/138?tab=files)
@@ -135,7 +134,6 @@ Additional overhaul will need to be looked into later as the exe's are not visab
 ## Fashionista v1.0.5
 
 ### Added Mods
-
 - [Barabbah's addon](https://www.nexusmods.com/vampirebloodlines/mods/157?tab=files)
   - Barabbah's addon
 - [Companion Mod Core Edition](https://www.nexusmods.com/vampirebloodlines/mods/138?tab=files)
@@ -162,6 +160,17 @@ Additional overhaul will need to be looked into later as the exe's are not visab
 ## Fashionista v1.0.7
 
 ### Added Mods
+- [Visual Novel Cel-Shaded VtMB](https://www.nexusmods.com/vampirebloodlines/mods/298)
+- [Bloodlines Realistic ReShade](https://www.nexusmods.com/vampirebloodlines/mods/329)
+- [LA Nights Realistic Lighting ENB](https://www.nexusmods.com/vampirebloodlines/mods/342)
+- [Nocturnal Excess (ENB-ReShade)](https://www.nexusmods.com/vampirebloodlines/mods/102)
+
+### Fixes/Changes
+1. Fixed issue with the Companion Mod not working
+
+## Fashionista v1.0.8
+
+### Added Mods
 - [Bloodlines Mod Resource - Immersive Computer Username](https://www.nexusmods.com/vampirebloodlines/mods/340)
 - [Brujah opium outfits overhaul](https://www.nexusmods.com/vampirebloodlines/mods/335)
 - [Allison Mayer Brujah PC Skin](https://www.nexusmods.com/vampirebloodlines/mods/319)
@@ -171,7 +180,6 @@ Additional overhaul will need to be looked into later as the exe's are not visab
 - [Subtle Female Malkavian](https://www.nexusmods.com/vampirebloodlines/mods/1)
 
 ### Fixes/Changes
-
 1. Fixed yet more Rootbuilder issues
 2. Added an email to the starting Apartment in the main profile.
 3. Fixed some missing Textures and a quest issue.
