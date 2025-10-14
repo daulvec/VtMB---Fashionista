@@ -284,7 +284,7 @@ I only included images of the first armor or character skin so the rest of them 
   </tr>
   <tr>
     <td align="center" width="200">
-      <img src="/img/Fashion/img/Toreador_Armand_Male.png" width="150"/><br/>
+      <img src="/img/Fashion/Tremere_Antitribu_Male.png" width="150"/><br/>
       <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/306">Tremere Antitribu reskin - Male</a></b><br/><code>Tremere Antitribu reskin - Male</code></sub>
     </td>
   </tr>
