@@ -168,9 +168,11 @@ Additional overhaul will need to be looked into later as the exe's are not visab
 - [Nosferatu Gentleman](https://www.nexusmods.com/vampirebloodlines/mods/328)
 - [Tremere Antitribu reskin](https://www.nexusmods.com/vampirebloodlines/mods/306)
 - [Modified Armand for AlexanderLavuan](https://www.nexusmods.com/vampirebloodlines/mods/304)
+- [Subtle Female Malkavian](https://www.nexusmods.com/vampirebloodlines/mods/1)
 
 ### Fixes/Changes
 
 1. Fixed yet more Rootbuilder issues
 2. Added an email to the starting Apartment in the main profile.
 3. Fixed some missing Textures and a quest issue.
+4. Changed the default model for a few clans

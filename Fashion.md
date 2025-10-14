@@ -130,7 +130,10 @@ I only included images of the first armor or character skin so the rest of them 
       <img src="/img/Fashion/Malkavian-Female-alt04.jpg" width="150"/><br/>
       <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/355">Yuki Custom PC (Recovered)</a></b><br/>Check <code>Yuki Custom PC (Recovered) - Female</code></sub>
     </td>
-    <td align="center" width="200"></td>
+    <td align="center" width="200">
+      <img src="/img/Fashion/Malkavian-Subtle-Female-01.png" width="150"/><br/>
+      <sub><b><a href="https://www.nexusmods.com/vampirebloodlines/mods/1">Subtle Female Malkavian</a></b><br/>Check <code>Subtle Female Malkavian - Female</code></sub>
+    </td>
   </tr>
 </table>
 
