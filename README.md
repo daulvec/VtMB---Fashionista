@@ -124,7 +124,7 @@ Your installation must be on an ***internal*** SSD or M.2 drive. External SSDs &
 
 ### Setup your Antivirus
 
-Before you say "I don't have an antivirus" — you do, it's built into Windows. You *need* to exclude your Wabbajack folder and your Fashionista installation folder from your antivirus' real-time protection as it will interfere with your install. It can and will interfere whilst you are playing too, causing poor performance and obvious stuttering.
+Before you say "I don't have an antivirus" — you do, it's built into Windows. You need to **__exclude your Wabbajack folder, base game folder and your Fashionista installation folder__** from your antivirus' real-time protection as it will interfere with your install. It can and will interfere whilst you are playing too, causing poor performance and obvious stuttering.
 
 > [!TIP]
 > How do I do this, you ask? [Click here to find out how.](https://support.microsoft.com/en-gb/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26)
