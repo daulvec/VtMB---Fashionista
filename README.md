@@ -152,6 +152,9 @@ Installing the list has a couple of steps that you will have to follow for this 
 
 Set the installation location to a folder on the root of a drive, something like `C:\Fashionista`. Do not install it to one of the protected folders such as `Program Files`, `Documents` or `Desktop`. The download location will have likely been filled in for you too — ensure it matches the directory you set for the installation location.
 
+**__Make sure not to use any special characters in your folder name except for dashes (-).__**  
+Wabbajack can't handle characters like [ ] in folder names.
+
 > [!TIP]
 > **I recommend you keep your downloads outside of the Fashionista installation folder.**  
 > If you ever need to reinstall the list, you won't have to download all the mods again.
