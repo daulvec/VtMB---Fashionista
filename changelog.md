@@ -79,7 +79,6 @@ Initial Release on the UI under Unofficial
 
 None
 
-
 ## Fashionista v1.0.1
 
 ### Added Mods
@@ -180,7 +179,27 @@ Additional overhaul will need to be looked into later as the exe's are not visab
 - [Subtle Female Malkavian](https://www.nexusmods.com/vampirebloodlines/mods/1)
 
 ### Fixes/Changes
-1. Fixed yet more Rootbuilder issues
+1. Fixed yet more Rootbuilder issuesFV
 2. Added an email to the starting Apartment in the main profile.
 3. Fixed some missing Textures and a quest issue.
 4. Changed the default model for a few clans
+
+## Fashionista v1.0.9
+
+### Added Mods
+- [Bloodlines Mod Resource - Immersive Computer Username](https://www.nexusmods.com/vampirebloodlines/mods/340)
+- Added 2 Gangrel Skins to the list.
+
+### Fixes/Changes
+1. Fixed an issue with the HD Profile.
+2. Updated the Unofficial Patch to the Latest Version
+   - Added the Plus patch as an option, this will show in the list but it does nothing at this time I plan on supporting it but there is a lot to check so this is just here in case people want to active it over the existing option in the
+   - Default Game Plus Unofficial Patch
+  Profile.
+3. Change the default skins for the Female Malchavian to my prefered options from Multiple mods. I plan on doing this for all clans and genders eventually if there are enough options.
+4. Found an old archive of the Planet Vampire Site including a bunch of its mods, I started going through them all but it will take a while, so far I have added to Skin Mod's from this to the list
+  - Asian Gangrel
+  - Gangrel_fem
+And have set the Gangrel_fem to the default, I have no idea all of whats in here but its interesting seeing all the old history from the site and mods people have done.
+5. Re-enable the Barabbah profile.
+6. Cleaned out a bunch of un-needed archives.
