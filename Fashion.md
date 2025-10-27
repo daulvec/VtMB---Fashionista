@@ -107,10 +107,17 @@ I only included images of the first armor or character skin so the rest of them 
   <tr>
     <td align="center" width="200">
       <img src="/img/Fashion/Gangrel-Female-Default.jpg" width="150"/><br/>
-      <sub><b>Gangrel Female Default</b><br/><code>Gangrel-Female-Default.jpg</code></sub>
+      <sub><b>img\Fashion\asian_gangrel.jpg</b><br/><code>Gangrel-Female-Default.jpg</code></sub>
     </td>
-    <td align="center" width="200"></td>
-    <td align="center" width="200"></td>
+    <td align="center" width="200">
+    <img src="/img/Fashion/asian_gangrel.jpg" width="150"/><br/>
+      <sub><b>Gangrel Female Default</b><br/><code>asian_gangrel.jpg</code></sub>
+    </td>
+    <td align="center" width="200">
+    <img src="/img/Fashion/Gangrel-PV-Female-01.png" width="150"/><br/>
+      <sub><b>Gangrel_fem</b><br/><code>Gangrel-PV-Female-01.png</code></sub>
+    
+    </td>
   </tr>
 </table>
 

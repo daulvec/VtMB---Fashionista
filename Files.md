@@ -2,11 +2,18 @@
 
 Links to all the mods used as well as what options to download, if you are having issues with the auto downloader.
 
-- [VTMBup115.exe](https://www.nexusmods.com/vampirebloodlines/mods/80)
+- [VTMBup115.34.exe](https://www.nexusmods.com/vampirebloodlines/mods/80)
   - VTMBup115.exe
 - [VTMB HD Overhaul](https://www.nexusmods.com/vampirebloodlines/mods/234)
-  - VTMB HD Overhaul Complete
-  - Brighter UI
+  - Optional files
+    - Brighter UI
+    - Code Files
+    - Model Texture Separation 3 3
+    - Only Characters
+    - Sound Separation
+    - UI UX Separation
+    - World Texture Separation 1 3
+    - World Texture Separation 2 3
 - [NPCs Improved - Chinatown](https://www.nexusmods.com/vampirebloodlines/mods/165)
   - Chinatown
   - Downtown
@@ -143,3 +150,16 @@ Links to all the mods used as well as what options to download, if you are havin
   - Sweet Heather by Skeletoff
 - [Throwing a bone for the Canines](https://www.nexusmods.com/vampirebloodlines/mods/90)
   - Throwing a bone for the canines
+- [Modified Armand for AlexanderLavuan](https://www.nexusmods.com/vampirebloodlines/mods/304)
+  - ToreadorAlexanderLavuan
+- [Subtle Female Malkavian](https://www.nexusmods.com/vampirebloodlines/mods/1)
+  - Subtle Female Malkavian
+  - Hatemiser&#39;s Tweaks
+- [Allison Mayer Brujah PC Skin](https://www.nexusmods.com/vampirebloodlines/mods/319)
+  - Brujah Skin
+- [Truly Soaking- A Lethal Soak Mod](https://www.nexusmods.com/vampirebloodlines/mods/360)
+  - True Soak
+- [VTMB - Arsenel Mod by lenusk](https://www.nexusmods.com/vampirebloodlines/mods/257)
+  - Arsenel Mod by lenusk - Fixed Translation
+- [Companion Mod Core Edition](https://www.nexusmods.com/vampirebloodlines/mods/138)
+  - Companion Mod Core Edition
