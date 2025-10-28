@@ -203,3 +203,7 @@ Additional overhaul will need to be looked into later as the exe's are not visab
 And have set the Gangrel_fem to the default, I have no idea all of whats in here but its interesting seeing all the old history from the site and mods people have done.
 5. Re-enable the Barabbah profile.
 6. Cleaned out a bunch of un-needed archives.
+
+## Fashionista v1.0.9
+
+Issues with v1.0.9 caused install issues so this was just a recomile to fix issue with Installing.
