@@ -255,4 +255,10 @@ Issues with v1.0.9 caused install issues so this was just a recomile to fix issu
   - World Texture Separation 1 3
 
 ### Fixes/Changes
-1. Started Creating Custom Menu's for the various Profiles only have the Main one so far and I have it setup for 1920x1080, let me know what you think of it and if you want me to make other sizes for your resolution.
+1. Started Creating Custom Menu's for the various Profiles only have the Main one so far, I do not have an ultrawide monitor so I can not test it on that.
+2. Changed Rootbuilder a bit.
+3. A number of bug fixes.
+
+There have been a couple of reports of the game crashing when loading large areas, I am in the middle of a playthrough for fun as well as testing and have not run into the issue so far so I can not verrify it. Reloading the game has fixed the issue for some people and for others they disabled a number of the HD textures under Graphics Updates and that fixed the issue.
+
+Its possible that I have too many HD textures setup and thats causing issues but its also possible that this is an issue with lower spec computers. If anyone has more information or a save with the issue please let me know in the support channel in discord.
