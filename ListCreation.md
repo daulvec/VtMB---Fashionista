@@ -23,6 +23,11 @@ Here is some information I have found on modding this game using Wabbajack and M
   - [Step 5: Wabbajack Compile Settings](#step-5-wabbajack-compile-settings)
     - [Required Compile Settings](#required-compile-settings)
     - [Why These Are Important](#why-these-are-important)
+  - [Information on Modding the Game](#information-on-modding-the-game)
+    - [Editing the Main Menu](#editing-the-main-menu)
+      - [The Logo](#the-logo)
+      - [The Particals](#the-particals)
+      - [The Background or Skybox](#the-background-or-skybox)
 
 ## Setting Up Mod Organizer
 
@@ -166,3 +171,120 @@ When building the list in **Wabbajack**, you need to adjust the compile settings
 - **NoMatchInclude**  
   Inlines all files that cannot be found in archives.  
   This is why we added the `LICENSE.md` file — it guarantees that the build will include all necessary files, even if they aren’t part of a recognized archive.  
+
+## Information on Modding the Game
+
+### Editing the Main Menu
+
+There are 3 parts to the main menu that I have found
+
+1. The Logo on top
+2. The Particals that Float around the page and effects
+3. The Background or Skybox
+
+#### The Logo
+
+The logo is 3 different files in `` unofficial_patch\materials\interface\mainmenu\`` 
+
+1. `` *.tth``
+2. `` *.ttz``
+3. `` *.vmt``
+
+TTH stands for Troika Texture Header, and TTZ for Troika Texture Zipped, TTZ is where the actual bitmap and a .vmt file is a Valve Material Type file used by Valve's Source Engine to define the material properties of surfaces in video games, such as color, texture, and reflections. These files are typically text files that contain key-value pairs specifying various material attributes.
+
+The Easiest way to edit the file is to use a .bat file that the Unofficial Plus Patch includes in  ``SDK\SDKBinaries\tools\Texture Utils\`` and simply drag the TTH File into the ``TexConvert.bat`` Then edit the image using your favorite image editor and to convert it back into a .tth and .ttz just drag it into the .bat again.
+
+You should not have to edit the .vmt unless you changed the name of the files but just naming the files the same as the .vmt is good enough.
+
+#### The Particals
+
+The particals are the objects bouncing or floating around the screen in the background, and the effects on the background like color overlays or things like smoke or fire effects/
+
+The Only one's I have edited are the floating images and they look to just be ``mm_*.tga`` files that are 128 x 128 in size and are located in `` unofficial_patch\particles ``
+
+> [!Tip]
+> converting all the tga files to black will remove the the image from displaying, this is handy if you want the background image to display
+
+If I edit the effects I will post more information but nothing so far.
+
+#### The Background or Skybox
+
+The Skybox is in 2 places from what I can figure out with the following files
+
+1. ``unofficial_patch\resource\``
+   - ``mainmenuparticles.txt``
+     - This looks like where you set certain things about the skybox such as
+     - The Name of the Skybox
+     - What Music plays
+     - What the cammera does and if you can do things like look around or have it rotate.
+     - What Particle Effects are loaded and more.
+2. ``unofficial_patch\materials\skybox``
+   - ``mm_*.tth``
+   - ``mm_*.ttz``
+   - ``mm_*.vmt``
+   - ``mm_*bk.vmt``
+   - ``mm_*dn.vmt``
+   - ``mm_*ft.vmt``
+   - ``mm_*lf.vmt``
+   - ``mm_*rt.vmt``
+   - ``mm_*up.vmt``
+     - The tth and ttz are the same format but a larger size probally 1024x1024 or 2048x208 is size.
+     - **The Nameing convention for the files works out to be**
+       - bk = back (rear face of the cube)
+       - ft = front (forward face)
+       - lf = left (left face)
+       - rt = right (right face)
+       - up = top (ceiling face)
+       - dn = down (bottom face)
+
+
+Exaimple of the ``mainmenuparticles.txt``
+```json
+MainMenuParticles
+{
+	camera_fov		"45"
+	camera_near		"2"
+	camera_far		"4096"
+	camera_rotation		"0"
+	default_skybox		"mm_skybox"
+
+
+music			"music/vampire_theme.mp3" //(By @joylunamusic)
+
+
+	Particle
+	{
+		emitter		"M_Clouds_Emmiter"
+		origin		"[0,0,-30]"
+		angle		"[0,0,0]"
+	}
+
+
+	Particle
+	{
+		emitter		"M_Clans_Emmiter"
+		origin		"[0,0,-30]"
+		angle		"[0,0,0]"
+	}
+
+	Particle
+	{
+		emitter		"M_Cels_Emmiter"
+		origin		"[0,0,-30]"
+		angle		"[0,0,0]"
+	}
+
+
+}
+```
+
+Exaimple of the ``mm_*vmt``
+
+```json
+"UnlitGeneric"
+{
+	"$basetexture"	"skybox/mm_f"
+	"$basetexturetransform" "center .5 .5 scale 1.8 1.8 rotate 0 translate 0 0"
+$detailscale 1"
+}
+```

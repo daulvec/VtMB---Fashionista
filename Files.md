@@ -163,3 +163,32 @@ Links to all the mods used as well as what options to download, if you are havin
   - Arsenel Mod by lenusk - Fixed Translation
 - [Companion Mod Core Edition](https://www.nexusmods.com/vampirebloodlines/mods/138)
   - Companion Mod Core Edition
+- [Those Goth Kids - Dancers Pack](https://www.nexusmods.com/vampirebloodlines/mods/81)
+  - Those Goth Kids - Dancers Pack
+  - Cybergoth Girl
+- [Female Gangrel by Marius217](https://www.nexusmods.com/vampirebloodlines/mods/186)
+  - Female Gangrel by Marius217
+- [Raving Malkavian](https://www.nexusmods.com/vampirebloodlines/mods/161)
+  - Raving Malkavian
+- [TOREADORABLE](https://www.nexusmods.com/vampirebloodlines/mods/219)
+  - TOREADORABLE
+- [Toreador Female By Marius217](https://www.nexusmods.com/vampirebloodlines/mods/188)
+  - toreador Female by Marius217
+- [Modern female toreador female(Fixed)](https://www.nexusmods.com/vampirebloodlines/mods/192)
+  - ModernTorFemale(Fixed)
+- [Toreador Louis By Marius217](https://www.nexusmods.com/vampirebloodlines/mods/160)
+  - toreador Louis by Marius217
+- [Female Brujah Replacement Pack](https://www.nexusmods.com/vampirebloodlines/mods/2)
+  - Mod
+- [Selene from Underworld for Brujah](https://www.nexusmods.com/vampirebloodlines/mods/33)
+  - Underworld Selene for Brujah
+- [BRUJAH 2.0 by Marius217](https://www.nexusmods.com/vampirebloodlines/mods/148)
+  - Brujah 2.0 BY Marius217
+- [BRUJAH 2.0 by Marius217](https://www.nexusmods.com/vampirebloodlines/mods/148)
+  - Brujah 2.0 BY Marius217
+- [Vampire Brujah By Marius217](https://www.nexusmods.com/vampirebloodlines/mods/132)
+  - Pc for Brujah Male by Marius217
+- [Brujah Connor Mclaud The Highlander.](https://www.nexusmods.com/vampirebloodlines/mods/181)
+  - Brujah Connor Mclaud The Highlander by Marius217
+- [Female Brujah by Skeletoff](https://www.nexusmods.com/vampirebloodlines/mods/215)
+  - NightIsBlack

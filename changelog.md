@@ -204,6 +204,61 @@ And have set the Gangrel_fem to the default, I have no idea all of whats in here
 5. Re-enable the Barabbah profile.
 6. Cleaned out a bunch of un-needed archives.
 
-## Fashionista v1.0.9
+## Fashionista v1.0.10
 
 Issues with v1.0.9 caused install issues so this was just a recomile to fix issue with Installing.
+
+
+## Fashionista v1.0.11
+
+### Added Mods
+
+- [Those Goth Kids - Dancers Pack](https://www.nexusmods.com/vampirebloodlines/mods/81)
+  - Those Goth Kids - Dancers Pack
+  - Cybergoth Girl
+- [Female Gangrel by Marius217](https://www.nexusmods.com/vampirebloodlines/mods/186)
+  - Female Gangrel by Marius217
+- [Raving Malkavian](https://www.nexusmods.com/vampirebloodlines/mods/161)
+  - Raving Malkavian
+- [TOREADORABLE](https://www.nexusmods.com/vampirebloodlines/mods/219)
+  - TOREADORABLE
+- [Toreador Female By Marius217](https://www.nexusmods.com/vampirebloodlines/mods/188)
+  - toreador Female by Marius217
+- [Modern female toreador female(Fixed)](https://www.nexusmods.com/vampirebloodlines/mods/192)
+  - ModernTorFemale(Fixed)
+- [Toreador Louis By Marius217](https://www.nexusmods.com/vampirebloodlines/mods/160)
+  - toreador Louis by Marius217
+- [Female Brujah Replacement Pack](https://www.nexusmods.com/vampirebloodlines/mods/2)
+  - Mod
+- [Selene from Underworld for Brujah](https://www.nexusmods.com/vampirebloodlines/mods/33)
+  - Underworld Selene for Brujah
+- [BRUJAH 2.0 by Marius217](https://www.nexusmods.com/vampirebloodlines/mods/148)
+  - Brujah 2.0 BY Marius217
+- [BRUJAH 2.0 by Marius217](https://www.nexusmods.com/vampirebloodlines/mods/148)
+  - Brujah 2.0 BY Marius217
+- [Vampire Brujah By Marius217](https://www.nexusmods.com/vampirebloodlines/mods/132)
+  - Pc for Brujah Male by Marius217
+- [Brujah Connor Mclaud The Highlander.](https://www.nexusmods.com/vampirebloodlines/mods/181)
+  - Brujah Connor Mclaud The Highlander by Marius217
+- [Female Brujah by Skeletoff](https://www.nexusmods.com/vampirebloodlines/mods/215)
+  - NightIsBlack
+
+### Updates
+- [NPCs Improved](https://www.nexusmods.com/vampirebloodlines/mods/165?tab=files)
+  - Chinatown
+  - Hollywood
+  - Other
+  - Santa Monica
+- [Vampire The Masquerade - Bloodlines Unofficial Patch](https://www.nexusmods.com/vampirebloodlines/mods/80)
+  - VTMBup115.37.exe
+- [VTMB HD Overhaul](https://www.nexusmods.com/vampirebloodlines/mods/234)
+  - World Texture Separation 1 3
+
+### Fixes/Changes
+1. Started Creating Custom Menu's for the various Profiles only have the Main one so far, I do not have an ultrawide monitor so I can not test it on that.
+2. Changed Rootbuilder a bit.
+3. A number of bug fixes.
+
+There have been a couple of reports of the game crashing when loading large areas, I am in the middle of a playthrough for fun as well as testing and have not run into the issue so far so I can not verrify it. Reloading the game has fixed the issue for some people and for others they disabled a number of the HD textures under Graphics Updates and that fixed the issue.
+
+Its possible that I have too many HD textures setup and thats causing issues but its also possible that this is an issue with lower spec computers. If anyone has more information or a save with the issue please let me know in the support channel in discord.
