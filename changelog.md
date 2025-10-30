@@ -208,7 +208,6 @@ And have set the Gangrel_fem to the default, I have no idea all of whats in here
 
 Issues with v1.0.9 caused install issues so this was just a recomile to fix issue with Installing.
 
-
 ## Fashionista v1.0.11
 
 ### Added Mods
@@ -262,3 +261,7 @@ Issues with v1.0.9 caused install issues so this was just a recomile to fix issu
 There have been a couple of reports of the game crashing when loading large areas, I am in the middle of a playthrough for fun as well as testing and have not run into the issue so far so I can not verrify it. Reloading the game has fixed the issue for some people and for others they disabled a number of the HD textures under Graphics Updates and that fixed the issue.
 
 Its possible that I have too many HD textures setup and thats causing issues but its also possible that this is an issue with lower spec computers. If anyone has more information or a save with the issue please let me know in the support channel in discord.
+
+## Fashionista v1.0.11
+
+Change to Rootbuilder to prevent launch issues for some people.
