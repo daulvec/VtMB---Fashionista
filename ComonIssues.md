@@ -8,8 +8,8 @@ Here you can find the solutions to common problems people encounter when install
     - [Updating the List Fails](#updating-the-list-fails)
   - [Gameplay Issues](#gameplay-issues)
     - [Mouse Issues](#mouse-issues)
-    - [Resolution Issues](#resolution-issues)
     - [Fullscreen or Windowed](#fullscreen-or-windowed)
+    - [Resolution Issues](#resolution-issues)
     - [ENB](#enb)
     - [Game Crashes](#game-crashes)
 
@@ -33,12 +33,6 @@ If something else is happening head to the discord support channel and post your
 
 Options > Mouse Tab > Mouse Look should be checked or if its not on in game press the `;` key
 
-### Resolution Issues
-
- The game should have most resolution support with the unoffical Patch but I am unnable to test ultrawide displays, changing the resoltions can be done in the main Menu under  
-
-Options > Resolution.
-
 ### Fullscreen or Windowed
 
 To swap between Full Screen and Windowed you can edit the launch options by adding  
@@ -48,6 +42,18 @@ or
 `-windowed`
 
 ![Fullscreen location](img/Fullscreen.png)
+
+### Resolution Issues
+
+ The game should have most resolution support with the unoffical Patch but I am unnable to test ultrawide displays, changing the resoltions can be done in the main Menu under  
+
+Options > Resolution.
+
+You can also force a resolution using Arguments on the launcher.
+
+the arugments use the following format:
+
+`-window -w 800 -h 600`
 
 ### ENB
 
