@@ -21,7 +21,10 @@
     - [Install Microsoft Visual C++ Redistributable Packages](#install-microsoft-visual-c-redistributable-packages)
     - [Setup your Antivirus](#setup-your-antivirus)
     - [Install the game](#install-the-game)
-    - [Disable Steam Overlay](#disable-steam-overlay)
+    - [Steam Specific Instructions](#steam-specific-instructions)
+      - [Disable Steam Overlay](#disable-steam-overlay)
+    - [GOG Specific Instructions](#gog-specific-instructions)
+      - [What Version to install](#what-version-to-install)
   - [Installation](#installation)
   - [Post-Installation](#post-installation)
     - [Launch the game](#launch-the-game)
@@ -139,12 +142,37 @@ Install the game either through Steam or GoG, both is fine.
 > [!CAUTION]
 > You don't need to run the game prior to installing the modlist.  
 > In fact, the game will not start on modern systems. The unofficial patch will fix this.  
->  
+>
 > **__DO NOT INSTALL THE UNOFFICIAL PATCH TO RUN THE GAME__**, Wabbajack will take care of that for you during modlist installation.
 
-### Disable Steam Overlay
+> [!WARNING]
+> You **HAVE** to have to have a clean install of the game or the list will not work.
+
+<!-- ![Steam Logo](img\Steam_Logo.png) -->
+<img src="img\Steam_Logo.png" alt="Stean Logo" width="200px">
+
+### Steam Specific Instructions
+
+#### Disable Steam Overlay
 
 The Steam overlay is known to cause issues, especially when using ENBs. Do so by heading into Steam, right-clicking on Vampire: The Masquerade – Bloodlines in your game library and clicking **Properties** > **General** > **Deselect "Enable Steam Overlay while in-game"**.
+
+<img src="img\GOG-Logo.png" alt="GOG Logo" width="200px">
+
+### GOG Specific Instructions
+
+#### What Version to install
+
+> [!CAUTION]
+> Don't use the GOG Galaxy version of the game, it adds the unofficial patch and could possibly cause issues.
+
+You want the manual version without the patch
+1. Sign into GOG and go to the Account page [Here](https://www.gog.com/en/account)
+2. Us the Search bar to find the game I searched for ```Bloodlines``` then click on the game.
+3. Then download the following 2 files
+   - ```Vampire®: The Masquerade - Bloodlines™ (Part 1 of 2)``` 
+   - ```Vampire®: The Masquerade - Bloodlines™ (Part 2 of 2)```
+4. Read the Install Section and uses these files for the install.
 
 ## Installation
 
@@ -152,8 +180,9 @@ Installing the list has a couple of steps that you will have to follow for this 
 
 Set the installation location to a folder on the root of a drive, something like `C:\Fashionista`. Do not install it to one of the protected folders such as `Program Files`, `Documents` or `Desktop`. The download location will have likely been filled in for you too — ensure it matches the directory you set for the installation location.
 
-**__Make sure not to use any special characters in your folder name except for dashes (-).__**  
-Wabbajack can't handle characters like [ ] in folder names.
+>[!Caution]
+> **__Make sure not to use any special characters in your folder name except for dashes (-).__** 
+> Wabbajack can't handle characters like [ ] in folder names.
 
 > [!TIP]
 > **I recommend you keep your downloads outside of the Fashionista installation folder.**  
