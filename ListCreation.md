@@ -23,6 +23,7 @@ Here is some information I have found on modding this game using Wabbajack and M
   - [Step 5: Wabbajack Compile Settings](#step-5-wabbajack-compile-settings)
     - [Required Compile Settings](#required-compile-settings)
     - [Why These Are Important](#why-these-are-important)
+    - [ENB Settings for the list](#enb-settings-for-the-list)
   - [Information on Modding the Game](#information-on-modding-the-game)
     - [Editing the Main Menu](#editing-the-main-menu)
       - [The Logo](#the-logo)
@@ -171,6 +172,16 @@ When building the list in **Wabbajack**, you need to adjust the compile settings
 - **NoMatchInclude**  
   Inlines all files that cannot be found in archives.  
   This is why we added the `LICENSE.md` file — it guarantees that the build will include all necessary files, even if they aren’t part of a recognized archive.  
+
+### ENB Settings for the list
+
+``` ini
+[INPUT]
+KeyUseEffect=123 // Shift + f12
+KeyBloom=120 
+KeyOcclusion=121
+...
+```
 
 ## Information on Modding the Game
 
