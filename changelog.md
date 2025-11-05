@@ -262,6 +262,41 @@ There have been a couple of reports of the game crashing when loading large area
 
 Its possible that I have too many HD textures setup and thats causing issues but its also possible that this is an issue with lower spec computers. If anyone has more information or a save with the issue please let me know in the support channel in discord.
 
-## Fashionista v1.0.11
+## Fashionista v1.0.12
 
 Change to Rootbuilder to prevent launch issues for some people.
+
+## Fashionista 1.0.13
+
+**Info:**
+- Download size change: -516.8KB (Total: 16.2GB)
+- Install size change: -334MB (Total: 23.8GB)
+
+### Download Changes
+
+#### Added Mods
+
+- Added [Malkavian Whispers UPgraded](https://www.nexusmods.com/vampirebloodlines/mods/369)
+  - Malkavian Whispers UPgraded-369-1-0-1762058485.zip
+  - Malkavian Whispers UPgraded for VtMB HD Overhaul-369-1-0-1762058616.zip
+  - Malkavian Whispers UPgraded for VtMB HD Overhaul-369-1-1-1762064472.zip
+  - Custom Outfits for Tremere
+
+#### Updated Mods
+
+- Updated [Vampire The Masquerade - Bloodlines Unofficial Patch](https://www.nexusmods.com/vampirebloodlines/mods/80)
+  - VTMBup115.38.exe-80-11-5-38-1761900354.exe
+
+#### Removed Mods
+
+- Removed [Vampire The Masquerade - Bloodlines Unofficial Patch](https://www.nexusmods.com/vampirebloodlines/mods/80)
+  - VTMBup115.37.exe-80-11-5-37-1761662263.exe
+- Removed [Malkavian Whispers](https://www.nexusmods.com/vampirebloodlines/mods/280)
+  - MalkWhispers-280-v1-1698848073.zip
+  - Malchavian Font
+
+Added an Updated Malkavian Whispers mod with better support, Thanks to `Svarttjern` There are 2 options one for the Primary Profile and one for the HD Overhaul pick the option you want if you are playing a Malchavian.
+
+Added the Patch as an option to set the Malchavian Font's to the default one this is not checked by default.
+
+Added a custom setup for Female Tremere that uses the Malchavian Setup.

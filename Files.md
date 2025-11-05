@@ -192,3 +192,7 @@ Links to all the mods used as well as what options to download, if you are havin
   - Brujah Connor Mclaud The Highlander by Marius217
 - [Female Brujah by Skeletoff](https://www.nexusmods.com/vampirebloodlines/mods/215)
   - NightIsBlack
+- Added [Malkavian Whispers UPgraded](https://www.nexusmods.com/vampirebloodlines/mods/369)
+  - Malkavian Whispers UPgraded-369-1-0-1762058485.zip
+  - Malkavian Whispers UPgraded for VtMB HD Overhaul-369-1-0-1762058616.zip
+  - Malkavian Whispers UPgraded for VtMB HD Overhaul-369-1-1-1762064472.zip
