@@ -104,8 +104,8 @@ It runs great with my system but it's probably fine on a potato.
 
 |             | Total Space   | Storage Type        |
 |-------------|--------------|---------------------|
-| **Minimum**     | 32GB         | SATA SSD            |
-| **Recommended** | 60GB         | NVMe SSD            |
+| **Minimum**     | 60GB         | SATA SSD            |
+| **Recommended** | 80GB         | NVMe SSD            |
 
 Your installation must be on an ***internal*** SSD or M.2 drive. External SSDs & HDDs are too slow for modlists to run from, and I suggest an M.2 drive, otherwise load and launch times are a bit longer than you would want.
 
