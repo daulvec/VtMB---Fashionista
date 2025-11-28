@@ -300,3 +300,84 @@ Added an Updated Malkavian Whispers mod with better support, Thanks to `Svarttje
 Added the Patch as an option to set the Malchavian Font's to the default one this is not checked by default.
 
 Added a custom setup for Female Tremere that uses the Malchavian Setup.
+
+
+## Fashionista 1.1.0
+
+**Built at:** `11/28/2025 4:43:33 PM`
+
+**Info:**
+- Download size change: -3.1GB (Total: 19.3GB)
+- Install size change: -6GB (Total: 29.8GB)
+
+#### Added Mods
+- Added [vampira.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/tremere-woman-by-marius217)
+  - vampira.zip
+- Added [FemMalk_Package_2_-_Copy.rar](https://www.moddb.com/addons/deathrockermalkfem)
+  - FemMalk_Package_2_-_Copy.rar
+- Added [Tremere_Pack.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-tremere-pack)
+  - Tremere_Pack.zip
+- Added [1dark_malk_girl.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/dark-malk-girl)
+  - 1dark_malk_girl.zip
+- Added [Golden_Rose_v1.5.7z](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/the-golden-rose-v157)
+  - Golden_Rose_v1.5.7z
+- Added [AAFVentrue.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/african-american-ventrue-skin)
+  - AAFVentrue.rar
+- Added [demonastery_female_t.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/demonastery-female-tremere)
+  - demonastery_female_t.zip
+- Added [Neu ventrue](https://www.nexusmods.com/vampirebloodlines/mods/371)
+  - Neu Ventrue-371-1-1762325963.rar
+- Added [NightIsBlack.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-brujah-by-skeletoff)
+  - NightIsBlack.rar
+- Added [toreador_reskin_beta.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-toreador-skin)
+  - toreador_reskin_beta.zip
+- Added [Malkavian Goth Female](https://www.nexusmods.com/vampirebloodlines/mods/378)
+  - Malkavian Goth Female-378-0-0-1-1762653025.7z
+- Added [ProudStannerman Tremere and Toreador](https://www.nexusmods.com/vampirebloodlines/mods/376)
+  - ProudStannerman Toreador-376-1-1762488690.rar
+- Added [Female_Malkavian_Armor_0_Reskin.zip](https://www.moddb.com/mods/vampire-the-masquerade-bloodlines/addons/female-malkavian-reskin)
+  - Female_Malkavian_Armor_0_Reskin.zip
+- Added [VtMB_beta_Jeanette_textures_for_Female_Malk.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vtmb-beta-jeanette-textures-for-female-malk)
+  - VtMB_beta_Jeanette_textures_for_Female_Malk.zip
+- Added [r.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-woman)
+  - r.rar
+- Added [Malk_goth_girl.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malkavian-goth-girl-v10)
+  - Malk_goth_girl.zip
+ - Added [VVskin01.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vv-skin)
+  - VVskin01.rar
+- Added [Insane_Jane_by_sacerdos.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/insane-jane)
+  - Insane_Jane_by_sacerdos.rar
+- Added [Companion Mod Core Edition](https://www.nexusmods.com/vampirebloodlines/mods/138)
+
+#### Updated Mods
+
+- [VTMB HD Overhaul](https://www.nexusmods.com/vampirebloodlines/mods/234)
+  - Companion Mod BETA-234-2-0-1762712446.zip
+  - CQM Beta Compatibility-234-2-0-1762624142.zip
+- [Unofficial Patch](https://www.nexusmods.com/vampirebloodlines/mods/80)
+  - VTMBup115.42-80-11-5-42-1764019843.exe
+- [Barabbah's addon](https://www.nexusmods.com/vampirebloodlines/mods/157)
+  - Barabbah Addon-157-7-9-9-1763996073.exe
+- [Camarilla Edition reborn](https://www.nexusmods.com/vampirebloodlines/mods/263)
+  - Camarilla Edition Reborn-263-2025-F-1763980650.exe
+
+#### Removed Mods
+
+- Removed [VTMB - Arsenel Mod by lenusk](https://www.nexusmods.com/vampirebloodlines/mods/257)
+  - Arsenel Mod by lenusk - Fixed Translation-257-1-1-1683575103.7z
+- Removed [Truly Soaking- A Lethal Soak Mod](https://www.nexusmods.com/vampirebloodlines/mods/360)
+  - CQM CAMARILLA EDITION LIGHT VERSION-360-1-1758215357.zip
+
+### New Profile
+
+- Camarilla Edition Reborn
+
+Big Changes and there might be breaking changes here this is NOT save safe. 
+Every Profile has been rebuilt.
+The main profile now uses the Plus Patch Version and the Companion mod has been removed from it.
+A ton of new outfits and more coming.
+I am now requiring mods from the ModDB, you are going to need to manually download them as part of the install.
+I am now includding the Camarilla Edition Reborn overhaul its a new profile and includes the Plus version.
+More new profiles on the way to add additional overhaul support.
+RTX mod will hopefully come soonish as I think??? I might have figured out the issue with it but holding off for now till I can confirm its working properly.
+
