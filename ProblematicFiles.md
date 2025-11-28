@@ -1,3 +1,40 @@
 # Problematic Files
 
-At this time I am unaware of any, if you have issues with one, ping me in the discord, its okay, I give you permission this one time.
+### Moddb
+
+- [vampira.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/tremere-woman-by-marius217)
+  - vampira.zip
+- [FemMalk_Package_2_-_Copy.rar](https://www.moddb.com/addons/deathrockermalkfem)
+  - FemMalk_Package_2_-_Copy.rar
+- [Tremere_Pack.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-tremere-pack)
+  - Tremere_Pack.zip
+- [1dark_malk_girl.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/dark-malk-girl)
+  - 1dark_malk_girl.zip
+- [Golden_Rose_v1.5.7z](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/the-golden-rose-v157)
+  - Golden_Rose_v1.5.7z
+- [AAFVentrue.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/african-american-ventrue-skin)
+  - AAFVentrue.rar
+- [demonastery_female_t.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/demonastery-female-tremere)
+  - demonastery_female_t.zip
+- [Neu ventrue](https://www.nexusmods.com/vampirebloodlines/mods/371)
+  - Neu Ventrue-371-1-1762325963.rar
+- [NightIsBlack.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-brujah-by-skeletoff)
+  - NightIsBlack.rar
+- [toreador_reskin_beta.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/female-toreador-skin)
+  - toreador_reskin_beta.zip
+- [Malkavian Goth Female](https://www.nexusmods.com/vampirebloodlines/mods/378)
+  - Malkavian Goth Female-378-0-0-1-1762653025.7z
+- [ProudStannerman Tremere and Toreador](https://www.nexusmods.com/vampirebloodlines/mods/376)
+  - ProudStannerman Toreador-376-1-1762488690.rar
+- [Female_Malkavian_Armor_0_Reskin.zip](https://www.moddb.com/mods/vampire-the-masquerade-bloodlines/addons/female-malkavian-reskin)
+  - Female_Malkavian_Armor_0_Reskin.zip
+- [VtMB_beta_Jeanette_textures_for_Female_Malk.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vtmb-beta-jeanette-textures-for-female-malk)
+  - VtMB_beta_Jeanette_textures_for_Female_Malk.zip
+- [r.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/ventrue-woman)
+  - r.rar
+- [Malk_goth_girl.zip](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/malkavian-goth-girl-v10)
+  - Malk_goth_girl.zip
+- [VVskin01.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/vv-skin)
+  - VVskin01.rar
+- [Insane_Jane_by_sacerdos.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/insane-jane)
+  - Insane_Jane_by_sacerdos.rar
