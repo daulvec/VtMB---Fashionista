@@ -301,7 +301,6 @@ Added the Patch as an option to set the Malchavian Font's to the default one thi
 
 Added a custom setup for Female Tremere that uses the Malchavian Setup.
 
-
 ## Fashionista 1.1.0
 
 **Built at:** `11/28/2025 4:43:33 PM`
@@ -381,3 +380,24 @@ I am now includding the Camarilla Edition Reborn overhaul its a new profile and 
 More new profiles on the way to add additional overhaul support.
 RTX mod will hopefully come soonish as I think??? I might have figured out the issue with it but holding off for now till I can confirm its working properly.
 
+## Fashionista 1.1.1 and 1.1.2
+
+**Info:**
+- Download size change: 3.8GB (Total: 15.5GB)
+- Install size change: -618.7MB (Total: 30.4GB)
+
+### Download Changes
+
+#### Added Mods
+
+- Added [Bloodlines_Audio_Overhaul_Mod_2.0a.zip](https://www.moddb.com/mods/bloodlines-audio-overhaul/downloads/bloodlines-audio-overhaul-v20-magic-update)
+  - Bloodlines_Audio_Overhaul_Mod_2.0a.zip
+- Added [Massive_Attack_-_Angel_VTMB_Main_Menu_Theme_Replacer.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/massive-attack-angel-vtmb-main-menu-theme-replacer)
+  - Massive_Attack_-_Angel_VTMB_Main_Menu_Theme_Replacer.rar
+
+#### Updated Mods
+
+- Updated [VTMB HD Overhaul](https://www.nexusmods.com/vampirebloodlines/mods/234)
+  - VTMB HD Overhaul Complete-234-2-1-1764420805.zip
+- Updated [ProudStannerman Tremere and Toreador](https://www.nexusmods.com/vampirebloodlines/mods/376)
+  - ProudStannerman Tremere-376-1-1762480761.rar

@@ -38,3 +38,7 @@
   - VVskin01.rar
 - [Insane_Jane_by_sacerdos.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/insane-jane)
   - Insane_Jane_by_sacerdos.rar
+- [Bloodlines_Audio_Overhaul_Mod_2.0a.zip](https://www.moddb.com/mods/bloodlines-audio-overhaul/downloads/bloodlines-audio-overhaul-v20-magic-update)
+  - Bloodlines_Audio_Overhaul_Mod_2.0a.zip
+- [Massive_Attack_-_Angel_VTMB_Main_Menu_Theme_Replacer.rar](https://www.moddb.com/games/vampire-the-masquerade-bloodlines/addons/massive-attack-angel-vtmb-main-menu-theme-replacer)
+  - Massive_Attack_-_Angel_VTMB_Main_Menu_Theme_Replacer.rar
