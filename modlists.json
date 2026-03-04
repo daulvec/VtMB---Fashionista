@@ -59,23 +59,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/daulvec/VtMB---Fashionista/main/img/RTX.webp",
       "readme": "https://iunpause.com/FashionistaRTX/Fashion-RTX.html",
-      "download": "",
+      "download": "https://authored-files.wabbajack.org/Fashionista RTX Mod 0.0.3.wabbajack_43286a9c-42c1-4a36-a4a3-d566b79d1b2d",
       "machineURL": "FashionistaRTX",
       "discordURL": "https://discord.gg/iAmModlist",
       "websiteURL": "https://iunpause.com/"
     },
     "download_metadata": {
-      "Hash": "CzD2izJegWs=",
-      "Size": 566933010,
-      "NumberOfArchives": 115,
-      "SizeOfArchives": 17403148954,
-      "NumberOfInstalledFiles": 135795,
-      "SizeOfInstalledFiles": 25544110618,
-      "TotalSize": 42947259572
+      "Hash": "0EpbCCyRvPI=",
+      "Size": 1496960,
+      "NumberOfArchives": 5307,
+      "SizeOfArchives": 12906617526,
+      "NumberOfInstalledFiles": 24974,
+      "SizeOfInstalledFiles": 17645753399,
+      "TotalSize": 30552370925
     },
     "version": "0.0.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-11-05T04:28:26.3094122Z",
+    "dateUpdated": "2026-03-04T03:35:57.7057563Z",
     "repositoryName": ""
   }
 ]
