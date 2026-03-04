@@ -2,9 +2,188 @@
 
 Links to all the mods used as well as what options to download, if you are having issues with the auto downloader.
 
-- [VTMBup115.34.exe](https://www.nexusmods.com/vampirebloodlines/mods/80)
-  - VTMBup115.exe
-- [VTMB HD Overhaul](https://www.nexusmods.com/vampirebloodlines/mods/234)
+- 1dark_malk_girl.zip (ModDB)
+  - 1dark_malk_girl.zip
+- AAFVentrue.rar (ModDB)
+  - AAFVentrue.rar
+- Added [Malkavian Whispers UPgraded](https://www.nexusmods.com/vampirebloodlines/mods/369)
+  - Malkavian Whispers UPgraded-369-1-0-1762058485.zip
+  - Malkavian Whispers UPgraded for VtMB HD Overhaul-369-1-0-1762058616.zip
+  - Malkavian Whispers UPgraded for VtMB HD Overhaul-369-1-1-1762064472.zip
+- Allison Mayer Brujah PC Skin (Nexus)
+  - Brujah Skin
+- Aristocratic Nosferatu by Marius217 - Male (Nexus)
+  - Aristocratic nosferatu by marius217
+- Art Texture Pack (Nexus)
+  - Art Texture Pack 1.01
+  - Red Dragon art pack add-on
+- Beautiful Monster - Female Hands Retexture (Nexus)
+  - Beautiful Monster - Female Hands Retexture
+- Better lockpicking icons for UP (Nexus)
+  - Lockpicking icons for UP
+- Bisexual Utopia (Nexus)
+  - Bisexual Utopia
+- Boombox reskin (Nexus)
+  - Boombox reskin - animated clock
+- BRUJAH 2.0 by Marius217 (Nexus)
+  - Brujah 2.0 BY Marius217
+- Brujah Connor Mclaud The Highlander. (Nexus)
+  - Brujah Connor Mclaud The Highlander by Marius217
+- Brujah Vampire rexture - Male (Nexus)
+  - Vampire Brujah my version Marius 217
+- Carpet Texture Pack (Nexus)
+  - Carpet Texture Pack
+  - TFN 1.6 texture bug fix 1.1
+- Character eyes Improved (Nexus)
+  - Character Eyes Improved
+- Clan-specific interface (Nexus)
+  - Nosferatu Interface
+  - Toreador interface
+  - Ventrue Interface
+- Companion Mod Core Edition (Nexus)
+  - Companion Mod Core Edition
+- Corporate Goth - Ventrue - Female (Nexus)
+  - Corporate Goth
+- Dev0lved ENB (Nexus)
+  - dev0lved_enb_v1.2.zip
+- demonastery_female_t.zip (ModDB)
+  - demonastery_female_t.zip
+- E Mesh Edit (Nexus)
+  - E Mesh Edit
+- FemMalk_Package_2_-_Copy.rar (ModDB)
+  - FemMalk_Package_2_-_Copy.rar
+- Female Brujah Replacement Pack (Nexus)
+  - Mod
+- Female Brujah by Skeletoff (Nexus)
+  - NightIsBlack
+- Female Gangrel by Marius217 (Nexus)
+  - Female Gangrel by Marius217
+- Female_Malkavian_Armor_0_Reskin.zip (ModDB)
+  - Female_Malkavian_Armor_0_Reskin.zip
+- Fashionista Nosferatu - Female (Nexus)
+  - Fashionista Nosferatu
+- Food Texture Pack (Nexus)
+  - Food Texture Pack
+- Golden_Rose_v1.5.7z (ModDB)
+  - Golden_Rose_v1.5.7z
+- HD GROUNDS WIP (Nexus)
+  - HD Grounds morestuff
+  - HD Grounds part 2
+  - HDGrounds Hotfix
+- Hooded gangmember black gray retexture (Nexus)
+  - Gangmember Dark Retex Main File
+- HQ Music Tracks (Nexus)
+  - Main Songs HQ
+- Insane_Jane_by_sacerdos.rar (ModDB)
+  - Insane_Jane_by_sacerdos.rar
+- JOKER BRUJAH - Male (Nexus)
+  - vampire Joker brujah
+- Jenya's female toreador pc overhaul - Female (Nexus)
+  - Jenya's female toreador pc
+- LA Nights Realistic Lighting ENB WABBAJACK_ALWAYS_ENABLE (Nexus)
+  - LA Nights ENB - Main File
+- Latex Dictator Malkavian - Leatherpants - Female (Nexus)
+  - Latex Dictator Malkavian
+- Libertarian Ventrue - Male (Nexus)
+  - Libertarian Ventrue
+- Lily UV map fix (Nexus)
+  - Lily UV map fix
+- Malk_goth_girl.zip (ModDB)
+  - Malk_goth_girl.zip
+- Malkavian Goth Female (Nexus)
+  - Malkavian Goth Female-378-0-0-1-1762653025.7z
+- Malkavian Noir - Female Armor 1 - Female (Nexus)
+  - malk_noir
+- Malkavian Whispers (Nexus)
+  - MalkWhispers
+- Malkavian female model (yet another update) 0 - Female (Nexus)
+  - Malkavian_female_24.12.2023
+- Modified Armand for AlexanderLavuan (Nexus)
+  - ToreadorAlexanderLavuan
+- Modern female toreador female(Fixed) (Nexus)
+  - ModernTorFemale(Fixed)
+- MR DAMP by Marius217 - Gangrel Male (Nexus)
+  - Vampire Malkavian Gangrel tremere Toreador by Marius217
+- MR DAMP by Marius217 - Malkavian - Male (Nexus)
+  - Vampire Malkavian Gangrel tremere Toreador by Marius217
+- MR DAMP by Marius217 - Tremere - Male (Nexus)
+  - Vampire Malkavian Gangrel tremere Toreador by Marius217
+- MR DAMP by Marius217 - Toreador - Male (Nexus)
+  - Vampire Malkavian Gangrel tremere Toreador by Marius217
+- Neu ventrue (Nexus)
+  - Neu Ventrue-371-1-1762325963.rar
+- NightIsBlack.rar (ModDB)
+  - NightIsBlack.rar
+- No-Intro (Skip Startup - Splash Videos) (Nexus)
+  - VTMBNo-IntroFix
+- Nocturnal Excess (ENB-ReShade) (Nexus)
+  - Nocturnal Excess (ENB-ReShade)
+- NPCs Improved - Chinatown (Nexus)
+  - Chinatown
+  - Downtown
+  - Hollywood
+  - Other
+  - Santa Monica.
+- Overhauled First-Person Hands Models (Nexus)
+  - overhauled first-person hands models
+- ProudStannerman Tremere and Toreador (Nexus)
+  - ProudStannerman Toreador-376-1-1762488690.rar
+- Player Characters improved - Do not disable (Nexus)
+  - Player Characters Improved
+- ProudStannerman Tremere and Toreador (duplicate) (Nexus)
+  - ProudStannerman Toreador-376-1-1762488690.rar
+- r.rar (ModDB)
+  - r.rar
+- Raving Malkavian (Nexus)
+  - Raving Malkavian
+- Remixed Menu Music For Vampire The Masquerade - Bloodlines (Nexus)
+  - Remixed Menu Music For VtMB
+- rats replacement (useless but cute) (Nexus)
+  - Rats replacement
+- Selene from Underworld for Brujah (Nexus)
+  - Underworld Selene for Brujah
+- Slick Ventrue - Ventrue - Male (Nexus)
+  - Slick Ventrue
+- Street Sign Texture Pack (Nexus)
+  - Street Sign Texture Pack
+- Subtle Female Malkavian (Nexus)
+  - Subtle Female Malkavian
+  - Hatemiser's Tweaks
+- Sweet Heather by Skeletoff (Nexus)
+  - Sweet Heather by Skeletoff
+- Those Goth Kids - Dancers Pack (Nexus)
+  - Those Goth Kids - Dancers Pack
+  - Cybergoth Girl
+- Throwing a bone for the Canines (Nexus)
+  - Throwing a bone for the canines
+- TOREADORABLE (Nexus)
+  - TOREADORABLE
+- Toreador Female By Marius217 (Nexus)
+  - toreador Female by Marius217
+- Toreador Lestat By Marius217 - Male (Nexus)
+  - toreador Lestat by Marius217
+- toreador_reskin_beta.zip (ModDB)
+  - toreador_reskin_beta.zip
+- Truly Soaking- A Lethal Soak Mod (Nexus)
+  - True Soak
+- Tremere_Pack.zip (ModDB)
+  - Tremere_Pack.zip
+- Tremere Jerry Dandridge's skin Pc - Male (Nexus)
+  - vampire tremere Jerry Dandridge (Fright Night) by Marius217
+- Tremere skin Model by Marius217 - Male (Nexus)
+  - vampire tremere Dark by Marius217
+  - vampire tremere Head Fixx by Marius217
+- Tremere skin Model Red by Marius217 - Male (Nexus)
+  - vampire Tremere Male my version original by Marius217
+- Tremere with a Beard - Male (Nexus)
+  - Tremere With a Beard
+- Truly Soaking- A Lethal Soak Mod (duplicate) (Nexus)
+  - True Soak
+- Uninterrupted background music (Nexus)
+  - Uninterrupted BGM
+- VTMB - Arsenel Mod by lenusk (Nexus)
+  - Arsenel Mod by lenusk - Fixed Translation
+- VTMB HD Overhaul (Nexus)
   - Optional files
     - Brighter UI
     - Code Files
@@ -14,185 +193,27 @@ Links to all the mods used as well as what options to download, if you are havin
     - UI UX Separation
     - World Texture Separation 1 3
     - World Texture Separation 2 3
-- [NPCs Improved - Chinatown](https://www.nexusmods.com/vampirebloodlines/mods/165)
-  - Chinatown
-  - Downtown
-  - Hollywood
-  - Other
-  - Santa Monica.
-- [Character eyes Improved](https://www.nexusmods.com/vampirebloodlines/mods/164)
-  - Character Eyes Improved
-- [E Mesh Edit](https://www.nexusmods.com/vampirebloodlines/mods/238)
-  - E Mesh Edit
-- [Lily UV map fix](https://www.nexusmods.com/vampirebloodlines/mods/237)
-  - Lily UV map fix
-- [Rats replacement (useless but cute)](https://www.nexusmods.com/vampirebloodlines/mods/272)
-  - Rats replacement
-- [Overhauled First-Person Hands Models](https://www.nexusmods.com/vampirebloodlines/mods/271)
-  - overhauled first-person hands models
-- [Beautiful Monster - Female Hands Retexture](https://www.nexusmods.com/vampirebloodlines/mods/74)
-  - Beautiful Monster - Female Hands Retexture
-- [Street Sign Texture Pack](https://www.nexusmods.com/vampirebloodlines/mods/106)
-  - Street Sign Texture Pack
-- [Venus Retextured](https://www.nexusmods.com/vampirebloodlines/mods/16)
-  - Venus Retexture
-- [Seduce dialogs for males](https://www.nexusmods.com/vampirebloodlines/mods/38)
-  - SeduceDialogsForMales
-- [Bisexual Utopia](https://www.nexusmods.com/vampirebloodlines/mods/314)
-  - Bisexual Utopia
-- [Uninterrupted background music](https://www.nexusmods.com/vampirebloodlines/mods/303)
-  - Uninterrupted BGM
-- [HQ Music Tracks](https://www.nexusmods.com/vampirebloodlines/mods/324)
-  - Main Songs HQ
-- [VtM Bloodlines Sound Overhaul](https://www.nexusmods.com/vampirebloodlines/mods/295)
+- VTMBup115.34.exe (Nexus)
+  - VTMBup115.exe
+- VtMB_beta_Jeanette_textures_for_Female_Malk.zip (ModDB)
+  - VtMB_beta_Jeanette_textures_for_Female_Malk.zip
+- VtM Bloodlines Sound Overhaul (Nexus)
   - Sound Overhaul
-- [Remixed Menu Music For Vampire The Masquerade - Bloodlines](https://www.nexusmods.com/vampirebloodlines/mods/334)
-  - Remixed Menu Music For VtMB
-- [Bloodlines Voices Remastered](https://www.nexusmods.com/vampirebloodlines/mods/307)
-  - Bloodlines Voices Remastered Mod Version 1.02
-  - Bloodlines Voices Remastered Mod Update 2
-  - Voices Remastered Mod - Unofficial Patch Add-on
-- [Malkavian Whispers](https://www.nexusmods.com/vampirebloodlines/mods/280)
-  - MalkWhispers
-- [No-Intro (Skip Startup - Splash Videos)](https://www.nexusmods.com/vampirebloodlines/mods/266)
-  - VTMBNo-IntroFix
-- [Better lockpicking icons for UP](https://www.nexusmods.com/vampirebloodlines/mods/308)
-  - Lockpicking icons for UP
-- [Clan-specific interface](https://www.nexusmods.com/vampirebloodlines/mods/284)
-  - Nosferatu Interface
-  - Toreador interface
-  - Ventrue Interface
-- [Player Characters improved - Do not disable](https://www.nexusmods.com/vampirebloodlines/mods/163)
-  - Player Characters Improved
-- [Brujah Vampire rexture - Male](https://www.nexusmods.com/vampirebloodlines/mods/117)
-  - Vampire Brujah my version Marius 217
-- [JOKER BRUJAH - Male](https://www.nexusmods.com/vampirebloodlines/mods/123)
-  - vampire Joker brujah
-- [MR DAMP by Marius217 - Gangrel Male](https://www.nexusmods.com/vampirebloodlines/mods/133)
-  - Vampire Malkavian Gangrel tremere Toreador by Marius217
-- [Latex Dictator Malkavian - Leatherpants - Female](https://www.nexusmods.com/vampirebloodlines/mods/285)
-  - Latex Dictator Malkavian
-- [Malkavian female model (yet another update) 0 - Female](https://www.nexusmods.com/vampirebloodlines/mods/286)
-  - Malkavian_female_24.12.2023
-- [Malkavian Noir - Female Armor 1 - Female](https://www.nexusmods.com/vampirebloodlines/mods/45)
-  - malk_noir
-- [Yuki Custom PC (Recovered) - malkavian Female](https://www.nexusmods.com/vampirebloodlines/mods/355)
-  - Yuki PC Skin
-- [The Crow Malkavian - Male](https://www.nexusmods.com/vampirebloodlines/mods/331)
-  - The Crow Malkavian 1.
-- [MR DAMP by Marius217 - Malkavian - Male](https://www.nexusmods.com/vampirebloodlines/mods/133)
-  - Vampire Malkavian Gangrel tremere Toreador by Marius217
-- [Fashionista Nosferatu - Female](https://www.nexusmods.com/vampirebloodlines/mods/318)
-  - Fashionista Nosferatu
-- [Tattooed Female Nosferatu - Female](https://www.nexusmods.com/vampirebloodlines/mods/142)
-  - Tattooed Female Nosferatu
-- [Aristocratic Nosferatu by Marius217 - Male](https://www.nexusmods.com/vampirebloodlines/mods/146)
-  - Aristocratic nosferatu by marius217
-- [Jenya's female toreador pc overhaul - Female](https://www.nexusmods.com/vampirebloodlines/mods/149)
-  - Jenya's female toreador pc
-- [Toreador Lestat By Marius217 - Male](https://www.nexusmods.com/vampirebloodlines/mods/159)
-  - toreador Lestat by Marius217
-- [MR DAMP by Marius217 - Toreador - Male](https://www.nexusmods.com/vampirebloodlines/mods/133)
-  - Vampire Malkavian Gangrel tremere Toreador by Marius217
-- [Tremere with a Beard - Male](https://www.nexusmods.com/vampirebloodlines/mods/279)
-  - Tremere With a Beard
-- [Tremere Jerry Dandridge's skin Pc - Male](https://www.nexusmods.com/vampirebloodlines/mods/113)
-  - vampire tremere Jerry Dandridge (Fright Night) by Marius217
-- [Tremere skin Model by Marius217 - Male](https://www.nexusmods.com/vampirebloodlines/mods/114)
-  - vampire tremere Dark by Marius217
-  - vampire tremere Head Fixx by Marius217
-- [Tremere skin Model Red by Marius217 - Male](https://www.nexusmods.com/vampirebloodlines/mods/116)
-  - vampire Tremere Male my version original by Marius217
-- [MR DAMP by Marius217 - Tremere - Male](https://www.nexusmods.com/vampirebloodlines/mods/133)
-  - Vampire Malkavian Gangrel tremere Toreador by Marius217
-- [Corporate Goth - Ventrue - Female](https://www.nexusmods.com/vampirebloodlines/mods/327)
-  - Corporate Goth
-- [VENTRUE FEMALE RESKIN - Female](https://www.nexusmods.com/vampirebloodlines/mods/277)
-  - Ventrue female reskin
-- [Libertarian Ventrue - Male](https://www.nexusmods.com/vampirebloodlines/mods/317)
-  - Libertarian Ventrue
-- [Vagabond Ventrue - Male](https://www.nexusmods.com/vampirebloodlines/mods/288)
+- Venus Retextured (Nexus)
+  - Venus Retexture
+- Vagabond Ventrue - Male (Nexus)
   - Vagabond Ventrue
-- [Slick Ventrue - Ventrue - Male](https://www.nexusmods.com/vampirebloodlines/mods/273)
-  - Slick Ventrue
-- [Wednesday Night - All Clans - Male and Female](https://www.nexusmods.com/vampirebloodlines/mods/48)
-  - wednesday_night
-- [Dev0lved ENB - Uncheck if you use another ENB](https://www.nexusmods.com/vampirebloodlines/mods/10)
-  - dev0lved_enb_v1.2.zip
-- [Nocturnal Excess (ENB-ReShade)](https://www.nexusmods.com/vampirebloodlines/mods/102)
-  - Nocturnal Excess (ENB-ReShade)
-- [LA Nights Realistic Lighting ENB WABBAJACK_ALWAYS_ENABLE](https://www.nexusmods.com/vampirebloodlines/mods/342)
-  - LA Nights ENB - Main File
-- [Unrealistically Realistic - Brighter](https://www.nexusmods.com/vampirebloodlines/mods/246)
-  - unreal_enb_final
-- [Unrealistically Realistic - The Works- RayTracing - Reshade - ENB - HDR](https://www.nexusmods.com/vampirebloodlines/mods/246)
-  - unreal_enb_final
-- [Art Texture Pack](https://www.nexusmods.com/vampirebloodlines/mods/75?tab=files)
-  - Art Texture Pack 1.01
-  - Red Dragon art pack add-on
-- [Carpet Texture Pack](https://www.nexusmods.com/vampirebloodlines/mods/152)
-  - Carpet Texture Pack
-  - TFN 1.6 texture bug fix 1.1
-- [Food Texture Pack](https://www.nexusmods.com/vampirebloodlines/mods/53)
-  - Food Texture Pack
-- [Furniture Texture Pack](https://www.nexusmods.com/vampirebloodlines/mods/88)
-  - Furniture Texture Pack - Base Pack 1.1
-  - Stained glass standing lamp
-- [HD GROUNDS WIP](https://www.nexusmods.com/vampirebloodlines/mods/34)
-  - HD Grounds morestuff
-  - HD Grounds part 2
-  - HDGrounds Hotfix
-- [Hooded gangmember black gray retexture](https://www.nexusmods.com/vampirebloodlines/mods/292)
-  - Gangmember Dark Retex Main File
-- [Boombox reskin](https://www.nexusmods.com/vampirebloodlines/mods/108)
-  - Boombox reskin - animated clock
-- [Sweet Heather by Skeletoff](https://www.nexusmods.com/vampirebloodlines/mods/212)
-  - Sweet Heather by Skeletoff
-- [Throwing a bone for the Canines](https://www.nexusmods.com/vampirebloodlines/mods/90)
-  - Throwing a bone for the canines
-- [Modified Armand for AlexanderLavuan](https://www.nexusmods.com/vampirebloodlines/mods/304)
-  - ToreadorAlexanderLavuan
-- [Subtle Female Malkavian](https://www.nexusmods.com/vampirebloodlines/mods/1)
-  - Subtle Female Malkavian
-  - Hatemiser&#39;s Tweaks
-- [Allison Mayer Brujah PC Skin](https://www.nexusmods.com/vampirebloodlines/mods/319)
-  - Brujah Skin
-- [Truly Soaking- A Lethal Soak Mod](https://www.nexusmods.com/vampirebloodlines/mods/360)
-  - True Soak
-- [VTMB - Arsenel Mod by lenusk](https://www.nexusmods.com/vampirebloodlines/mods/257)
-  - Arsenel Mod by lenusk - Fixed Translation
-- [Companion Mod Core Edition](https://www.nexusmods.com/vampirebloodlines/mods/138)
-  - Companion Mod Core Edition
-- [Those Goth Kids - Dancers Pack](https://www.nexusmods.com/vampirebloodlines/mods/81)
-  - Those Goth Kids - Dancers Pack
-  - Cybergoth Girl
-- [Female Gangrel by Marius217](https://www.nexusmods.com/vampirebloodlines/mods/186)
-  - Female Gangrel by Marius217
-- [Raving Malkavian](https://www.nexusmods.com/vampirebloodlines/mods/161)
-  - Raving Malkavian
-- [TOREADORABLE](https://www.nexusmods.com/vampirebloodlines/mods/219)
-  - TOREADORABLE
-- [Toreador Female By Marius217](https://www.nexusmods.com/vampirebloodlines/mods/188)
-  - toreador Female by Marius217
-- [Modern female toreador female(Fixed)](https://www.nexusmods.com/vampirebloodlines/mods/192)
-  - ModernTorFemale(Fixed)
-- [Toreador Louis By Marius217](https://www.nexusmods.com/vampirebloodlines/mods/160)
-  - toreador Louis by Marius217
-- [Female Brujah Replacement Pack](https://www.nexusmods.com/vampirebloodlines/mods/2)
-  - Mod
-- [Selene from Underworld for Brujah](https://www.nexusmods.com/vampirebloodlines/mods/33)
-  - Underworld Selene for Brujah
-- [BRUJAH 2.0 by Marius217](https://www.nexusmods.com/vampirebloodlines/mods/148)
-  - Brujah 2.0 BY Marius217
-- [BRUJAH 2.0 by Marius217](https://www.nexusmods.com/vampirebloodlines/mods/148)
-  - Brujah 2.0 BY Marius217
-- [Vampire Brujah By Marius217](https://www.nexusmods.com/vampirebloodlines/mods/132)
+- VENTRUE FEMALE RESKIN - Female (Nexus)
+  - Ventrue female reskin
+- Vampire Brujah By Marius217 (Nexus)
   - Pc for Brujah Male by Marius217
-- [Brujah Connor Mclaud The Highlander.](https://www.nexusmods.com/vampirebloodlines/mods/181)
-  - Brujah Connor Mclaud The Highlander by Marius217
-- [Female Brujah by Skeletoff](https://www.nexusmods.com/vampirebloodlines/mods/215)
-  - NightIsBlack
-- Added [Malkavian Whispers UPgraded](https://www.nexusmods.com/vampirebloodlines/mods/369)
-  - Malkavian Whispers UPgraded-369-1-0-1762058485.zip
-  - Malkavian Whispers UPgraded for VtMB HD Overhaul-369-1-0-1762058616.zip
-  - Malkavian Whispers UPgraded for VtMB HD Overhaul-369-1-1-1762064472.zip
+- VVskin01.rar (ModDB)
+  - VVskin01.rar
+- vampira.zip (ModDB)
+  - vampira.zip
+- Venues Retextured (typo original) (Nexus)
+  - Venus Retexture
+- Wednesday Night - All Clans - Male and Female (Nexus)
+  - wednesday_night
+- Yuki Custom PC (Recovered) - malkavian Female (Nexus)
+  - Yuki PC Skin
