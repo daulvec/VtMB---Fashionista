@@ -38,5 +38,44 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-02-24T15:42:53.1271931Z",
     "repositoryName": ""
+  },
+  {
+    "title": "Fashionista RTX Mod",
+    "description": "Auto install the RTX Mod for VtMB.",
+    "author": "iunPause",
+    "maintainers": [
+      "github/daulvec"
+    ],
+    "game": "vtmb",
+    "official": false,
+    "tags": [
+      "Steam"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/daulvec/VtMB---Fashionista/main/img/RTX.webp",
+      "readme": "https://iunpause.com/FashionistaRTX/Fashion-RTX.html",
+      "download": "",
+      "machineURL": "FashionistaRTX",
+      "discordURL": "https://discord.gg/iAmModlist",
+      "websiteURL": "https://iunpause.com/"
+    },
+    "download_metadata": {
+      "Hash": "CzD2izJegWs=",
+      "Size": 566933010,
+      "NumberOfArchives": 115,
+      "SizeOfArchives": 17403148954,
+      "NumberOfInstalledFiles": 135795,
+      "SizeOfInstalledFiles": 25544110618,
+      "TotalSize": 42947259572
+    },
+    "version": "0.0.3",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-11-05T04:28:26.3094122Z",
+    "repositoryName": ""
   }
 ]
