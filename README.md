@@ -5,7 +5,7 @@
 > [!IMPORTANT]
 > **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.**
 
-# Contents
+<!-- # Contents
 - [Fashionista](#fashionista)
 - [Contents](#contents)
   - [What is Fashionista?](#what-is-fashionista)
@@ -34,8 +34,7 @@
   - [Uninstalling Fashionista](#uninstalling-fashionista)
   - [Gameplay Guide](#gameplay-guide)
   - [Customizing the List](#customizing-the-list)
-- [Special Thanks](#special-thanks)
-
+- [Special Thanks](#special-thanks) -->
 
 ## What is Fashionista?
 
@@ -49,7 +48,7 @@ For a first playthrough, I would suggest the unofficial patch profile. It is jus
 ### When is the list updated?
 
 It's updated when someone tells me something is broken and I can fix it, I start another playthrough and look for new mods, or the Unofficial Patch updates.
-
+<!-- 
 ### Quick Links
 
 :file_folder: [Profiles](profiles.md)
@@ -66,9 +65,15 @@ It's updated when someone tells me something is broken and I can fix it, I start
 
 :clipboard: [Changelog](changelog.md)
 
-:memo: [List Creation](ListCreation.md)
+:memo: [List Creation](ListCreation.md) -->
+
+### Install the List
+
+You can find the [Instalation Guide HERE](https://iunpause.com/Fashionista/Fashionista.html)
 
 ### Need Support?
+
+For anything not found in the Readme please use Discord.
 
 Before you ask a question, please use the search functiond in Discord. There is a possiblity someone already asked the same or a similar question, and you may find what you are looking for in there.
 
@@ -81,7 +86,6 @@ Please make sure to ask your question in the appropriate channel
 
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/iAmModlist)
 
-
 ## Preface
 
 Some small notes about the list, the support, and troubleshooting:
@@ -92,7 +96,7 @@ Some small notes about the list, the support, and troubleshooting:
 4. We're modding an over 20-year-old game here, please temper your expectations some.
 5. Suggestions are fine, but I have looked at every single mod on the Nexus for the list, so there is a decent chance I looked at it and said no, or there are issues with adding it due to compatability. But there is always a chance, or it might be a new mod —they still do come out from time to time, or something I missed.
 
-## Hardware Requirements
+<!-- ## Hardware Requirements
 
 |             | CPU                                           | RAM                 | GPU                |
 |-------------|-----------------------------------------------|---------------------|--------------------|
@@ -105,16 +109,16 @@ It runs great with my system but it's probably fine on a potato.
 |             | Total Space   | Storage Type        |
 |-------------|--------------|---------------------|
 | **Minimum**     | 60GB         | SATA SSD            |
-| **Recommended** | 80GB         | NVMe SSD            |
+| **Recommended** | 80GB         | NVMe SSD            | -->
 
-Your installation must be on an ***internal*** SSD or M.2 drive. External SSDs & HDDs are too slow for modlists to run from, and I suggest an M.2 drive, otherwise load and launch times are a bit longer than you would want.
+<!-- Your installation must be on an ***internal*** SSD or M.2 drive. External SSDs & HDDs are too slow for modlists to run from, and I suggest an M.2 drive, otherwise load and launch times are a bit longer than you would want.
 
 ## You Will Need
 
 - A Nexus Premium account if you do not want to click install 100 times.
-- Patience
+- Patience -->
 
-## Pre-Installation
+<!-- ## Pre-Installation
 
 **This stuff needs to be done BEFORE starting the Wabbajack installation.**
 
@@ -149,7 +153,7 @@ Install the game either through Steam or GoG, both is fine.
 > You **HAVE** to have to have a clean install of the game or the list will not work.
 
 <!-- ![Steam Logo](img\Steam_Logo.png) -->
-<img src="img\Steam_Logo.png" alt="Stean Logo" width="200px">
+<!-- <img src="img\Steam_Logo.png" alt="Stean Logo" width="200px">
 
 ### Steam Specific Instructions
 
@@ -172,9 +176,9 @@ You want the manual version without the patch
 3. Then download the following 2 files
    - ```Vampire®: The Masquerade - Bloodlines™ (Part 1 of 2)``` 
    - ```Vampire®: The Masquerade - Bloodlines™ (Part 2 of 2)```
-4. Read the Install Section and uses these files for the install.
+4. Read the Install Section and uses these files for the install. --> -->
 
-## Installation
+<!-- ## Installation
 
 Installing the list has a couple of steps that you will have to follow for this to work.
 
@@ -234,7 +238,7 @@ Just delete the Fashionista folder and it'll be gone.
 
 ## Customizing the List
 
-[Go Here for more information on Customizing the list](CustomizeList.md)
+[Go Here for more information on Customizing the list](CustomizeList.md) -->
 
 # Special Thanks 
 Special Thanks to [Luca|EzioTheDeadPoet](https://github.com/EzioTheDeadPoet) for the assistance with the list, without him there would be no list.
