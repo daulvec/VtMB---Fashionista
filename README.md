@@ -5,36 +5,7 @@
 > [!IMPORTANT]
 > **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.**
 
-<!-- # Contents
-- [Fashionista](#fashionista)
-- [Contents](#contents)
-  - [What is Fashionista?](#what-is-fashionista)
-    - [Is this list suitable for a first time player?](#is-this-list-suitable-for-a-first-time-player)
-    - [When is the list updated?](#when-is-the-list-updated)
-    - [Quick Links](#quick-links)
-    - [Need Support?](#need-support)
-  - [Preface](#preface)
-  - [Hardware Requirements](#hardware-requirements)
-    - [Storage Space](#storage-space)
-  - [You Will Need](#you-will-need)
-  - [Pre-Installation](#pre-installation)
-    - [Install Microsoft Visual C++ Redistributable Packages](#install-microsoft-visual-c-redistributable-packages)
-    - [Setup your Antivirus](#setup-your-antivirus)
-    - [Install the game](#install-the-game)
-    - [Steam Specific Instructions](#steam-specific-instructions)
-      - [Disable Steam Overlay](#disable-steam-overlay)
-    - [GOG Specific Instructions](#gog-specific-instructions)
-      - [What Version to install](#what-version-to-install)
-  - [Installation](#installation)
-  - [Post-Installation](#post-installation)
-    - [Launch the game](#launch-the-game)
-    - [Creating a desktop shortcut](#creating-a-desktop-shortcut)
-  - [Alternative Profiles](#alternative-profiles)
-  - [Updating Fashionista](#updating-fashionista)
-  - [Uninstalling Fashionista](#uninstalling-fashionista)
-  - [Gameplay Guide](#gameplay-guide)
-  - [Customizing the List](#customizing-the-list)
-- [Special Thanks](#special-thanks) -->
+# The Readme and Installation Guide is now hosted at [iunPause.com](https://iunpause.com/Fashionista/Fashionista.html) 
 
 ## What is Fashionista?
 
@@ -48,24 +19,6 @@ For a first playthrough, I would suggest the unofficial patch profile. It is jus
 ### When is the list updated?
 
 It's updated when someone tells me something is broken and I can fix it, I start another playthrough and look for new mods, or the Unofficial Patch updates.
-<!-- 
-### Quick Links
-
-:file_folder: [Profiles](profiles.md)
-
-:exclamation: [Common Issues](ComonIssues.md)
-
-:video_game: [Gameplay Tips](Gameplay-Tips.md)
-
-:pencil2: [Customize List](CustomizeList,md)
-
-:womans_clothes: [Fashion - Outfits and Armors](Fashion.md)
-
-:file_folder: [Files](Files.md)
-
-:clipboard: [Changelog](changelog.md)
-
-:memo: [List Creation](ListCreation.md) -->
 
 ### Install the List
 
@@ -95,150 +48,6 @@ Some small notes about the list, the support, and troubleshooting:
 3. Do not expect a 100% polished, well-balanced, and "perfect" experience. I am but one person, even if it's just a small list... and this is a famously buggy game.
 4. We're modding an over 20-year-old game here, please temper your expectations some.
 5. Suggestions are fine, but I have looked at every single mod on the Nexus for the list, so there is a decent chance I looked at it and said no, or there are issues with adding it due to compatability. But there is always a chance, or it might be a new mod —they still do come out from time to time, or something I missed.
-
-<!-- ## Hardware Requirements
-
-|             | CPU                                           | RAM                 | GPU                |
-|-------------|-----------------------------------------------|---------------------|--------------------|
-| **What I have** | AMD Ryzen 7 5800X3D 8-Core Processor 3.40 GHz | 32GB DDR4 @ 3200MHz | AMD Radeon RX 6950 |
-
-It runs great with my system but it's probably fine on a potato.
-
-### Storage Space
-
-|             | Total Space   | Storage Type        |
-|-------------|--------------|---------------------|
-| **Minimum**     | 60GB         | SATA SSD            |
-| **Recommended** | 80GB         | NVMe SSD            | -->
-
-<!-- Your installation must be on an ***internal*** SSD or M.2 drive. External SSDs & HDDs are too slow for modlists to run from, and I suggest an M.2 drive, otherwise load and launch times are a bit longer than you would want.
-
-## You Will Need
-
-- A Nexus Premium account if you do not want to click install 100 times.
-- Patience -->
-
-<!-- ## Pre-Installation
-
-**This stuff needs to be done BEFORE starting the Wabbajack installation.**
-
-### Install Microsoft Visual C++ Redistributable Packages
-
-> [!CAUTION]
-> MO2 needs this — don't skip it.
->
-> [Download Visual C++ Redistributable Package.](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
-
-### Setup your Antivirus
-
-Before you say "I don't have an antivirus" — you do, it's built into Windows. You need to **__exclude your Wabbajack folder, base game folder and your Fashionista installation folder__** from your antivirus' real-time protection as it will interfere with your install. It can and will interfere whilst you are playing too, causing poor performance and obvious stuttering.
-
-> [!TIP]
-> How do I do this, you ask? [Click here to find out how.](https://support.microsoft.com/en-gb/windows/add-an-exclusion-to-windows-security-811816c0-4dfd-af4a-47e4-c301afe13b26)
-
-If you use another antivirus program, refer to their steps for adding an exclusion.
-
-***If you use Webroot, BitDefender, Norton or Kaspersky, I recommend you stop using these as these programs ***actively*** interfere with modlists even when they are excluded. Plus, you're wasting your money.***
-
-### Install the game
-Install the game either through Steam or GoG, both is fine.
-
-> [!CAUTION]
-> You don't need to run the game prior to installing the modlist.  
-> In fact, the game will not start on modern systems. The unofficial patch will fix this.  
->
-> **__DO NOT INSTALL THE UNOFFICIAL PATCH TO RUN THE GAME__**, Wabbajack will take care of that for you during modlist installation.
-
-> [!WARNING]
-> You **HAVE** to have to have a clean install of the game or the list will not work.
-
-<!-- ![Steam Logo](img\Steam_Logo.png) -->
-<!-- <img src="img\Steam_Logo.png" alt="Stean Logo" width="200px">
-
-### Steam Specific Instructions
-
-#### Disable Steam Overlay
-
-The Steam overlay is known to cause issues, especially when using ENBs. Do so by heading into Steam, right-clicking on Vampire: The Masquerade – Bloodlines in your game library and clicking **Properties** > **General** > **Deselect "Enable Steam Overlay while in-game"**.
-
-<img src="img\GOG-Logo.png" alt="GOG Logo" width="200px">
-
-### GOG Specific Instructions
-
-#### What Version to install
-
-> [!CAUTION]
-> Don't use the GOG Galaxy version of the game, it adds the unofficial patch and could possibly cause issues.
-
-You want the manual version without the patch
-1. Sign into GOG and go to the Account page [Here](https://www.gog.com/en/account)
-2. Us the Search bar to find the game I searched for ```Bloodlines``` then click on the game.
-3. Then download the following 2 files
-   - ```Vampire®: The Masquerade - Bloodlines™ (Part 1 of 2)``` 
-   - ```Vampire®: The Masquerade - Bloodlines™ (Part 2 of 2)```
-4. Read the Install Section and uses these files for the install. --> -->
-
-<!-- ## Installation
-
-Installing the list has a couple of steps that you will have to follow for this to work.
-
-Set the installation location to a folder on the root of a drive, something like `C:\Fashionista`. Do not install it to one of the protected folders such as `Program Files`, `Documents` or `Desktop`. The download location will have likely been filled in for you too — ensure it matches the directory you set for the installation location.
-
->[!Caution]
-> **__Make sure not to use any special characters in your folder name except for dashes (-).__** 
-> Wabbajack can't handle characters like [ ] in folder names.
-
-> [!TIP]
-> **I recommend you keep your downloads outside of the Fashionista installation folder.**  
-> If you ever need to reinstall the list, you won't have to download all the mods again.
-
-## Post-Installation
-
-After Wabbajack has given you the "installation successful" screen, you're free to close it.
-
-### Launch the game
-
-Start by opening the folder you installed the list into and then run MO2 by double-clicking `ModOrganizer.exe`.  
-Select **Fashionista** in the drop-down if it's not already selected and launch the game.
-
-![Fashionista launch](img/Launch.png)
-
-> [!WARNING]
-> **DO NOT UNDER ANY CIRCUMSTANCES RUN LOOT.**
->
-> The load order is exactly as intended out of the box and you do not need to change it.  
-
-Plus it only works for Skyrim so double don't use it.  
-
-### Creating a desktop shortcut
-
-Open MO2, ensure **Launch** is selected in the dropdown and click the "Shortcut" button. From the small dropdown menu, click "Desktop".  
-
-![Desktop Shortcut Creation](img/Shortcut.png)  
-
-## Alternative Profiles
-
-The default Fashionista Profile is the one I would suggest but if you want to try the others there is more information on them here.
-
-[Alternate Profiles Link](profiles.md)
-
-## Updating Fashionista
-
-When an update is released, please always check the [changelog](changelog.md) first. Backup your saves before you commit to any updates. Wabbajack doesn't usually touch save files, but it does have the ability to delete them if it wanted to.
-
-If you have added anything to this modlist at all, Wabbajack will also delete those. You should know how to stop it from doing this if you're going to add stuff to modlists.
-
-## Uninstalling Fashionista
-
-Just delete the Fashionista folder and it'll be gone.
-
-## Gameplay Guide
-
-[Gameplay Guide](Gameplay-Tips.md)
-
-## Customizing the List
-
-[Go Here for more information on Customizing the list](CustomizeList.md) -->
 
 # Special Thanks 
 Special Thanks to [Luca|EzioTheDeadPoet](https://github.com/EzioTheDeadPoet) for the assistance with the list, without him there would be no list.
