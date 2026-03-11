@@ -20,23 +20,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/daulvec/VtMB---Fashionista/main/img/Splash%20Design.webp",
       "readme": "https://github.com/daulvec/VtMB---Fashionista",
-      "download": "https://authored-files.wabbajack.org/Fashionista-2.1.5c.wabbajack_60f1e7bf-1a4a-4ef4-9ed6-da523e96ef30",
+      "download": "https://authored-files.wabbajack.org/Fashionista-2.1.6.wabbajack_bbddf794-ac60-40b8-9bbe-0f6e39eab39d",
       "machineURL": "Fashionista",
       "discordURL": "https://discord.gg/iAmModlist",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "dcxJA6mrNKY=",
-      "Size": 150001819,
+      "Hash": "sIROkVTsxkQ=",
+      "Size": 150001746,
       "NumberOfArchives": 500,
       "SizeOfArchives": 50239128380,
       "NumberOfInstalledFiles": 414975,
-      "SizeOfInstalledFiles": 70777895548,
-      "TotalSize": 121017023928
+      "SizeOfInstalledFiles": 70777895553,
+      "TotalSize": 121017023933
     },
-    "version": "2.1.5.3",
+    "version": "2.1.6",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-03-06T15:05:31.7833075Z",
+    "dateUpdated": "2026-03-11T16:05:30.1399025Z",
     "repositoryName": ""
   },
   {
@@ -62,7 +63,8 @@
       "download": "https://authored-files.wabbajack.org/Fashionista RTX Mod 0.1.1.wabbajack_b2778b7b-12ea-409d-9828-ae22fb0ae4a7",
       "machineURL": "FashionistaRTX",
       "discordURL": "https://discord.gg/iAmModlist",
-      "websiteURL": "https://iunpause.com/"
+      "websiteURL": "https://iunpause.com/",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "pF368IU0fS4=",
