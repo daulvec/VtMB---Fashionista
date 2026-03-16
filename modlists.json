@@ -24,7 +24,12 @@
       "machineURL": "Fashionista",
       "discordURL": "https://discord.gg/iAmModlist",
       "websiteURL": "",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "424570",
+        "slug": "d8yvch",
+        "domainName": "vampirebloodlines",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "sIROkVTsxkQ=",
