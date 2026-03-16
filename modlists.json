@@ -69,7 +69,12 @@
       "machineURL": "FashionistaRTX",
       "discordURL": "https://discord.gg/iAmModlist",
       "websiteURL": "https://iunpause.com/",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "424723",
+        "slug": "97vwcj",
+        "domainName": "vampirebloodlines",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "pF368IU0fS4=",
