@@ -78,4 +78,35 @@
     "dateUpdated": "2026-03-04T04:29:09.9684611Z",
     "repositoryName": ""
   }
+,
+  {
+    "title": "Fashionista - GOG",
+    "description": "A list to auto install the Unoffical Patch and selection of the best Mods for this amazing game (GOG).",
+    "author": "iunPause",
+    "maintainers": [
+      "github/daulvec"
+    ],
+    "game": "vtmb",
+    "official": false,
+    "tags": [
+      "GOG"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/daulvec/VtMB---Fashionista/main/img/Splash%20Design.webp",
+      "readme": "https://github.com/daulvec/VtMB---Fashionista",
+      "download": "",
+      "machineURL": "FashionistaGOG",
+      "discordURL": "https://discord.gg/iAmModlist",
+      "websiteURL": "https://iunpause.com/"
+    },
+    "version": "1.0",
+    "dateCreated": "",
+    "dateUpdated": "",
+    "repositoryName": ""
+  }
 ]
