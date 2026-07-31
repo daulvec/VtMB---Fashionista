@@ -20,23 +20,29 @@
     "links": {
       "image": "https://raw.githubusercontent.com/daulvec/VtMB---Fashionista/main/img/Splash%20Design.webp",
       "readme": "https://github.com/daulvec/VtMB---Fashionista",
-      "download": "https://authored-files.wabbajack.org/Fashionista-2.1.4.wabbajack_1b4a1a8f-a3fa-409e-824e-fbcbbdfe8348",
+      "download": "https://authored-files.wabbajack.org/Fashionista-2.2.4.wabbajack_f7fa3130-a2ca-4e97-8220-83e30bfb0674",
       "machineURL": "Fashionista",
       "discordURL": "https://discord.gg/iAmModlist",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": {
+        "collectionId": "424570",
+        "slug": "d8yvch",
+        "domainName": "vampirebloodlines",
+        "lastRevisionNumber": 10
+      }
     },
     "download_metadata": {
-      "Hash": "7C8G9WzyuS4=",
-      "Size": 148664635,
-      "NumberOfArchives": 492,
-      "SizeOfArchives": 41277445976,
-      "NumberOfInstalledFiles": 415585,
-      "SizeOfInstalledFiles": 60626230531,
-      "TotalSize": 101903676507
+      "Hash": "BIQEEep182U=",
+      "Size": 90261984,
+      "NumberOfArchives": 502,
+      "SizeOfArchives": 61953927652,
+      "NumberOfInstalledFiles": 460590,
+      "SizeOfInstalledFiles": 80388023949,
+      "TotalSize": 142341951601
     },
-    "version": "2.1.4",
+    "version": "2.2.4",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-03-05T05:36:28.002318Z",
+    "dateUpdated": "2026-07-12T19:32:41.355729Z",
     "repositoryName": ""
   },
   {
@@ -59,26 +65,31 @@
     "links": {
       "image": "https://raw.githubusercontent.com/daulvec/VtMB---Fashionista/main/img/RTX.webp",
       "readme": "https://iunpause.com/FashionistaRTX/Fashion-RTX.html",
-      "download": "https://authored-files.wabbajack.org/Fashionista RTX Mod 0.1.1.wabbajack_b2778b7b-12ea-409d-9828-ae22fb0ae4a7",
+      "download": "https://authored-files.wabbajack.org/Fashionista RTX Mod 0.1.2.wabbajack_9f2a0f52-7dcd-4b91-bdc7-4592c89d2d52",
       "machineURL": "FashionistaRTX",
       "discordURL": "https://discord.gg/iAmModlist",
-      "websiteURL": "https://iunpause.com/"
+      "websiteURL": "https://iunpause.com/",
+      "nexusCollection": {
+        "collectionId": "424723",
+        "slug": "97vwcj",
+        "domainName": "vampirebloodlines",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
-      "Hash": "pF368IU0fS4=",
-      "Size": 1497116,
-      "NumberOfArchives": 5307,
-      "SizeOfArchives": 12906617526,
-      "NumberOfInstalledFiles": 24980,
-      "SizeOfInstalledFiles": 17645767406,
-      "TotalSize": 30552384932
+      "Hash": "YhB4O1/7DuY=",
+      "Size": 1762445,
+      "NumberOfArchives": 5318,
+      "SizeOfArchives": 13584725217,
+      "NumberOfInstalledFiles": 27608,
+      "SizeOfInstalledFiles": 18972210221,
+      "TotalSize": 32556935438
     },
-    "version": "0.1.1",
+    "version": "0.1.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-03-04T04:29:09.9684611Z",
+    "dateUpdated": "2026-03-16T17:24:58.8664988Z",
     "repositoryName": ""
-  }
-,
+  },
   {
     "title": "Fashionista - GOG",
     "description": "A list to auto install the Unoffical Patch and selection of the best Mods for this amazing game (GOG).",
@@ -99,14 +110,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/daulvec/VtMB---Fashionista/main/img/Splash%20Design.webp",
       "readme": "https://github.com/daulvec/VtMB---Fashionista",
-      "download": "",
+      "download": "https://authored-files.wabbajack.org/Fashionista-2.2.4.wabbajack_f7fa3130-a3fa-409e-824e-fbcbbdfe8348",
       "machineURL": "FashionistaGOG",
       "discordURL": "https://discord.gg/iAmModlist",
       "websiteURL": "https://iunpause.com/"
     },
-    "version": "1.0",
-    "dateCreated": "",
-    "dateUpdated": "",
+    "download_metadata": {
+      "Hash": "BIQEEep182U=",
+      "Size": 90261984,
+      "NumberOfArchives": 502,
+      "SizeOfArchives": 61953927652,
+      "NumberOfInstalledFiles": 460590,
+      "SizeOfInstalledFiles": 80388023949,
+      "TotalSize": 142341951601
+    },
+    "version": "2.2.4",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-07-12T19:32:41.355729Z",
     "repositoryName": ""
   }
 ]
+
