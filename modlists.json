@@ -114,7 +114,12 @@
       "machineURL": "FashionistaGOG",
       "discordURL": "https://discord.gg/iAmModlist",
       "websiteURL": "https://iunpause.com/",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "504358",
+        "slug": "puh7u0",
+        "domainName": "vampirebloodlines",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "AUYaL3j+jE8=",
